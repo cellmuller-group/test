@@ -1,0 +1,49 @@
+<h2 class="ttl-article-sub">注目記事</h2>
+<ul class="articleRank">
+	<li>
+<div class="articleRank-img"> <img src="../images/post361_top.jpg" width="100" height="auto" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 life">暮らし</p>
+            <h4 class="ttl-articleRank"><a href="/carna/life/post361.html">認知症予防のために</a></h4>
+        </div>
+    </li>
+	<li>
+<div class="articleRank-img"> <img src="../images/post360_top.jpg" width="100" height="auto" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 life">暮らし</p>
+            <h4 class="ttl-articleRank"><a href="/carna/life/post360.html">家族が認知症になったら</a></h4>
+        </div>
+    </li>
+	<li>
+<div class="articleRank-img"> <img src="../images/post356_top.jpg" width="100" height="auto" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 worry">心配事</p>
+            <h4 class="ttl-articleRank"><a href="/carna/worry/post356.html">【FP監修】アルツハイマー型認知症新薬「レカネマブ」とは？</a></h4>
+        </div>
+    </li>
+	<li>
+<div class="articleRank-img"> <img src="../images/post355_top.jpg" width="100" height="auto" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 lifestage">ライフステージ</p>
+            <h4 class="ttl-articleRank"><a href="/carna/lifestage/post355.html">【FP監修】出産費用が値上げ？その背景は</a></h4>
+        </div>
+    </li>
+	<li>
+<div class="articleRank-img"> <img src="../images/post260_top.jpg" width="100" height="auto" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 life">暮らし</p>
+            <h4 class="ttl-articleRank"><a href="/carna/life/post260.html">【FP監修】源泉徴収票の見方をご存知ですか？</a></h4>
+        </div>
+    </li>
+    </ul>
+
+<script>
+$(function() {
+
+//ビックアリンク
+  $('.article-list-box').biggerlink();
+  $('.articleRank li').biggerlink();
+
+});
+
+</script> 

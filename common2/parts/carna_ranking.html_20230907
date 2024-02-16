@@ -1,0 +1,65 @@
+<h2 class="ttl-article-sub">人気記事ランキング</h2>
+<ul class="articleRank">
+	<li>
+		<div class="articleRank-img">
+            <img class="p-a" src="/carna/img/rank-1.png" width="35" height="35" alt="1">
+            <img src="/carna/images/post133_square.jpg" width="100" height="100" alt="">
+		</div>
+		<div class="articleRank-txt">
+			<p class="ico-article life mb-10">暮らし</p>
+			<h4 class="ttl-articleRank"><a href="/carna/life/post133.html" onmousedown="ga('send','event','hokenmarket_carna','ranking02');">健康保険の種類とは？　保険証を見ればどの保険に入っているかわかります</a></h4>
+        </div>
+	</li>
+    <li>
+    	<div class="articleRank-img">
+        	<img class="p-a" src="/carna/img/rank-2.png" width="35" height="35" alt="1">
+            <img src="/carna/images/post192_square.jpg" width="100" height="100" alt="">
+		</div>
+    	<div class="articleRank-txt">
+			<p class="ico-article life mb-10">暮らし</p>
+    		<h4 class="ttl-articleRank"><a href="/carna/life/post192.html" onmousedown="ga('send','event','hokenmarket_carna','ranking01');">健康保険には複数の種類がある！いまさら聞けない健康保険の基礎知識</a></h4>
+    	</div>
+    </li>
+    <li>
+    	<div class="articleRank-img">
+        	<img class="p-a" src="/carna/img/rank-3.png" width="35" height="35" alt="1">
+            <img src="/carna/images/post213_square.jpg" width="100" height="100" alt="">
+		</div>
+    	<div class="articleRank-txt">
+			<p class="ico-article worry mb-10">心配事</p>
+            <h4 class="ttl-articleRank"><a href="/carna/worry/post213.html" onmousedown="ga('send','event','hokenmarket_carna','ranking05');">いくらぐらいかかる？抗がん剤治療の費用
+</a></h4>
+    	</div>
+    </li>
+    <li>
+    	<div class="articleRank-img">
+        	<img class="p-a" src="/carna/img/rank-4.png" width="35" height="35" alt="1">
+            <img src="/carna/images/post223_square.jpg" width="100" height="100" alt="">
+		</div>
+    	<div class="articleRank-txt">
+			<p class="ico-article insurance mb-10">保 険</p>
+            <h4 class="ttl-articleRank"><a href="/carna/insurance/post223.html" onmousedown="ga('send','event','hokenmarket_carna','ranking05');">払済保険とは？仕組みをわかりやすく解説します</a></h4>
+    	</div>
+    </li>
+    <li>
+    	<div class="articleRank-img">
+        	<img class="p-a" src="/carna/img/rank-5.png" width="35" height="35" alt="1">
+            <img src="/carna/images/post260_square.jpg" width="100" height="100" alt="">
+		</div>
+    	<div class="articleRank-txt">
+			<p class="ico-article life mb-10">暮らし</p>
+    		<h4 class="ttl-articleRank"><a href="/carna/life/post260.html" onmousedown="ga('send','event','hokenmarket_carna','ranking03');">源泉徴収票の見方をご存知ですか？各項目について解説</a></h4>
+    	</div>
+    </li>
+</ul>
+
+<script>
+$(function() {
+
+//ビックアリンク
+$('.article-list-box').biggerlink();
+$('.articleRank li').biggerlink();
+
+});
+
+</script> 

@@ -1,0 +1,27 @@
+<div class="category">
+	<h2 class="ttl-category">カテゴリー</h2>
+    <ul class="category-list cf">
+        <li class="ico-article insurance"> <a href="/carna/insurance/">保 険</a> </li>
+        <li class="ico-article money"> <a href="/carna/money/">お 金</a> </li>
+        <li class="ico-article woman"> <a href="/carna/woman/">女 性</a> </li>
+        <li class="ico-article health"> <a href="/carna/health/">健 康</a> </li>
+        <li class="ico-article children"> <a href="/carna/children/">子 供</a> </li>
+        <li class="ico-article-ls lifestage"> <a href="/carna/lifestage/">ライフステージ</a> </li>
+        <li class="ico-article-3 worry"> <a href="/carna/worry/">心配事</a> </li>
+        <li class="ico-article-3 life"> <a href="/carna/life/">暮らし</a> </li>
+    </ul>
+</div>
+
+<div class="sp-category">
+	<h2 class="sp-category-title">カテゴリー一覧</h2>
+    <ul class="sp-category-list cf">
+        <li class="ico-article insurance"><a href="/carna/insurance">保 険</a></li>
+        <li class="ico-article money"><a href="/carna/money/">お 金</a></li>
+        <li class="ico-article woman"><a href="/carna/woman/">女 性</a></li>
+        <li class="ico-article health"><a href="/carna/health/">健 康</a></li>
+        <li class="ico-article children"><a href="/carna/children/">子 供</a></li>
+        <li class="ico-article-ls lifestage"><a href="/carna/lifestage/">ライフステージ</a></li>
+        <li class="ico-article-3 worry"><a href="/carna/worry/">心配事</a></li>
+        <li class="ico-article-3 life"><a href="/carna/life/">暮らし</a></li>
+    </ul>
+</div>

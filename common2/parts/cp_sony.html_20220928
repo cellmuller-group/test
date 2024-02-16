@@ -1,0 +1,32 @@
+<div class="view_timer" data-start-date="2021/10/01 00:00" data-end-date="2022/04/01 00:00">
+	<a href="http://www.sonysonpo.co.jp/auto/campaign/acmp097.html" target="_blank" rel="noopener"><img src="img/bnr_sonysonpo_car.jpg" alt=""></a>
+</div><div class="view_timer" data-start-date="2022/04/01 00:00" data-end-date="2022/10/01 00:00">
+	<a href="http://www.sonysonpo.co.jp/auto/campaign/acmp104.html" target="_blank" rel="noopener"><img src="img/bnr_sonysonpo_car_20220401.jpg" alt=""></a>
+</div>
+            
+<script>
+$(document).ready(function() {
+  $(".view_timer").each(function(index, target) {
+    var startDate = $(this).attr("data-start-date");
+    var endDate = $(this).attr("data-end-date");
+    var nowDate = new Date();
+
+    if (startDate) {
+      startDate = new Date(startDate);
+    }
+    else {
+      startDate = nowDate;
+    }
+    if (endDate) {
+      endDate = new Date(endDate);
+    }
+
+    if (startDate <= nowDate && (!endDate || nowDate <= endDate)) {
+      $(this).show();
+    }
+    else {
+      $(this).hide();
+    }
+  });
+});
+</script> 

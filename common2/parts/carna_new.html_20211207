@@ -1,0 +1,51 @@
+<h4 class="NewsCarnaLogo">
+	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+		<ul class="carnaNews">
+            <li>
+                 <a href="/carna/detail/post45.html" onMouseDown="ga('send','event','hokenmarket_top','car85');">
+                    <p class="newsKodomo">子 供</p>
+                    <img src="/carna/detail/img/50/post45_top.jpg" alt="" />
+                    <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>大学進学にかかるお金は公的支援や学資保険でカバー</h4>
+                    <p>子どもの教育費は事前に準備しておくのが基本ですが、いざという時に足りなくなったら･･･</p>
+                    <time class="time" datetime="2019-10-31">2019.10.31　更新日：2021.11.24</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post111.html" onMouseDown="ga('send','event','hokenmarket_top','car84');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/150/post111_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>他人事ではない！増加する自転車事故には保険で備えを</h4><br>
+                    <p>買物や通勤などに欠かせないのが自転車ですよね。しかし、自動車と違って、自転車には･･･</p>
+                    <time class="time" datetime="2018-05-07">2018.05.07　更新日：2021.11.17</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post205.html" onMouseDown="ga('send','event','hokenmarket_top','car83');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/250/post205_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>保険料控除を上手に使おう！介護医療保険料控除について紹介します</h4>
+                    <p>所得税や住民税が減額される生命保険料控除の区分に、平成24年より「介護医療保険料控除」･･･</p>
+                    <time class="time" datetime="2020-07-30">2021.11.10</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post94.html" onMouseDown="ga('send','event','hokenmarket_top','car82');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/100/post94_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>おすすめのバイク保険を比較！任意保険には入るべき？</h4>
+                    <p>バイク保険について、どの程度ご存知ですか？自賠責保険は加入が義務づけられていますが･･･</p>
+                    <time class="time" datetime="2020.11.30">2020.11.30　更新日：2021.11.09</time>
+                </a>
+            </li>
+		</ul>
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

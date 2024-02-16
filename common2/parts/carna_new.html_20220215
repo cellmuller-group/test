@@ -1,0 +1,51 @@
+<h4 class="NewsCarnaLogo">
+	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+		<ul class="carnaNews">
+            <li>
+                 <a href="/carna/detail/post139.html" onMouseDown="ga('send','event','hokenmarket_top','car93');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/150/post139_top.jpg" alt=""  style="height:153px"/>
+                    <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>支払われた保険金にも税金がかかる？保険金が課税対象になる場合と計算方法を紹介！</h4>
+                    <p>「保険金にも税金ってかかるの？」と、疑問に思っている方は多いのではないでしょうか･･･</p>
+                    <time class="time" datetime="2017-12-20">2017.12.20　更新日：2022.02.09</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post99.html" onMouseDown="ga('send','event','hokenmarket_top','car92');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/100/post99_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>保険の種類にはどのようなものがあるかご存じですか？</h4>
+                    <p>生命保険、それは非常に重要なものです。しかし、一口に生命保険といっても、病気のとき･･･</p>
+                    <time class="time" datetime="2018-10-25">2018.10.25　更新日：2022.01.26</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post56.html" onMouseDown="ga('send','event','hokenmarket_top','car91');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/100/post56_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>1日(24時間)限定の自動車保険って何？</h4>
+                    <p>普段は運転しないけれど、親や友人に車を借りてときどき運転する機会がある、という人も･･･</p>
+                    <time class="time" datetime="2019-10-31">2019.10.31　更新日：2022.01.20</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post40.html" onMouseDown="ga('send','event','hokenmarket_top','car90');">
+                    <p class="newsJosei">女 性</p>
+                    <img src="/carna/detail/img/50/post40_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>不妊治療の費用は助成・保険でカバーできる？</h4>
+                    <p>厚生労働省によると、平成7年に27.5歳だった第1子の平均出産年齢は、平成27年には30.7歳･･･</p>
+                    <time class="time" datetime="2019-10-31">2019.10.31　更新日：2022.01.19</time>
+                </a>
+            </li>
+		</ul>
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

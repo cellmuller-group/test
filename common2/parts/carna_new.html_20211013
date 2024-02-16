@@ -1,0 +1,51 @@
+<h4 class="NewsCarnaLogo">
+	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+		<ul class="carnaNews">
+            <li>
+                 <a href="/carna/detail/post91.html" onMouseDown="ga('send','event','hokenmarket_top','car77');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/100/post91_top.jpg" alt="" />
+                    <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>条件に当てはまればメリット多し！イーデザイン損保の自動車保険</h4>
+                    <p>自動車保険を見直す時期になると、どの保険がよいのか迷うことはありませんか？･･･</p>
+                    <time class="time" datetime="2020-01-23">2020.01.23　更新日：2021.09.24</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post185.html" onMouseDown="ga('send','event','hokenmarket_top','car76');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/200/post185_top.jpg" alt="" />
+                    <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>事故を起こして気が動転する前に、知っておきたい交通事故証明書と保険会社の存在</h4><br>
+                    <p>自動車事故は、普段生活しているなかで考えたくないことのひとつでしょう。自分が･･･</p>
+                    <time class="time" datetime="2021-09-22">2021.09.22</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post217.html" onMouseDown="ga('send','event','hokenmarket_top','car75');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/250/post217_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>軽自動車はどのくらいお得？自賠責保険料についても忘れずに！</h4>
+                    <p>普通自動車に比べてリーズナブルなイメージが魅力の軽自動車。当記事では、軽自動車の維持費や･･･</p>
+                    <time class="time" datetime="2021-09-16">2021.09.16</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post269.html" onMouseDown="ga('send','event','hokenmarket_top','car74');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/300/post269_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>がん治療は医療保険だけでカバーできない？「がん保険」で安心！</h4>
+                    <p>ここでは、がんの医療費の自己負担額、医療費以外にかかる費用を紹介します。また、公的医療保険･･･</p>
+                    <time class="time" datetime="2019-11-07">2019.11.07　更新日：2021.09.09</time>
+                </a>
+            </li>
+		</ul>
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

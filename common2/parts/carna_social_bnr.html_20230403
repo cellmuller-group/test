@@ -1,0 +1,13 @@
+
+<div class="campaign_detail" data-start="2022/09/01 00:00" data-end="2023/01/01 00:00">
+    <div class="sid-bot-bnr">
+        <!-- オンライン相談
+        <a href="/shop/online/" onmousedown="ga('send','event','hokenmarket_carna','online_pc');"><img src="/carna/img/bnr_online_275x250.jpg" alt="イオンのほけんオンライン相談" style="margin-bottom:15px;"></a> -->
+        <a href="https://www.md1.jp/aeon/list/index.shtml?ag=010401&cd=V2205500&utm_source=aeon&utm_medium=display&utm_campaign=banner35" onmousedown="ga('send','event','hokenmarket_carna','mdcp_pc12');" target="_blank"><img src="/carna/img/bnr_mdcp_275x250_20221207.jpg" alt="三井ダイレクト損保キャンペーン" style="margin-bottom:15px;" width="275" height="250"></a>
+    </div>
+    <div class="sp-bot-bnr">
+        <!-- オンライン相談
+        <a href="/shop/online/" onmousedown="ga('send','event','hokenmarket_carna','online_sp');"><img src="/carna/img/bnr_online_336x106.jpg" alt="イオンのほけんオンライン相談" style="margin-bottom:30px;"></a> -->
+        <a href="https://www.md1.jp/aeon/list/index.shtml?ag=010401&cd=V2205500&utm_source=aeon&utm_medium=display&utm_campaign=banner35" onmousedown="ga('send','event','hokenmarket_carna','mdcp_sp12');" target="_blank"><img src="/carna/img/bnr_mdcp_336x106_20221207.jpg" alt="三井ダイレクト損保キャンペーン" style="margin-bottom:30px;" width="336" height="106"></a>
+    </div>
+</div>

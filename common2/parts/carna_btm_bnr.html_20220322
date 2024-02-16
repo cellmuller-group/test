@@ -1,0 +1,5 @@
+<ul class="banner cf">
+    <li> <a href="/" onmousedown="ga('send','event','hokenmarket_carna','bbnr01');"><img src="/carna/img/baner_aeon.png" width="336" height="106" alt=""></a> </li>
+    <li> <a href="/shop/" onmousedown="ga('send','event','hokenmarket_carna','bbnr02');"><img src="/carna/img/bnr_shop.jpg" width="342" height="130" alt=""></a> </li>
+    <!--<li> <a href="/mag/" onmousedown="ga('send','event','hokenmarket_carna','bbnr03');"><img src="/carna/img/bnr_mm.png" width="342" height="130" alt=""></a> </li>-->
+</ul>

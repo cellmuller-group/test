@@ -1,0 +1,57 @@
+<div id="contents">
+	<div class="LPWrapper">
+		<p class="textL">キャンペーンは終了しました<br>
+        <img src="/common2/img/common/cp_ended.png" alt=""></p>
+	</div><!--/ .LPWrapper-->
+</div><!--/ #contents-->
+
+<style>
+@charset "utf-8";
+
+.LPWrapper {
+	width: 1100px;
+	margin: 0 auto;
+	padding: 70px 0;
+}
+
+.textL {
+	text-align: center;
+	font-weight: bold;
+	font-size: 48px;
+	color: #b60081;
+	line-height: 2;
+}
+
+.textM {
+	text-align: center;
+	font-size: 18px;
+	line-height: 2;
+}
+.LPWrapper img{
+	text-align:center;
+	width:20%;
+	
+}
+
+@media screen and (max-width: 740px) {
+	.LPWrapper {
+		width: 100%;
+		margin: 0 auto;
+		padding: 20% 0;
+	}
+	
+	.textL {
+		text-align: center;
+		font-weight: bold;
+		font-size: 290%;
+		color: #b60081;
+		line-height: 2;
+	}
+	
+	.textM {
+		text-align: center;
+		font-size: 150%;
+		line-height: 2;
+	}
+}
+</style>

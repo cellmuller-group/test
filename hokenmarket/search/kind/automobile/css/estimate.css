@@ -1,0 +1,131 @@
+@charset "utf-8";
+
+
+
+/*-------------------------------
+
+layout overwrite
+
+-------------------------------*/
+.narrow #header {
+	width: 858px;
+	margin: 0 auto;
+	padding-right: 20px;
+	padding-left: 20px;
+	border-right: 1px solid #c1c1c1;
+	border-left: 1px solid #c1c1c1;	
+}
+.narrow #main {
+	width: 858px;
+	padding: 45px 20px 0;
+	border-right: 1px solid #c1c1c1;
+	border-left: 1px solid #c1c1c1;
+}
+.narrow #header #head {
+	width: 858px;
+	height: auto;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #b90086;	
+}
+.narrow #header #head p {
+	margin-bottom: 0;
+}
+.narrow #main {
+	padding-bottom: 20px;
+	border-bottom: 1px solid #c1c1c1;
+}
+.narrow #mainContents {
+	width: 858px;
+}
+
+
+/*-------------------------------
+
+PARTS
+
+-------------------------------*/
+/**** mainBlock ****/
+.mainBlock {
+	background-color: #def7fe;
+}
+.mainBlock .colWrap,
+.mainBlock .colWrap .col {
+	margin-bottom: 0;
+}
+
+/**** detailBlock ****/
+.detailBlock {
+	padding: 0 17px 0 19px;
+	background: #87b20b url(/search/kind/automobile/images/estimate_bg01.gif) 19px 0 repeat-y;
+}
+.detailBlock .inner {
+	padding: 37px 38px 60px;
+	background: url(/search/kind/automobile/images/estimate_bg02.gif) 0 100% no-repeat;
+}
+
+/**** cvBtn ****/
+.cvBtn {
+	text-align: center;
+}
+.section02 + .cvBtn {
+	margin-top: 30px;
+}
+
+/**** appealImage ****/
+.appealImage {
+	position: relative;
+	margin-bottom: 0;
+}
+.appealImage p {
+	margin-bottom: 0;
+}
+.appealImage .cvBtn {
+	position: absolute;
+	right: 0;
+	bottom: 43px;
+	width: 231px;
+}
+
+/**** bnList ****/
+.bnList li {
+	margin-bottom: 10px;
+	text-align: center;
+}
+.listStyle01 > li > .capList01 {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-weight: normal;
+}
+
+
+/*=================================
+
+	clearfix
+
+=================================*/
+
+***:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+
+*** {
+	display: block; /* for safari firefox3 */
+	min-height: 1%;  /* for IE 7*/
+	/zoom:1;
+}
+
+
+*:first-child+html *** {
+	display: inline-table;  /* for IE 7*/
+}
+
+
+
+
+
+
+

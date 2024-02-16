@@ -1,0 +1,51 @@
+<h4 class="NewsCarnaLogo">
+	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+		<ul class="carnaNews">
+            <li>
+                 <a href="/carna/detail/post234.html" onMouseDown="ga('send','event','hokenmarket_top','car88');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/250/post234_top.jpg" alt="" />
+                    <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>終身医療保険、賢く加入するための4つのポイント</h4><br>
+                    <p>日本は世界でもトップクラスの長寿国です。しかし、ある程度の年齢になったら、がんなどの長期･･･</p>
+                    <time class="time" datetime="2021-12-21">2021.12.21</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post214.html" onMouseDown="ga('send','event','hokenmarket_top','car87');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/250/post214_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>自損事故後の流れとポイント、対象となる保険を解説</h4>
+                    <p>カーブを曲がりきれず電柱に衝突したり、ガードレールにぶつかったりなど、単独で起こした事故･･･</p>
+                    <time class="time" datetime="2021-12-14">2021.12.14</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post28.html" onMouseDown="ga('send','event','hokenmarket_top','car86');">
+                    <p class="newsKenko">健 康</p>
+                    <img src="/carna/detail/img/50/post28_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>座りっぱなしのデスクワークは危険！腰痛や病気の対策をしよう！</h4>
+                    <p>デスクワークが多い仕事では、椅子に座ったまま動かないことが多く、運動不足になりがち･･･</p>
+                    <time class="time" datetime="2019-10-31">2019.10.31　更新日：2021.12.07</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post45.html" onMouseDown="ga('send','event','hokenmarket_top','car85');">
+                    <p class="newsKodomo">子 供</p>
+                    <img src="/carna/detail/img/50/post45_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>大学進学にかかるお金は公的支援や学資保険でカバー</h4>
+                    <p>子どもの教育費は事前に準備しておくのが基本ですが、いざという時に足りなくなったら･･･</p>
+                    <time class="time" datetime="2019-10-31">2019.10.31　更新日：2021.11.22</time>
+                </a>
+            </li>
+		</ul>
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

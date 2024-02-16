@@ -1,0 +1,52 @@
+<h4 class="NewsCarnaLogo">	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+
+		<ul class="carnaNews">
+            <li>
+                 <a href="/carna/woman/post09.html" onMouseDown="ga('send','event','hokenmarket_top','car123');">
+                    <p class="woman">女 性</p>
+                    <img src="/carna/images/post09_top.png" alt="" />
+                    <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>＜毎年10月はピンクリボン運動強化月間＞乳がん早期発見のカギは検診とセルフチェック！</h4>
+                    <p>女性の代表的な「がん」といえば、「乳がん」を想像される方も多いのでは･･</p>
+                    <time class="time" datetime="2018-12-13">2018.12.13　更新日：2022.09.14</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/life/post316.html" onMouseDown="ga('send','event','hokenmarket_top','car122');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post316_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>2022年10月社会保険の加入範囲拡大で何が変わるの？</h4>
+                    <p>2022年10月から、パートやアルバイト勤務など短時間労働者の社会保険加入範囲が拡大します。本記事では･･･</p>
+                    <time class="time" datetime="2022-09-07">2022.09.07</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/money/post310.html" onMouseDown="ga('send','event','hokenmarket_top','car121');">
+                    <p class="money">お 金</p>
+                    <img src="/carna/images/post310_top.jpg" alt=""/>
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>＜2022年10月最新版＞今日からできる！相次ぐ値上げを乗り切る方法</h4>
+                    <p>2022年は「値上げの年」と言われ、コロナや円安、原油・原材料費の高騰など、様々な･･･</p>
+                    <time class="time" datetime="2022-05-12">2022.05.12　更新日：2022.08.24</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/insurance/post274.html" onMouseDown="ga('send','event','hokenmarket_top','car120');">
+                    <p class="insurance">保 険</p>
+                    <img src="/carna/images/post274_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>マンションにおける火災保険 加入の必要性は？</h4>
+                    <p>マンションは耐火構造であるため、火災保険の必要性を感じない人もいるようです。マンションが火災に強い･･･</p>
+                    <time class="time" datetime="2019-10-31">2019.10.31　更新日：2022.08.18</time>
+                </a>
+            </li>
+		</ul>
+        
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

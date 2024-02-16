@@ -1,0 +1,47 @@
+<div class="view_timer" data-start-date="2024/01/01 00:00" data-end-date="2024/07/01 00:00">
+	<a href="http://www.sonysonpo.co.jp/auto/campaign/acmp119.html" target="_blank" rel="noopener"><img class="img_cpsm" src="/campaign01/sony/img/bnr_sonysonpo_car_240101.jpg" alt=""></a>
+</div>
+<div class="view_timer" data-start-date="2022/01/01 00:00" data-end-date="2024/01/01 00:00">
+	<a href="http://www.sonysonpo.co.jp/auto/campaign/acmp116.html" target="_blank" rel="noopener"><img class="img_cpsm" src="/campaign01/sony/img/bnr_sonysonpo_car_230607.jpg" alt=""></a>
+</div>
+<!--<div class="view_timer" data-start-date="2023/01/01 00:00" data-end-date="2023/07/01 00:00">
+	<a href="http://www.sonysonpo.co.jp/auto/campaign/acmp111.html" target="_blank" rel="noopener"><img src="/campaign01/sony/img/bnr_sonysonpo_car_20221227.jpg" alt=""></a>
+</div>-->
+<!--‚±‚êŽc‚·<div class="view_timer" data-start-date="2022/10/01 00:00" data-end-date="2023/01/01 00:00">
+	<a href="https://www.sonysonpo.co.jp/auto/campaign/acmp107.html" target="_blank" rel="noopener"><img src="/campaign01/sony/img/bnr_sonysonpo_car_20221001.jpg" alt=""></a>
+</div>-->
+
+<style>
+	.img_cpsm{
+		width: 100%;
+		height: auto;
+	}
+	
+</style>
+            
+<script>
+$(document).ready(function() {
+  $(".view_timer").each(function(index, target) {
+    var startDate = $(this).attr("data-start-date");
+    var endDate = $(this).attr("data-end-date");
+    var nowDate = new Date();
+
+    if (startDate) {
+      startDate = new Date(startDate);
+    }
+    else {
+      startDate = nowDate;
+    }
+    if (endDate) {
+      endDate = new Date(endDate);
+    }
+
+    if (startDate <= nowDate && (!endDate || nowDate <= endDate)) {
+      $(this).show();
+    }
+    else {
+      $(this).hide();
+    }
+  });
+});
+</script> 

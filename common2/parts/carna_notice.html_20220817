@@ -1,0 +1,49 @@
+<h2 class="ttl-article-sub">注目記事</h2>
+<ul class="articleRank">
+    <li>
+        <div class="articleRank-img"> <img src="../images/post315_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 life">暮らし</p>
+            <h4 class="ttl-articleRank"><a href="../life/post315.html">熱中症が増える時期のマスクはどうする？熱中症になった場合の備えは？</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="/carna/images/post314_top.jpg" width="100" alt=""></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 life">暮らし</p>
+            <h4 class="ttl-articleRank"><a href="../life/post314.html">円安の今、外貨建て保険の加入は損？</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="/carna/images/post313_top.jpg" width="100" alt=""></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 children">子 供</p>
+            <h4 class="ttl-articleRank"><a href="../children/post313.html">夏のレジャー 子どものケガに備える保険は？</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="../images/post312_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 insurance">保 険</p>
+            <h4 class="ttl-articleRank"><a href="../insurance/post312.html">2022年10月火災保険料が値上げされる？理由と対策方法</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="../images/post174_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 woman">女 性</p>
+            <h4 class="ttl-articleRank"><a href="../woman/post174.html">帝王切開で医療保険の給付を受けるには妊娠前の加入が必要</a></h4>
+        </div>
+    </li>
+</ul>
+
+<script>
+$(function() {
+
+//ビックアリンク
+  $('.article-list-box').biggerlink();
+  $('.articleRank li').biggerlink();
+
+});
+
+</script> 

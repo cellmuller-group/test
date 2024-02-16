@@ -1,0 +1,54 @@
+<h4 class="NewsCarnaLogo">	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+
+		<ul class="carnaNews">
+        <li>
+                 <a href="/carna/money/post325.html" onMouseDown="ga('send','event','hokenmarket_top','car139');">
+					<p class="money">お 金</p>
+                    <img src="/carna/images/post325_top.png" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】つみたてNISAとは？気になるポイントを解説！</h4>
+                    <p>将来に向けて、お金の準備をしていますか？</p>
+                    <time class="time" datetime="2023-02-20">2023.02.20</time>
+                </a>
+            </li>
+        <li>
+                 <a href="/carna/life/post329.html" onMouseDown="ga('send','event','hokenmarket_top','car138');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post329_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【専門家コラム】ドライブレコーダーはなぜ必要なのか？事例を紹</h4>
+                    <p>昨今では「必需品」とまで言われることもあるドライブレコーダー。ニュース映像などでも見かけることが多くなってきました。</p>
+                    <time class="time" datetime="2023-02-20">2023.02.20</time>
+                </a>
+            </li>
+        <li>
+                 <a href="/carna/money/post328.html" onMouseDown="ga('send','event','hokenmarket_top','car137');">
+					<p class="money">お 金</p>
+                    <img src="/carna/images/post328_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】何から始める？資産形成に役立つ金融商品</h4>
+                    <p>近年、「老後2,000万円問題」や「人生100年時代」が話題になり、長期的な資産形成の必要性が叫ばれています。</p>
+                    <time class="time" datetime="2023-02-03">2023.02.03</time>
+                </a>
+            </li>
+        <li>
+                 <a href="/carna/insurance/post117.html" onMouseDown="ga('send','event','hokenmarket_top','car136');">
+					<p class="insurance">保 険</p>
+                    <img src="/carna/images/post117_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】車の任意保険料にかかる金額はいくら？自動車保険料の平均値と、保険料を抑える方法</h4>
+                    <p>自動車保険の保険料はいくらぐらいが一般的なのでしょうか？</p>
+                    <time class="time" datetime="2021-02-25">2021.02.25　更新日：2023.01.31</time>
+                </a>
+            </li>
+
+        
+		</ul>
+        
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

@@ -1,0 +1,35 @@
+<div class="view_timer" data-start-date="2021/10/01 00:00" data-end-date="2022/04/01 00:00">
+    <div class="textbox01 mb10 smb3"><a href="#information"><img src="img/campaign_zurich_bnr_20211001.jpg" alt=""></a></div>
+    <div class="textbox01 mb30 smb3"><p>期間中、チューリッヒのネット専用自動車保険をご成約いただいた方に、10種類からえらべる「グルメギフトカード（1,000円相当）」をプレゼント！
+    <br>※イオン保険マーケットで自動車保険をお見積りいただき、キャンペーン期間中に新規ご契約いただいた方が対象です。</p></div>
+    <div class="cp_btn mb50 smb5"><a href="#information">
+    	<img src="img/campaign_zurich_btn02.gif" alt="キャンペーンの詳細はこちら"></a>
+   	</div>
+</div>
+
+<script>
+$(document).ready(function() {
+  $(".view_timer").each(function(index, target) {
+    var startDate = $(this).attr("data-start-date");
+    var endDate = $(this).attr("data-end-date");
+    var nowDate = new Date();
+
+    if (startDate) {
+      startDate = new Date(startDate);
+    }
+    else {
+      startDate = nowDate;
+    }
+    if (endDate) {
+      endDate = new Date(endDate);
+    }
+
+    if (startDate <= nowDate && (!endDate || nowDate <= endDate)) {
+      $(this).show();
+    }
+    else {
+      $(this).hide();
+    }
+  });
+});
+</script> 

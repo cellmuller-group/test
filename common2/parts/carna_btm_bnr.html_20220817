@@ -1,0 +1,29 @@
+<div class="campaign_detail" data-start="2022/03/10 00:00" data-end="2022/05/01 00:00">
+    <ul class="banner cf only-pc">
+        <li> <a href="/" onmousedown="ga('send','event','hokenmarket_carna','bbnr01');"><img src="/carna/img/baner_aeon.png" width="336" height="106" alt=""></a> </li>
+        <li> <a href="/shop/" onmousedown="ga('send','event','hokenmarket_carna','bbnr02');"><img src="/carna/img/bnr_shop.jpg" width="342" height="130" alt=""></a> </li>
+            <li><a href="/search/kind/automobile/estimate.html" onmousedown="ga('send','event','hokenmarket_carna','mitumo0310cp_pc');"><img src="/carna/img/bnr_estimate_336x106-3.jpg" style="width:100%;" width="336" height="106" alt="自動車保険一括見積キャンペーン" /></a></li>
+
+    </ul>
+</div>
+<div class="campaign_detail" data-start="2022/05/01 00:00" data-end="2023/01/01 00:00">
+    <ul class="banner cf only-pc">
+        <li> <a href="/" onmousedown="ga('send','event','hokenmarket_carna','bbnr01');"><img src="/carna/img/baner_aeon.png" width="336" height="106" alt=""></a> </li>
+        <li> <a href="/shop/" onmousedown="ga('send','event','hokenmarket_carna','bbnr02');"><img src="/carna/img/bnr_shop.jpg" width="342" height="130" alt=""></a> </li>
+
+    </ul>
+</div>
+<ul class="banner cf only-sp">
+    <li> <a href="/" onmousedown="ga('send','event','hokenmarket_carna','bbnr01');"><img src="/carna/img/baner_aeon.png" width="336" height="106" alt=""></a> </li>
+    <li> <a href="/shop/" onmousedown="ga('send','event','hokenmarket_carna','bbnr02');"><img src="/carna/img/bnr_shop.jpg" width="342" height="130" alt=""></a> </li>
+</ul>
+
+
+
+
+		<p id="gotoTop">
+			<a href="#top"><img src="/common2/img/common/toTop.png" alt="Go to Top"></a>
+		</p>
+        
+		<script type="text/javascript" src="/common2/js/common.js"></script> 
+		<script type="text/javascript" src="/carna/js/ChkExpirition.js"></script> 

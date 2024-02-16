@@ -1,0 +1,52 @@
+<h4 class="NewsCarnaLogo">	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+
+		<ul class="carnaNews">
+            <li>
+                 <a href="/carna/life/post314.html" onMouseDown="ga('send','event','hokenmarket_top','car115');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post314_top.jpg" alt="" />
+                    <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>円安の今、外貨建て保険の加入は損？</h4>
+                    <p>2022年7月現在、為替市場は1ドル＝135円台後半に差し掛かり24年ぶりの円安ドル高水準を更新しました。円安になると･･･</p>
+                    <time class="time" datetime="2022-08-03">2022.08.03</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/children/post313.html" onMouseDown="ga('send','event','hokenmarket_top','car113');">
+                    <p class="children">子 供</p>
+                    <img src="/carna/images/post313_top.jpg" alt=""/>
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>夏のレジャー 子どものケガに備える保険は？</h4>
+                    <p>本格的な夏のレジャーシーズンが到来しました。今年の夏は家族旅行や、海や山でのレジャーを計画･･･</p>
+                    <time class="time" datetime="2022-07-28">2022.07.28</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/insurance/post312.html" onMouseDown="ga('send','event','hokenmarket_top','car116');">
+                    <p class="insurance">保 険</p>
+                    <img src="/carna/images/post312_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>2022年10月火災保険料が値上げされる？理由と対策方法</h4>
+                    <p>2022年は値上げラッシュが続き、また値上げ？と驚いたかもしれません。しかし実際に･･･</p>
+                    <time class="time" datetime="2022-07-27">2022.07.27</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/woman/post174.html" onMouseDown="ga('send','event','hokenmarket_top','car115');">
+                    <p class="woman">女 性</p>
+                    <img src="/carna/images/post174_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>帝王切開で医療保険の給付を受けるには妊娠前の加入が必要</h4>
+                    <p>「女性は妊娠前に医療保険に入っておくべき」といわれるのは、妊娠中はさまざまなトラブルが･･･</p>
+                    <time class="time" datetime="2018-07-20">2018.07.20　更新日：2022.07.13</time>
+                </a>
+            </li>
+		</ul>
+        
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

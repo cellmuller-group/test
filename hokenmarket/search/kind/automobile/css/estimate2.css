@@ -1,0 +1,394 @@
+@charset "utf-8";
+
+.br-pc {display:block;}
+.br-sp {display:none;}
+
+.clearfix {zoom: 1;}
+.clearfix:before,
+.clearfix:after {content: ""; display: table;}
+.clearfix:after {clear: both;}
+
+a:hover {opacity:0.8;}
+
+#contents{margin:0 auto 30px; padding:0; border-top:none; font-family:'Roboto', "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;}
+
+*{-webkit-box-sizing: border-box; box-sizing: border-box;}
+img{max-width: 100%; height: auto; vertical-align: bottom;}
+
+.center{text-align:center;}
+.bold{font-weight:700;}
+.bs{box-shadow: 0 5px 5px 0 rgba(194,194,194,.5);}
+
+.mb10{margin-bottom:10px;}
+.mb20{margin-bottom:20px;}
+.mb30{margin-bottom:30px;}
+.mb40{margin-bottom:40px;}
+.mb50{margin-bottom:50px;}
+.mb70{margin-bottom:70px;}
+.mb100{margin-bottom:100px;}
+
+.bg_green{
+	background-color:#f1f9dc;
+}
+
+/* === PC === */
+.only-sp {display: none;}
+.only_pc{display: block!important;}
+.only_sp{display: none!important;}
+
+section{
+	font-size:20px;
+}
+.container{
+	width:1100px;
+	margin:auto;
+	position:relative;
+}
+
+
+/* mv */
+#mv{
+	background-image:url(../img_estimate/mv_bg.gif);
+	background-repeat:repeat-x;
+	height:389px;
+}
+#mv .mv_ttl{
+	width:600px;
+	height:281px;
+	z-index:1;
+	margin:15px auto 0;
+}
+#mv .mv_konsarun{
+	width:308px;
+	height:197px;
+	position:absolute;
+	left: -15px;
+    bottom: -60px;
+	z-index:10;
+}
+#mv .mv_car{
+	width:265px;
+	height:199px;
+	position:absolute;
+	right: 50px;
+    bottom: -60px;
+	z-index:10;
+}
+
+/* company */
+#company{
+	height:250px;
+}
+.company_wrapp{
+	width:920px;
+	height:230px;
+	margin:auto;
+	position:absolute;
+	top:-20px;
+	left:8%;
+	z-index:10;
+}
+.company_txt{
+	width:915px;
+	height:50px;
+	background-color:#ffe0e8;
+	border-radius:10px 10px 0 0;
+	text-align:center;
+	padding:5px;
+}
+.company_logo{
+	width:915px;
+	height:175px;
+	background-color:#fff;
+	border-radius:0 0 10px 10px;
+	text-align:center;
+	padding:10px;
+}
+
+/* btn_area */
+#btn_area{
+	text-align:center;
+}
+.btn_midd{
+}	
+.btn_midd a {
+    display: block;
+	width:600px;
+	height:90px;
+	font-family:"HG丸ｺﾞｼｯｸM-PRO","HGMaruGothicMPRO","ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru Gothic Pro";
+    color: #fff;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 14px 20px 0;
+    text-decoration: none;
+    position: relative;
+    text-align: center;
+	border-radius:10px;
+	background-color:#e73262;
+	margin:auto;
+}
+.btn_midd a:before {
+    content: "";
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    right: 25px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #fff;
+}	
+.btn_midd a:after {
+    content: "";
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    right: 20px;
+    width: 8px;
+    height: 8px;
+    border-top: 3px solid #e73262;
+    border-right: 3px solid #e73262;
+    transform: rotate(45deg);
+}
+	
+/* point */
+#point{
+	background-size: auto auto;
+	background-color: rgba(255, 255, 255, 1);
+	background-image: repeating-linear-gradient(135deg, transparent, transparent 5px, rgba(255, 195, 221, 1) 5px, rgba(255, 195, 221, 1) 10px );
+	padding:40px 0 40px;
+}
+.point_box{
+	width:800px;
+	border-radius:10px;
+	background-color:#ffeff6;
+	margin:auto;
+	text-align:center;
+	padding:40px;
+}
+.point_box ul{
+	display:flex;
+	justify-content: space-between;
+}
+.point_box ul li{
+	width:222px;
+	height:142px;
+	padding: 70px 10px;
+}
+.point_box ul li p{
+	text-align:center;
+	font-size:1.4rem;
+}
+.point_box ul li.point_1{
+	background-image:url(../img_estimate/point_1.png);
+	background-repeat:no-repeat;
+}
+.point_box ul li.point_2{
+	background-image:url(../img_estimate/point_2.png);
+	background-repeat:no-repeat;
+}
+.point_box ul li.point_3{
+	background-image:url(../img_estimate/point_3.png);
+	background-repeat:no-repeat;
+}
+.point_box p{
+	text-align:left;
+}
+.point_box p span{
+	background-color:#ffff1f;	
+}
+	
+/* ranking */	
+#ranking{
+	background-image:url(../img_estimate/ranking_bg.png);
+	background-repeat:no-repeat;
+    background-position: center;
+	height:670px;
+}
+.ranking_btn{
+	position:absolute;
+	bottom:30px;
+	left:30%;
+}
+	
+/* voice */
+#voice{
+	background-image:url(../img_estimate/voice_top.png);
+	background-repeat:repeat-x;
+    background-position:top center;
+	background-color:#deeeb6;
+}
+
+#voice .container{
+	padding:50px 0;
+}
+#voice .container h3{
+	font-family:"HG丸ｺﾞｼｯｸM-PRO","HGMaruGothicMPRO","ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru Gothic Pro";
+	font-size:32px;
+	color:#296c00;
+	background-color:#fff;
+	padding:3px;
+	width:280px;
+	margin:0 auto 30px;
+	text-align:center;
+}
+#voice ul{
+	display:flex;
+	justify-content: space-between;
+}
+#voice ul li{
+	width:346px;
+	height:310px;
+	padding:10px;
+	position:relative;
+}
+#voice ul li.voice_1{
+	background-image:url(../img_estimate/voice_1.jpg);
+	background-repeat:no-repeat;
+}
+#voice ul li.voice_2{
+	background-image:url(../img_estimate/voice_2.jpg);
+	background-repeat:no-repeat;
+}
+#voice ul li.voice_3{
+	background-image:url(../img_estimate/voice_3.jpg);
+	background-repeat:no-repeat;
+}
+#voice ul li img{
+	position:absolute;
+	bottom: 40px;
+    left: 5px;
+}
+/* campaign_bnr */
+.voice_btm {
+	background-image:url(../img_estimate/voice_btm.png);
+	background-repeat:repeat-x;
+    background-position:top center;
+}
+.campaign_bnr {
+	width:1100px;
+	/*display:flex;
+	justify-content: space-between;*/
+	text-align:center;
+	padding:50px 0;
+	margin:auto;
+}
+/* flow */
+#flow{
+	background-color:#fff;
+	padding:80px 0 0;
+}
+
+/* indemnity */
+#indemnity{
+	width:960px;
+	margin:auto;
+}
+#indemnity h2{
+	font-family:"HG丸ｺﾞｼｯｸM-PRO","HGMaruGothicMPRO","ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru Gothic Pro";
+	font-size:32px;
+	text-align:center;
+	position:relative;
+}
+
+#indemnity h2:before{
+	content:"";
+	display:block;
+	background-image:url(../img_estimate/indemnity_before.png);
+	position:absolute;
+	bottom:0;
+	left:0;
+	width:240px;
+	height:70px;
+}
+#indemnity h2:after{
+	content:"";
+	display:block;
+	background-image:url(../img_estimate/indemnity_before.png);
+	position:absolute;
+	bottom:0;
+	right:0;
+	z-index:100;
+	width:240px;
+	height:70px;
+}
+#indemnity h3{
+	font-size:24px;
+	border-left:8px solid #80c269;
+	padding:0 0 0 10px;
+	margin:0 0 40px;
+}
+#indemnity h4{
+	font-size:20px;
+	border-bottom:2px dotted #666;
+	padding:0 0 0 10px;
+	margin:0 0 20px;
+}
+#indemnity p{
+	margin:0 0 20px;
+}
+
+/* notice */
+#notice{
+	background-color:#ffd0f3;
+	padding:50px 0;
+}
+#notice .container{
+	margin:auto;
+	background-color:#fff;
+	padding:30px;
+	
+}
+#notice .estimate_box{
+	font-size:0.8em;
+	text-align:right;
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 740px) {
+	.mb10{margin-bottom:1%;}
+	.mb20{margin-bottom:2%;}
+	.mb30{margin-bottom:3%;}
+	.mb40{margin-bottom:4%;}
+	.mb50{margin-bottom:5%;}
+	.mb70{margin-bottom:7%;}
+	.mb100{margin-bottom:10%;}
+	.tb30{margin-top:3%;}
+	
+	.only_sp{display: block!important;}
+	.only_pc{display: none!important;}
+	
+	.container{
+		width:100%;
+		margin:auto;
+		position:relative;
+	}
+
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

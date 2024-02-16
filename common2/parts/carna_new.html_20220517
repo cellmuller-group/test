@@ -1,0 +1,52 @@
+<h4 class="NewsCarnaLogo">	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+
+		<ul class="carnaNews">
+            <li>
+                 <a href="/carna/money/post310.html" onMouseDown="ga('send','event','hokenmarket_top','car106');">
+                    <p class="money">お 金</p>
+                    <img src="/carna/images/post310_top.jpg" alt="" />
+                    <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>今日からできる！相次ぐ値上げを乗り切る方法</h4>
+                    <p>最近ニュースでよく目にする値上げの話題。その背景にはコロナや円安、原油･･･</p>
+                    <time class="time" datetime="2022-04-20">2022.05.12</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/other/post192.html" onMouseDown="ga('send','event','hokenmarket_top','car105');">
+                    <p class="other">その他</p>
+                    <img src="/carna/images/post192_top.jpg" alt=""/>
+                    <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>健康保険には複数の種類がある！いまさら聞けない健康保険の基礎知識</h4>
+                    <p>日本では国民皆保険制度が導入されており、全ての人が健康保険に加入しています･･･</p>
+                    <time class="time" datetime="2018-07-20">2018.07.20　更新日：2022.05.12</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/worry/post31.html" onMouseDown="ga('send','event','hokenmarket_top','car104');">
+                    <p class="worry">心配事</p>
+                    <img src="/carna/images/post31_top.png" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>男性の2倍なりやすいってホント？知っておきたい女性のうつ病</h4>
+                    <p>女性は男性に比べてうつ病になりやすいといわれています。一般的に、女性が鬱に･･･</p>
+                    <time class="time" datetime="2019-10-31">2019.10.31　更新日：2022.04.28</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/worry/post307.html" onMouseDown="ga('send','event','hokenmarket_top','car103');">
+                    <p class="worry">心配事</p>
+                    <img src="/carna/images/post307_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>【新型コロナウイルス感染症】休業手当金は支給される？傷病手当金の支給条件は？</h4>
+                    <p>2019年末に中国で確認されて以来、2年以上経過した現在も世界規模で感染が報告･･･</p>
+                    <time class="time" datetime="2020-05-19">2020.05.19　更新日：2022.04.20</time>
+                </a>
+            </li>
+		</ul>
+        
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

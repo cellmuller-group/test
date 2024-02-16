@@ -1,0 +1,141 @@
+
+<header id="top">
+  <div class="wrap1100 tnav">
+    <div class="top-menu">
+      <h1 id="headLogo"> <a href="/" onmousedown="ga('send','event','hokenmarket_top','h01');">イオンのほけん相談 イオン保険サービス</a> </h1>
+      <nav id="topNav">
+        <div id="smp_acc" class="smpCtl"><img src="/common2/img/common/smpNav.png" alt="MENU" /></div>
+        <ul class="topNav">
+          <li class="shokuiki spnone"><a href="#modal-open" class="modal01">当サイト掲載商品に<br>
+            おける注意事項</a></li>
+          <li class="shokuiki"><a href="/login/" onmousedown="ga('send','event','hokenmarket_top','h02');">イオングループの<br class="pc">
+            従業員の皆さまへ</a></li>
+          <li class="mail"><a href="/mag/" onmousedown="ga('send','event','hokenmarket_top','h03');">メルマガ登録</a></li>
+          <!--<li class="regst"><a href="https://www.hokenmarket.net/HkMyPageWeb/pc/MemberAddInput" onmousedown="ga('send','event','hokenmarket_top','h04');">新規会員登録</a></li>-->
+          <li class="login"><a href="/shop/onlineten.html" onmousedown="ga('send','event','hokenmarket_top','bnr_online');">オンラインほけん<br class="is-pc">相談はこちら</a></li>
+          <li class="smpCtl"><a href="#modal-open" class="modal01">当サイト掲載商品における注意事項</a></li>
+        </ul>
+        <!--/nav#topNav--> 
+      </nav>
+    </div>
+    <!--/div.wrap1100--> 
+  </div>
+</header>
+<!--<ul class="top_bnrs_bar">
+  <li>
+    <div class="close_top_bnrs_bar">×</div>
+    <a href="/member/search/index.html?w01=1" class="top_bnr01" onMouseDown="ga('send','event','hokenmarket_top','click_web-iryou02')">WEBでお申込みできる<br>医療保険はこちら</a>
+  </li>
+  <li>
+    <a href="/shop/" class="top_bnr02">保険にお悩みでご相談を<br>検討しておられる方はこちら</a>
+  </li>
+</ul>-->
+<div class="modalInline" style="display: none;">
+  <div id="modal01" class="modalBox">
+    <div class="closeModal close-btn-top"> <img src="/common_new/images/close.png" width="27" height="27" alt=""> </div>
+    <div class="modalInner">
+      <p class="modal-ttl">当サイトにおける<br>
+        掲載商品についての注意事項</p>
+      <p>当サイトでは、全ての保険会社の商品・プランを掲載している<br>
+        わけではありません。イオン保険サービス株式会社で取扱可能な<br>
+        保険会社のうち、保険会社からサイト掲載の許可が得られた<br>
+        保険商品をご案内しております。</p>
+      <p id="modal-close" class="closeModal close-ttl">閉じる</p>
+    </div>
+  </div>
+  <div id="modalOverlay"></div>
+</div>
+<script>
+        $(function(){
+          /* スマホナビ開閉 */
+          $("#smp_acc img").on("click", function() {
+            $("ul.topNav").slideToggle(300); //開閉部分
+          });
+        });
+        $('#smp_acc').click(function(){
+          var $target = $('#topNav .topNav');
+          var $root = $(this);
+          setTimeout(function() {
+            if($target.css('display') == 'block') {
+              $target.addClass('opened');
+              $root.find('img').attr('src','/common2/img/common/smpNav_close.png');
+            } else {
+              $target.removeClass('opened');
+              $root.find('img').attr('src','/common2/img/common/smpNav.png');
+            }
+          }, 500);
+        });
+
+        // モーダル生成用
+        function makeModal(target) {
+          var $root = $(target);
+          var modalNo = $root.attr('class').replace(/[^0-9]/g, '');
+          var targetModal = '#modal' + modalNo;
+          // すでにモーダルが表示されている場合、先に表示していたモーダル非表示
+          $('.modalBox').fadeOut();
+          // モーダル表示
+          $('.modalInline').fadeIn();
+          $(targetModal).fadeIn();
+          var modalHeight = $(targetModal).outerHeight();
+          var modalCalc01 = $(window).innerHeight() - modalHeight;
+          var modalCalc02 = modalCalc01 / 2;
+          // モーダル内容を中央表示
+          if($(window).innerHeight() > modalHeight) {
+            $(targetModal).css('margin-top',modalCalc02 + 'px');
+          } else {
+            $(targetModal).css('margin-top','20px');
+          }
+          // モーダル消す処理
+          $('.closeModal,#modalOverlay').click(function() {
+            $('.modalInline, .modalBox').fadeOut();
+          });
+          return false;
+        }
+        // モーダル呼び出し
+        $('[class^="modal0"]').click(function() {
+          makeModal(this);
+        });
+        if (!window.console){
+          window.console = {
+            log : function(msg){
+              // do nothing.
+            }
+          };
+        }
+
+        // ヘッダーアンカー制御用
+        (function() {
+          var pathname = location.pathname,
+              $indexNav = $('#indexNav');
+          // 現在のパスによってアンカーを変更
+          if(pathname === '/' || pathname === '/index.html') {
+            // indexページの場合、アンカーのみに変更
+            $indexNav.find('a').each(function() {
+              var $root = $(this),
+                  href = $root.attr('href'),
+                  hash = href.replace(/\//g, '')
+              $root.attr('href', hash);
+            })
+          } else {
+            // indexページ以外の場合、トップページに遷移させてhashはパラメータとして渡す。その後にパラメータで渡した位置に遷移
+            $indexNav.find('a').each(function() {
+              var $root = $(this),
+                  href = $root.attr('href'),
+                  param = href.replace(/#/g, '?')
+              $root.attr('href', param);
+            });
+          }
+          // パラメータが付いていた場合、その位置にスムーススクロール
+          var param = location.search.replace(/\?/g, '');
+          if(param === 'catList' || param === 'indexChoice' || param === 'ranking' || param === 'indexSimurate' || param === 'typed'
+          || param === 'step' || param === 'hokkaido' || param === 'tohoku' || param === 'kanto' || param === 'kinki' || param === 'tyubu' || param === 'shikoku' || param === 'tyugoku' || param === 'kyushu' || param === 'okinawa') {
+            var headerHight = 100,
+                speed = 800,
+                target =  '#' + param,
+                position = $(target).offset().top - headerHight;// 移動先を数値で取得してヘッダーの高さ分ずらす
+            $('body,html').animate({scrollTop:position}, speed, 'swing'); //実行部分
+            return false;
+          }
+
+        })();
+        </script> 

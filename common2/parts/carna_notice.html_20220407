@@ -1,0 +1,49 @@
+<h2 class="ttl-article-sub">注目記事</h2>
+<ul class="articleRank">
+    <li>
+        <div class="articleRank-img"> <img src="img/250/post206_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article other mb-10">その他</p>
+            <h4 class="ttl-articleRank"><a href="post206.html">個人年金保険ってどんな保険？特徴と選び方について紹介していきます！</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="img/100/post95_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article other mb-10">その他</p>
+            <h4 class="ttl-articleRank"><a href="post95.html">任意保険とは？任意保険の必要性と補償の種類について解説します！</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="img/100/post72_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article worry mb-10">心配事</p>
+            <h4 class="ttl-articleRank"><a href="post72.html">老後の生活資金を準備するなら個人年金保険？それともiDeCo？</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="img/100/post91_top.jpg" width="100" alt=""></div>
+        <div class="articleRank-txt">
+            <p class="ico-article other mb-10">その他</p>
+            <h4 class="ttl-articleRank"><a href="post91.html">条件に当てはまればメリット多し！イーデザイン損保の自動車保険</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="img/100/post97_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article other mb-10">その他</p>
+            <h4 class="ttl-articleRank"><a href="post97.html">SBI損保の自動車保険の評判は？おすすめポイントをご紹介</a></h4>
+        </div>
+    </li>
+</ul>
+
+<script>
+$(function() {
+
+//ビックアリンク
+  $('.article-list-box').biggerlink();
+  $('.articleRank li').biggerlink();
+
+});
+
+</script> 

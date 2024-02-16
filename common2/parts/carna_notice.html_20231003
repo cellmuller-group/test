@@ -1,0 +1,50 @@
+<h2 class="ttl-article-sub">注目記事</h2>
+<ul class="articleRank">
+	<li>
+<div class="articleRank-img"> <img src="../images/post345_top.jpg" width="100" height="auto" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 children">子 供</p>
+            <h4 class="ttl-articleRank"><a href="/carna/children/post345.html">【FP監修】子どもがネットトラブルに巻き込まれた！対処方法は？</a></h4>
+        </div>
+    </li>
+	<li>
+<div class="articleRank-img"> <img src="../images/post347_top.jpg" width="100" height="auto" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 life">暮らし</p>
+            <h4 class="ttl-articleRank"><a href="/carna/life/post347.html">【FP監修】病院に行かなくてもいい！さまざまな受診方法を紹介</a></h4>
+        </div>
+    </li>
+	<li>
+<div class="articleRank-img"> <img src="../images/post346_top.jpg" width="100" height="auto" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 worry">心配事</p>
+            <h4 class="ttl-articleRank"><a href="/carna/worry/post346.html">【FP監修】認知症ってどんな症状？予防や治療方法とは</a></h4>
+        </div>
+    </li>
+	<li>
+<div class="articleRank-img"> <img src="../images/post268_top.jpg" width="100" height="auto" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 life">暮らし</p>
+            <h4 class="ttl-articleRank"><a href="/carna/life/post268.html">【FP監修】意外と知られていない？介護費用の負担を軽減できる「高額介護サービス費制度」</a></h4>
+        </div>
+    </li>
+	<li>
+<div class="articleRank-img"> <img src="../images/post344_top.jpg" width="100" height="auto" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 life">暮らし</p>
+            <h4 class="ttl-articleRank"><a href="/carna/life/post344.html">【FP監修】台風の備えは日ごろから。対策の具体例も紹介</a></h4>
+        </div>
+    </li>
+
+    </ul>
+
+<script>
+$(function() {
+
+//ビックアリンク
+  $('.article-list-box').biggerlink();
+  $('.articleRank li').biggerlink();
+
+});
+
+</script> 

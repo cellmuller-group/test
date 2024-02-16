@@ -1,0 +1,54 @@
+<h2 class="ttl-article-sub">注目記事</h2>
+            <ul class="articleRank">
+                <li>
+                    <div class="articleRank-img"> <img src="/carna/detail/img/100/post66_top.jpg" width="100" alt="" /></div>
+                    <div class="articleRank-txt">
+                        <p class="ico-article worry mb-10">心配事</p>
+                        <h4 class="ttl-articleRank"><a href="/carna/detail/post66.html">自分に万が一のことがあったときのために、今からできることは？</a></h4>
+                        <!-- <time class="time">2017.08.01</time> -->
+                    </div>
+                </li>
+                <li>
+                    <div class="articleRank-img"> <img src="/carna/detail/img/350/post308_top.jpg" width="100" alt="" /></div>
+                    <div class="articleRank-txt">
+                        <p class="ico-article other mb-10">その他</p>
+                        <h4 class="ttl-articleRank"><a href="/carna/detail/post308.html">自転車保険への加入は義務？入らないと大変なことになることも?加入の際の4つのポイント</a></h4>
+                        <!-- <time class="time">2017.10.01</time> -->
+                    </div>
+                </li>
+                <li>
+                    <div class="articleRank-img"> <img src="/carna/detail/img/300/post281_top.jpg" width="100" alt="" /></div>
+                    <div class="articleRank-txt">
+                        <p class="ico-article other mb-10">その他</p>
+                        <h4 class="ttl-articleRank"><a href="/carna/detail/post281.html">火災保険の保険料について解説！</a></h4>
+                        <!-- <time class="time">2017.08.01</time> -->
+                    </div>
+                </li>
+                <li>
+                    <div class="articleRank-img"> <img src="/carna/detail/img/100/post91_top.jpg" width="100" alt="" /></div>
+                    <div class="articleRank-txt">
+                        <p class="ico-article other mb-10">その他</p>
+                        <h4 class="ttl-articleRank"><a href="/carna/detail/post91.html">条件に当てはまればメリット多し！イーデザイン損保の自動車保険</a></h4>
+                        <!-- <time class="time">2017.11.14</time> -->
+                    </div>
+                </li>
+                <li>
+                    <div class="articleRank-img"> <img src="/carna/detail/img/200/post185_top.jpg" width="100" alt="" /></div>
+                    <div class="articleRank-txt">
+                        <p class="ico-article other mb-10">その他</p>
+                        <h4 class="ttl-articleRank"><a href="/carna/detail/post185.html">事故を起こして気が動転する前に、知っておきたい交通事故証明書と保険会社の存在</a></h4>
+                        <!-- <time class="time">2017.12.20</time> -->
+                    </div>
+                </li>
+            </ul>
+            
+<script>
+$(function() {
+
+//ビックアリンク
+  $('.article-list-box').biggerlink();
+  $('.articleRank li').biggerlink();
+
+});
+
+</script> 

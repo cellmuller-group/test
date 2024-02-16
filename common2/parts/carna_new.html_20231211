@@ -1,0 +1,52 @@
+<h4 class="NewsCarnaLogo">	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+
+		<ul class="carnaNews">
+			<li>
+                 <a href="/carna/life/post260.html" onMouseDown="ga('send','event','hokenmarket_top','car180');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post260_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】源泉徴収票の見方をご存知ですか？</h4>
+                    <p>今年入社したばかりの新社会人の方には、まだ源泉徴収票を見たことがない人も...</p>
+                    <time class="time" datetime="2019-02-01">2019.02.01 更新日：2023.11.29</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/insurance/post351.html" onMouseDown="ga('send','event','hokenmarket_top','car179');">
+					<p class="insurance">保 険</p>
+                    <img src="/carna/images/post351_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】がんの緩和ケアにかかる費用は医療保険でカバーできる？</h4>
+                    <p>がん治療のなかに、「緩和ケア」というケアがあることをご存知でしょうか。</p>
+                    <time class="time" datetime="2023-11-22">2023.11.22</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/life/post352.html" onMouseDown="ga('send','event','hokenmarket_top','car178');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post352_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】冬場に多いノロウイルス！主な症状や対処法は？</h4>
+                    <p>寒くなってくると感染症が多くなりますが、冬場に特に多発するのがノロウイルスです。</p>
+                    <time class="time" datetime="2023-11-15">2023.11.15</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/life/post354.html" onMouseDown="ga('send','event','hokenmarket_top','car177');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post354_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】ふるさと納税をつかって秋のお出かけを楽しもう！</h4>
+                    <p>応援したい自治体に寄付をすることで、所得税の還付や住民税の控除を受けることができる「ふるさと納税」。</p>
+                    <time class="time" datetime="2023-11-08">2023.11.08</time>
+                </a>
+            </li>
+		</ul>
+        
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

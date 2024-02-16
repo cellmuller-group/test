@@ -1,0 +1,89 @@
+$(document).ready(function(){
+    // go to Top 表示部分
+	$(document).ready(function() {
+		var pagetop = $('#gotoTop, #floating');
+		$(window).scroll(function () {
+			if ($(this).scrollTop() > 80) {
+				pagetop.fadeIn();
+			} else {
+				pagetop.fadeOut();
+			}
+		});
+	}); //実行部分は下記自作スムーススクロール部分へ
+	// 自作スムーススクロール
+	$('a[href^=#]' + 'a:not([href *= "modal-open"])'+ 'a:not([href*="modal"])'+ 'a:not([href*="#character-profile"])').click(function() {
+		var headerHight = 100;
+		var speed = 300; // スクロールの速度（ミリ秒）
+		var href= $(this).attr("href");// アンカーの値取得
+		var target = $(href == "#" || href === "" ? 'html' : href);// 移動先を取得
+
+        if ($(target).find('.shop-list-wrap').css('display') == 'none') {
+            $('#okinawa').find('div.shop-list-wrap:not(:animated)').slideToggle("slow", function() {
+                    var position = target.offset().top-headerHight;// 移動先を数値で取得してヘッダーの高さ分ずらす
+                    $('body,html').animate({scrollTop:position}, speed, 'swing'); //実行部分
+                    if (href != '#okinawa') {
+                        $('#okinawa').find('div.shop-list-wrap:not(:animated)').slideToggle();
+                    } else {
+                        $('#okinawa').find('.shop-area-ttl').addClass('open');
+                    }
+                }
+            );
+        } else {
+            var position = target.offset().top-headerHight;// 移動先を数値で取得してヘッダーの高さ分ずらす
+            $('body,html').animate({scrollTop:position}, speed, 'swing'); //実行部分
+        }
+
+		return false; //おまじない
+	});
+
+  $(window).on("scroll", function() {
+    // 基本変数の宣言
+    var scrollHeight = $(document).height(); //ドキュメントの高さ
+    var scrollPosition = $(window).height() + $(window).scrollTop(); //現在地
+    var targetHeight = $("#convBtns ul").innerHeight();
+// console.log(targetHeight);
+    var footHeight = $("footer").innerHeight(); //footerの高さ（＝止めたい位置）
+
+    // コンバージョンボタン表示
+    if ($(this).scrollTop() > 80) {
+      $("#convBtns ul").fadeIn();
+    } else {
+      $("#convBtns ul").fadeOut();
+    }
+
+    // フッター固定する
+    if ( scrollHeight - scrollPosition  <= footHeight ) {// フッターの高さの位置にはいったらpositionをabsoluteに変更し、フッターの高さの位置にする
+      $("#soudan, #convBtns ul").css({
+        "position":"absolute",
+        "top": targetHeight * -1,
+        "bottom": ""
+      });
+    } else { // それ以外の場合は元のcssスタイルを指定
+      $("#soudan, #convBtns ul").css({
+        "position":"fixed",
+        "top": "",
+        "bottom": "100px"
+      });
+    }
+  });
+ });
+
+//viewport切り替え
+$(function(){
+    // setViewport
+    var spView = 'width=device-width,initial-scale=1',
+        tbView = 'width=1140';
+
+    if(navigator.userAgent.indexOf('iPad') > 0 || (navigator.userAgent.indexOf('Android') > 0 && navigator.userAgent.indexOf('Mobile') == -1) || navigator.userAgent.indexOf('A1_07') > 0 || navigator.userAgent.indexOf('SC-01C') > 0){
+        $('#viewport').attr('content',tbView);
+    }else{
+        $('#viewport').attr('content',spView);
+    }
+});
+
+//ヘッダー下のバナー閉じるボタン
+$(function(){
+  $('.close_top_bnrs_bar').click(function(){
+    $('.top_bnrs_bar').fadeOut();
+  });
+});

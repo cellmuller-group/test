@@ -1,0 +1,54 @@
+<h4 class="NewsCarnaLogo">	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+
+		<ul class="carnaNews">
+			<li>
+                 <a href="/carna/life/post334.html" onMouseDown="ga('send','event','hokenmarket_top','car145');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post334_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】カード会員専用保険に加入した方がいい？加入を考える時に知っておきたい、メリットと注意点</h4>
+                    <p>クレジットカードに新規入会すると、カード会社から「カード会員専用保険」...</p>
+                    <time class="time" datetime="2023-04-12">2023.04.12</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/life/post331.html" onMouseDown="ga('send','event','hokenmarket_top','car144');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post331_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】新型コロナウイルス感染症が「５類」へ移行、これからどう変わる？</h4>
+                    <p>政府は新型コロナウイルス感染症の感染症法上の位置づけを、2023年5月8日から現在の2類相当である...</p>
+                    <time class="time" datetime="2023-04-06">2023.04.06</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/worry/post213.html" onMouseDown="ga('send','event','hokenmarket_top','car143');">
+					<p class="worry">心配事</p>
+                    <img src="/carna/images/post213_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】いくらぐらいかかる？抗がん剤治療の費用</h4>
+                    <p>国立がん研究センターの最新のがん統計によると、日本人が一生のうちにがんと診断される確率は男性が65.5%、女性は51.2%です。</p>
+                    <time class="time" datetime="2023-03-22">2023.03.22　掲載日：2020.02.11</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/worry/post327.html" onMouseDown="ga('send','event','hokenmarket_top','car142');">
+					<p class="worry">心配事</p>
+                    <img src="/carna/images/post327_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】親の介護費用、負担軽減のためにできること</h4>
+                    <p>親の介護が始まると、思っていた以上に出費がかさみ、頭を抱えることも少なくありません。</p>
+                    <time class="time" datetime="2023-03-15">2023.03.15</time>
+                </a>
+            </li>
+
+     
+		</ul>
+        
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

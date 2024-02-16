@@ -1,0 +1,54 @@
+<h2 class="ttl-article-sub">注目記事</h2>
+            <ul class="articleRank">
+                <li>
+                    <div class="articleRank-img"> <img src="/carna/detail/img/250/post217_top.jpg" width="100" alt="" /></div>
+                    <div class="articleRank-txt">
+                        <p class="ico-article other mb-10">その他</p>
+                        <h4 class="ttl-articleRank"><a href="/carna/detail/post217.html">軽自動車はどのくらいお得？自賠責保険料についても忘れずに！</a></h4>
+                        <!-- <time class="time">2017.08.01</time> -->
+                    </div>
+                </li>
+                <li>
+                    <div class="articleRank-img"> <img src="/carna/detail/img/300/post269_top.jpg" width="100" alt="" /></div>
+                    <div class="articleRank-txt">
+                        <p class="ico-article other mb-10">その他</p>
+                        <h4 class="ttl-articleRank"><a href="/carna/detail/post269.html">がん治療は医療保険だけでカバーできない？「がん保険」で安心！</a></h4>
+                        <!-- <time class="time">2017.10.01</time> -->
+                    </div>
+                </li>
+                <li>
+                    <div class="articleRank-img"> <img src="/carna/detail/img/100/post87_top.jpg" width="100" alt="" /></div>
+                    <div class="articleRank-txt">
+                        <p class="ico-article worry mb-10">心配事</p>
+                        <h4 class="ttl-articleRank"><a href="/carna/detail/post87.html">人の車を運転するときの不安を「ちょいのり保険」で解消しよう！</a></h4>
+                        <!-- <time class="time">2017.08.01</time> -->
+                    </div>
+                </li>
+                <li>
+                    <div class="articleRank-img"> <img src="/carna/detail/img/50/post23_top.jpg" width="100" alt="" /></div>
+                    <div class="articleRank-txt">
+                        <p class="ico-article woman mb-10">女 性</p>
+                        <h4 class="ttl-articleRank"><a href="/carna/detail/post23.html">体調に敏感になろう！30代から気をつけたい女性特有の病気</a></h4>
+                        <!-- <time class="time">2017.11.14</time> -->
+                    </div>
+                </li>
+                <li>
+                    <div class="articleRank-img"> <img src="/carna/detail/img/150/post109_top.jpg" width="100" alt="" /></div>
+                    <div class="articleRank-txt">
+                        <p class="ico-article other mb-10">その他</p>
+                        <h4 class="ttl-articleRank"><a href="/carna/detail/post109.html">スマホ落とす状況あるあるや修理費用、おすすめのスマホ保険を紹介</a></h4>
+                        <!-- <time class="time">2017.12.20</time> -->
+                    </div>
+                </li>
+            </ul>
+            
+<script>
+$(function() {
+
+//ビックアリンク
+  $('.article-list-box').biggerlink();
+  $('.articleRank li').biggerlink();
+
+});
+
+</script> 

@@ -1,0 +1,52 @@
+<h2 class="ttl-article-sub">注目記事</h2>
+<ul class="articleRank">
+	<li>
+<div class="articleRank-img"> <img src="../images/post327_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 worry">心配事</p>
+            <h4 class="ttl-articleRank"><a href="/carna/worry/post327.html">【FP監修】親の介護費用、負担軽減のためにできること</a></h4>
+        </div>
+    </li>
+<li>
+<div class="articleRank-img"> <img src="../images/post326_top.png" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 worry">心配事</p>
+            <h4 class="ttl-articleRank"><a href="/carna/worry/post326.html">【FP監修】親が介護施設に入所することになったら？？</a></h4>
+        </div>
+    </li>
+<li>
+<div class="articleRank-img"> <img src="../images/post330_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 life">暮らし</p>
+            <h4 class="ttl-articleRank"><a href="/carna/life/post330.html">新生活応援特集！新生活に必要な備えとは</a></h4>
+        </div>
+    </li>
+
+<li>
+<div class="articleRank-img"> <img src="../images/post325_top.png" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 money">お 金</p>
+            <h4 class="ttl-articleRank"><a href="/carna/money/post325.html">【FP監修】つみたてNISAとは？気になるポイントを解説！</a></h4>
+        </div>
+    </li>
+
+<li>
+<div class="articleRank-img"> <img src="../images/post329_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 life">暮らし</p>
+            <h4 class="ttl-articleRank"><a href="/carna/life/post329.html">【専門家コラム】ドライブレコーダーはなぜ必要なのか？事例を紹介</a></h4>
+        </div>
+    </li>
+    
+    </ul>
+
+<script>
+$(function() {
+
+//ビックアリンク
+  $('.article-list-box').biggerlink();
+  $('.articleRank li').biggerlink();
+
+});
+
+</script> 

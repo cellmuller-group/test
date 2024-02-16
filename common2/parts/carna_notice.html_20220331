@@ -1,0 +1,49 @@
+<h2 class="ttl-article-sub">注目記事</h2>
+<ul class="articleRank">
+    <li>
+        <div class="articleRank-img"> <img src="/carna/detail/img/100/post91_top.jpg" width="100" alt=""></div>
+        <div class="articleRank-txt">
+            <p class="ico-article other mb-10">その他</p>
+            <h4 class="ttl-articleRank"><a href="post91.html">条件に当てはまればメリット多し！イーデザイン損保の自動車保険</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="/carna/detail/img/100/post97_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article other mb-10">その他</p>
+            <h4 class="ttl-articleRank"><a href="post97.html">SBI損保の自動車保険の評判は？おすすめポイントをご紹介</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="/carna/detail/img/150/post142_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article other mb-10">その他</p>
+            <h4 class="ttl-articleRank"><a href="post142.html">バイク盗難保険とは？バイクの盗難はバイク保険では補償されない？</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="/carna/detail/img/150/post124_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article worry mb-10">心配事</p>
+            <h4 class="ttl-articleRank"><a href="post124.html">人身事故の慰謝料はどう計算される？相場はどれくらい？</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="/carna/detail/img/150/post139_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article other mb-10">その他</p>
+            <h4 class="ttl-articleRank"><a href="post139.html">支払われた保険金にも税金がかかる？保険金が課税対象になる場合と計算方法を紹介！</a></h4>
+        </div>
+    </li>
+</ul>
+
+<script>
+$(function() {
+
+//ビックアリンク
+  $('.article-list-box').biggerlink();
+  $('.articleRank li').biggerlink();
+
+});
+
+</script> 

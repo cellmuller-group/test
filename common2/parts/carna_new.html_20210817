@@ -1,0 +1,49 @@
+<h4 class="NewsCarnaLogo">
+	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+		<ul class="carnaNews">
+            <li>
+                 <a href="/carna/detail/post163.html" onMouseDown="ga('send','event','hokenmarket_top','car68');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/200/post163_top.jpg" alt="" />
+                    <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>外資系保険会社の生命保険、メリット・デメリットは？</h4>
+                    <p>保険に入ろう！保険を見直そう！と思っても、たくさん種類があって迷ってしまいますよね。保険の選び方･･･</p>
+                    <time class="newsDate">2021.07.08</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post160.html" onMouseDown="ga('send','event','hokenmarket_top','car67');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/200/post160_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>家財保険とは？加入する必要性は？家財保険の理解を深めましょう！</h4>
+                    <p>家財保険はどのような保険なのか。何が補償されて、何が補償されないのか。･･･</p>
+                    <time class="newsDate">2021.07.01</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post132.html" onMouseDown="ga('send','event','hokenmarket_top','car66');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/150/post132_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>火災保険の選び方は？オススメの火災保険は？徹底解説します！</h4>
+                    <p>「火災保険」というと火事にのみ備える保険のように思われがちですが、実は自然災害や災害以外の盗難･･･</p>
+                    <time class="newsDate">2021.06.24</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post127.html" onMouseDown="ga('send','event','hokenmarket_top','car65');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/150/post127_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>私的年金ってなに？個人年金保険とiDeCoどっちがおすすめ？</h4>
+                    <p>老後の計画を立てるうえで、受取れる年金額はとても重要です。年金は大きく分けて公的年金と私的年金が･･･</p>
+                    <time class="newsDate">2021.06.21</time>
+                </a>
+            </li>
+		</ul>
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>

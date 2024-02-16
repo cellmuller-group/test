@@ -1,0 +1,50 @@
+<h2 class="ttl-article-sub">注目記事</h2>
+<ul class="articleRank">
+    <li>
+        <div class="articleRank-img"> <img src="/carna/detail/img/150/post124_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article worry mb-10">心配事</p>
+            <h4 class="ttl-articleRank"><a href="post124.html">人身事故の慰謝料はどう計算される？相場はどれくらい？</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="/carna/detail/img/150/post139_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article other mb-10">その他</p>
+            <h4 class="ttl-articleRank"><a href="post139.html">支払われた保険金にも税金がかかる？保険金が課税対象になる場合と計算方法を紹介！</a></h4>
+        </div>
+    </li>
+    <li class="bl-hot" style="cursor: pointer;">
+        <div class="articleRank-img"> <img src="/carna/detail/img/100/post99_top.jpg" width="100" alt=""></div>
+        <div class="articleRank-txt">
+            <p class="ico-article other mb-10">その他</p>
+            <h4 class="ttl-articleRank"><a href="post99.html">保険の種類にはどのようなものがあるかご存じですか？
+</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="/carna/detail/img/100/post56_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article other mb-10">その他</p>
+            <h4 class="ttl-articleRank"><a href="post56.html">1日(24時間)限定の自動車保険って何？</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="/carna/detail/img/50/post40_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article woman mb-10">女 性</p>
+            <h4 class="ttl-articleRank"><a href="post40.html">不妊治療の費用は助成・保険でカバーできる？</a></h4>
+        </div>
+    </li>
+</ul>
+
+<script>
+$(function() {
+
+//ビックアリンク
+  $('.article-list-box').biggerlink();
+  $('.articleRank li').biggerlink();
+
+});
+
+</script> 

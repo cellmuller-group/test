@@ -1,0 +1,50 @@
+<h2 class="ttl-article-sub">注目記事</h2>
+<ul class="articleRank">
+	<li>
+<div class="articleRank-img"> <img src="../images/post306_top.jpg" width="100" height="auto" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 worry">心配事</p>
+            <h4 class="ttl-articleRank"><a href="/carna/worry/post306.html">【FP監修】＜新型コロナウイルス感染症＞保険適用はどうなる？生命保険等での取扱いは？</a></h4>
+        </div>
+    </li>
+	<li>
+<div class="articleRank-img"> <img src="../images/post337_top.jpg" width="100" height="auto" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 children">子 供</p>
+            <h4 class="ttl-articleRank"><a href="/carna/children/post337.html">【FP監修】支出を抑えて子どもと遊ぶ方法を紹介</a></h4>
+        </div>
+    </li>
+	<li>
+<div class="articleRank-img"> <img src="../images/post307_top.jpg" width="100" height="auto" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 worry">心配事</p>
+            <h4 class="ttl-articleRank"><a href="/carna/worry/post307.html">【FP監修】＜新型コロナウイルス感染症＞休業手当は支給される？傷病手当金の支給条件は？</a></h4>
+        </div>
+    </li>
+	<li>
+<div class="articleRank-img"> <img src="../images/post94_top.jpg" width="100" height="auto" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 insurance">保 険</p>
+            <h4 class="ttl-articleRank"><a href="/carna/insurance/post94.html">おすすめのバイク保険を比較！任意保険には入るべき？</a></h4>
+        </div>
+    </li>
+	<li>
+<div class="articleRank-img"> <img src="../images/post167_top.jpg" width="100" height="auto" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 life">暮らし</p>
+            <h4 class="ttl-articleRank"><a href="/carna/life/post167.html">【FP監修】駐車場での事故、正しい対処法について解説します</a></h4>
+        </div>
+    </li>
+	
+    </ul>
+
+<script>
+$(function() {
+
+//ビックアリンク
+  $('.article-list-box').biggerlink();
+  $('.articleRank li').biggerlink();
+
+});
+
+</script> 

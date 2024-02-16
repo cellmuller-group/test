@@ -1,0 +1,52 @@
+<h4 class="NewsCarnaLogo">	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+
+		<ul class="carnaNews">
+			<li>
+                 <a href="/carna/life/post319.html" onMouseDown="ga('send','event','hokenmarket_top','car126');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post319_top.jpg" alt="" />
+                    <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】ふるさと納税を活用して、地域貢献でおトクを楽しもう！</h4>
+                    <p>ふるさと納税、あなたは活用していますか？「聞いたことはあるけど、内容は分からない」･･･</p>
+                    <time class="time" datetime="2022-10-21">2022.10.21</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/worry/post307.html" onMouseDown="ga('send','event','hokenmarket_top','car125');">
+                    <p class="worry">心配事</p>
+                    <img src="/carna/images/post307_top.jpg" alt=""/>
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>【FP監修】＜新型コロナウイルス感染症＞休業手当は支給される？傷病手当金の支給条件は？</h4>
+                    <p>2019年末に中国で確認されて以来、世界規模で感染が報告され続けている新型コロナウイルス感染症･･･</p>
+                    <time class="time" datetime="2020-05-19">2020.05.19　更新日：2022.09.30</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/worry/post306.html" onMouseDown="ga('send','event','hokenmarket_top','car124');">
+                    <p class="worry">心配事</p>
+                    <img src="/carna/images/post306_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>【FP監修】＜新型コロナウイルス感染症＞保険適用はどうなる？生命保険等での取扱いは？</h4>
+                    <p>2019年末に中国で確認されて以来、世界規模で広まっている新型コロナウイルス感染症･･･</p>
+                    <time class="time" datetime="2020-3-12">2020.03.12　更新日：2022.09.30</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/woman/post09.html" onMouseDown="ga('send','event','hokenmarket_top','car123');">
+                    <p class="woman">女 性</p>
+                    <img src="/carna/images/post09_top.png" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>【FP監修】＜毎年10月はピンクリボン運動強化月間＞乳がん早期発見のカギは検診とセルフチェック！</h4>
+                    <p>女性の代表的な「がん」といえば、「乳がん」を想像される方も多いのでは･･</p>
+                    <time class="time" datetime="2018-12-13">2018.12.13　更新日：2022.09.14</time>
+                </a>
+            </li>
+		</ul>
+        
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

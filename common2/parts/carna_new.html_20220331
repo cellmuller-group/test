@@ -1,0 +1,51 @@
+<h4 class="NewsCarnaLogo">
+	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+		<ul class="carnaNews">
+            <li>
+                 <a href="/carna/detail/post91.html" onMouseDown="ga('send','event','hokenmarket_top','car97');">
+                    <p class="other">その他</p>
+                    <img src="/carna/detail/img/100/post91_top.jpg" alt=""  style="height:153px"/>
+                    <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>条件に当てはまればメリット多し！イーデザイン損保の自動車保険</h4>
+                    <p>自動車保険を見直す時期になると、どの保険がよいのか迷うことはありませんか？･･･</p>
+                    <time class="time" datetime="2020-01-23">2020.01.23　更新日：2022.03.07</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post97.html" onMouseDown="ga('send','event','hokenmarket_top','car96');">
+                    <p class="other">その他</p>
+                    <img src="/carna/detail/img/100/post97_top.jpg" alt="" />
+                    <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>SBI損保の自動車保険の評判は？おすすめポイントをご紹介</h4>
+                    <p>SBI損保の自動車保険は、保険料に自信があります。2022年･･･</p>
+                    <time class="time" datetime="2019-12-24">2019.12.24　更新日：2022.03.07</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post142.html" onMouseDown="ga('send','event','hokenmarket_top','car95');">
+                    <p class="other">その他</p>
+                    <img src="/carna/detail/img/150/post142_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>バイク盗難保険とは？バイクの盗難はバイク保険では補償されない？</h4>
+                    <p>バイクに乗る方であれば、もしもの事故に備えて、バイク保険や自動車保険のバイク補償などの･･･</p>
+                    <time class="time" datetime="2022-02-24">2022.02.24</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post124.html" onMouseDown="ga('send','event','hokenmarket_top','car94');">
+                    <p class="worry">心配事</p>
+                    <img src="/carna/detail/img/150/post124_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>人身事故の慰謝料はどう計算される？相場はどれくらい？</h4>
+                    <p>交通事故にあってしまったとき、怪我や病気を治すことも大切ですが、適切な慰謝料を受取る･･･</p>
+                    <time class="time" datetime="2017-11-14">2017.11.14　更新日：2022.02.16</time>
+                </a>
+            </li>
+		</ul>
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

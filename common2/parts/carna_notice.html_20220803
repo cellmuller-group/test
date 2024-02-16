@@ -1,0 +1,49 @@
+<h2 class="ttl-article-sub">注目記事</h2>
+<ul class="articleRank">
+    <li>
+        <div class="articleRank-img"> <img src="../images/post312_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article insurance mb-10">保 険</p>
+            <h4 class="ttl-articleRank"><a href="../insurance/post312.html">2022年10月火災保険料が値上げされる？理由と対策方法</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="../images/post174_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article woman mb-10">女 性</p>
+            <h4 class="ttl-articleRank"><a href="../woman/post174.html">帝王切開で医療保険の給付を受けるには妊娠前の加入が必要</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="/carna/images/post311_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article insurance mb-10">保 険</p>
+            <h4 class="ttl-articleRank"><a href="../insurance/post311.html">むずかしい知識 ゼロ！からスタート!“自動車保険の見直し”体験レポート『のんびりできる休日は夫婦で仲良くお見積り』</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="/carna/images/post25_top.jpg" width="100" alt=""></div>
+        <div class="articleRank-txt">
+            <p class="ico-article insurance mb-10">保 険</p>
+            <h4 class="ttl-articleRank"><a href="../insurance/post25.html">専業主婦の保険はどこまで必要？備えのポイントをチェック！</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="/carna/images/post133_top.jpg" width="100" alt=""></div>
+        <div class="articleRank-txt">
+            <p class="ico-article life mb-10">暮らし</p>
+            <h4 class="ttl-articleRank"><a href="../life/post133.html">健康保険の種類とは？　保険証を見ればどの保険に入っているかわかります</a></h4>
+        </div>
+    </li>
+</ul>
+
+<script>
+$(function() {
+
+//ビックアリンク
+  $('.article-list-box').biggerlink();
+  $('.articleRank li').biggerlink();
+
+});
+
+</script> 

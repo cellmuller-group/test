@@ -1,0 +1,49 @@
+<h2 class="ttl-article-sub">注目記事</h2>
+<ul class="articleRank">
+    <li>
+        <div class="articleRank-img"> <img src="../images/post298_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article children mb-10">子 供</p>
+            <h4 class="ttl-articleRank"><a href="../children/post298.html">子どものための傷害保険は加入するべき？いつ加入する？</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="/carna/images/post88_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article insurance mb-10">保 険</p>
+            <h4 class="ttl-articleRank"><a href="/carna/insurance/post88.html">自動車保険だけじゃない！身近な危険から身を守る、備えておきたいSBI損保の保険</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="/carna/images/post219_top.jpg" width="100" alt=""></div>
+        <div class="articleRank-txt">
+            <p class="ico-article money mb-10">お 金</p>
+            <h4 class="ttl-articleRank"><a href="/carna/money/post219.html">老後の生活費の支出と収入を予測して充実した老後生活の準備をしよう！</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="/carna/images/post106_top.jpg" width="100" alt=""></div>
+        <div class="articleRank-txt">
+            <p class="ico-article insurance mb-10">保 険</p>
+            <h4 class="ttl-articleRank"><a href="/carna/insurance/post106.html">お金が貯まるって本当？貯蓄型保険の仕組みと上手な選び方</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="../images/post310_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article money mb-10">お 金</p>
+            <h4 class="ttl-articleRank"><a href="../money/post310.html">今日からできる！相次ぐ値上げを乗り切る方法</a></h4>
+        </div>
+    </li>
+</ul>
+
+<script>
+$(function() {
+
+//ビックアリンク
+  $('.article-list-box').biggerlink();
+  $('.articleRank li').biggerlink();
+
+});
+
+</script> 

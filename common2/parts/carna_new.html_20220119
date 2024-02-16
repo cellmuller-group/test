@@ -1,0 +1,51 @@
+<h4 class="NewsCarnaLogo">
+	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+		<ul class="carnaNews">
+            <li>
+                 <a href="/carna/detail/post40.html" onMouseDown="ga('send','event','hokenmarket_top','car90');">
+                    <p class="newsJosei">女 性</p>
+                    <img src="/carna/detail/img/50/post40_top.jpg" alt="" />
+                    <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>不妊治療の費用は助成・保険でカバーできる？</h4>
+                    <p>厚生労働省によると、平成7年に27.5歳だった第1子の平均出産年齢は、平成27年には30.7歳･･･</p>
+                    <time class="time" datetime="2019-10-31">2019.10.31　更新日：2022.01.19</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post135.html" onMouseDown="ga('send','event','hokenmarket_top','car89');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/150/post135_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>>-->
+                    <h4>車上荒らしは他人事じゃない！事前と事後の対策を知ろう</h4>
+                    <p>「朝、会社に行くために車に乗ったら、カーナビの装置がなくなっていた」「家のガレージに･･･</p>
+                    <time class="time" datetime="2022-01-12">2022.01.12</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post234.html" onMouseDown="ga('send','event','hokenmarket_top','car88');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/250/post234_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>終身医療保険、賢く加入するための4つのポイント</h4><br>
+                    <p>日本は世界でもトップクラスの長寿国です。しかし、ある程度の年齢になったら、がんなどの長期･･･</p>
+                    <time class="time" datetime="2021-12-21">2021.12.21</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post214.html" onMouseDown="ga('send','event','hokenmarket_top','car87');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/250/post214_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>自損事故後の流れとポイント、対象となる保険を解説</h4>
+                    <p>カーブを曲がりきれず電柱に衝突したり、ガードレールにぶつかったりなど、単独で起こした事故･･･</p>
+                    <time class="time" datetime="2021-12-14">2021.12.14</time>
+                </a>
+            </li>
+		</ul>
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

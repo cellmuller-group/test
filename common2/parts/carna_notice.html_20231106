@@ -1,0 +1,49 @@
+<h2 class="ttl-article-sub">注目記事</h2>
+<ul class="articleRank">
+	<li>
+<div class="articleRank-img"> <img src="../images/post353_top.jpg" width="100" height="auto" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 life">暮らし</p>
+            <h4 class="ttl-articleRank"><a href="/carna/life/post353.html">【FP監修】本格的な寒さが来る前に！冷え対策で暖かな冬を過ごしましょう</a></h4>
+        </div>
+    </li>
+	<li>
+<div class="articleRank-img"> <img src="../images/post349_top.jpg" width="100" height="auto" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 insurance">保 険</p>
+            <h4 class="ttl-articleRank"><a href="/carna/insurance/post349.html">【FP監修】医療保険・がん保険のトレンドと見直しのポイント</a></h4>
+        </div>
+    </li>
+	<li>
+<div class="articleRank-img"> <img src="../images/post350_top.jpg" width="100" height="auto" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 children">子 供</p>
+            <h4 class="ttl-articleRank"><a href="/carna/children/post350.html">【FP監修】子どもが入院！付き添いにかかる費用はどのくらい？</a></h4>
+        </div>
+    </li>
+	<li>
+<div class="articleRank-img"> <img src="../images/post310_top.jpg" width="100" height="auto" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 life">暮らし</p>
+            <h4 class="ttl-articleRank"><a href="/carna/life/post310.html">【FP監修】今日からできる！相次ぐ値上げを乗り切る方法</a></h4>
+        </div>
+    </li>
+	<li>
+<div class="articleRank-img"> <img src="../images/post348_top.jpg" width="100" height="auto" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 money">お 金</p>
+            <h4 class="ttl-articleRank"><a href="/carna/money/post348.html">【FP監修】今後の税制はどう変わる？家計への影響予測と対策</a></h4>
+        </div>
+    </li>
+    </ul>
+
+<script>
+$(function() {
+
+//ビックアリンク
+  $('.article-list-box').biggerlink();
+  $('.articleRank li').biggerlink();
+
+});
+
+</script> 

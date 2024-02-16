@@ -1,0 +1,53 @@
+<h4 class="NewsCarnaLogo">	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+
+		<ul class="carnaNews">
+			<li>
+                 <a href="/carna/worry/post307.html" onMouseDown="ga('send','event','hokenmarket_top','car157');">
+					<p class="worry">心配事</p>
+                    <img src="/carna/images/post307_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】＜新型コロナウイルス感染症＞休業手当は支給される？傷病手当金の支給条件は？</h4>
+                    <p>新型コロナウイルス感染症について、2023年5月8日より...</p>
+                    <time class="time" datetime="2020-05-19">2020.05.19 更新日：2023.06.23、2022.09.30</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/insurance/post94.html" onMouseDown="ga('send','event','hokenmarket_top','car156');">
+					<p class="insurance">保 険</p>
+                    <img src="/carna/images/post94_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>おすすめのバイク保険を比較！任意保険には入るべき？</h4>
+                    <p>バイク保険について、どの程度ご存知ですか？</p>
+                    <time class="time" datetime="2020-11-30">2020.11.30 更新日：2023.06.23、2021.11.09</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/life/post167.html" onMouseDown="ga('send','event','hokenmarket_top','car155');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post167_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】駐車場での事故、正しい対処法について解説します</h4>
+                    <p>一般道路において、車は車両通行帯を一方向のみに走行するので、運転手は...</p>
+                    <time class="time" datetime="2021-03-16">2021.03.16 更新日：2023.06.21</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/insurance/post317.html" onMouseDown="ga('send','event','hokenmarket_top','car154');">
+					<p class="insurance">保 険</p>
+                    <img src="/carna/images/post317_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】旅行を楽しみたいけどキャンセル料が不安…対策はある？</h4>
+                    <p>2023年5月8日に新型コロナウイルス感染症が５類に移行したことにより...</p>
+                    <time class="time" datetime="2022-10-28">2022.10.28 更新日：2023.06.14</time>
+                </a>
+            </li>
+     
+		</ul>
+        
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

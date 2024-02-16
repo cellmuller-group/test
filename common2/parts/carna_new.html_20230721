@@ -1,0 +1,53 @@
+<h4 class="NewsCarnaLogo">	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+
+		<ul class="carnaNews">
+			<li>
+                 <a href="/carna/insurance/post223.html" onMouseDown="ga('send','event','hokenmarket_top','car162');">
+					<p class="insurance">保 険</p>
+                    <img src="/carna/images/post223_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】払済保険とは？仕組みをわかりやすく解説します</h4>
+                    <p>保険加入時にはよく考えられたベストなプランであっても...</p>
+                    <time class="time" datetime="2021-03-16">2021.03.16 更新日：2023.07.19</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/life/post240.html" onMouseDown="ga('send','event','hokenmarket_top','car161');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post240_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】高額医療費制度を利用して入院・手術費用を軽減できます</h4>
+                    <p>大きな病気やケガをしたときには、治るかどうかという不安だけでなく治療費が...</p>
+                    <time class="time" datetime="2021-03-31">2021.3.31 更新日：2023.7.12</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/life/post340.html" onMouseDown="ga('send','event','hokenmarket_top','car160');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post340_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】マイナ保険証とは？メリット・デメリットを解説！</h4>
+                    <p>2021年10月から始まった、マイナンバーカードの保険証利用。</p>
+                    <time class="time" datetime="22023-07-05">2023.07.05</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/worry/post306.html" onMouseDown="ga('send','event','hokenmarket_top','car159');">
+					<p class="worry">心配事</p>
+                    <img src="/carna/images/post306_top.jpg" alt="" />
+                  <!-- <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>【FP監修】＜新型コロナウイルス感染症＞保険適用はどうなる？生命保険等での取扱いは？</h4>
+                    <p>2019年末に中国で確認されて以来、世界規模で広まっている新型コロナウイルス感染症。</p>
+                    <time class="time" datetime="2020-03-12">2020.03.12　更新日：2023.06.30、2022.09.29</time>
+                </a>
+            </li>
+
+		</ul>
+        
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

@@ -1,0 +1,49 @@
+<h2 class="ttl-article-sub">注目記事</h2>
+<ul class="articleRank">
+    <li>
+        <div class="articleRank-img"> <img src="/carna/detail/img/250/post234_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article other mb-10">その他</p>
+            <h4 class="ttl-articleRank"><a href="/carna/detail/post234.html">終身医療保険、賢く加入するための4つのポイント</a></h4>
+        </div>
+    </li>
+    <li class="bl-hot" style="cursor: pointer;">
+        <div class="articleRank-img"> <img src="/carna/detail/img/250/post214_top.jpg" width="100" alt=""></div>
+        <div class="articleRank-txt">
+            <p class="ico-article other mb-10">その他</p>
+            <h4 class="ttl-articleRank" style="height: 40px;"><a href="/carna/detail/post214.html" class="bl-bigger">自損事故後の流れとポイント、対象となる保険を解説</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="/carna/detail/img/50/post28_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article health mb-10">健 康</p>
+            <h4 class="ttl-articleRank"><a href="/carna/detail/post28.html">座りっぱなしのデスクワークは危険！腰痛や病気の対策をしよう！</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="/carna/detail/img/50/post45_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article children mb-10">子 供</p>
+            <h4 class="ttl-articleRank"><a href="/carna/detail/post45.html">大学進学にかかるお金は公的支援や学資保険でカバー</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="/carna/detail/img/150/post111_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article other mb-10">その他</p>
+            <h4 class="ttl-articleRank"><a href="/carna/detail/post111.html">他人事ではない！増加する自転車事故には保険で備えを</a></h4>
+        </div>
+    </li
+></ul>
+
+<script>
+$(function() {
+
+//ビックアリンク
+  $('.article-list-box').biggerlink();
+  $('.articleRank li').biggerlink();
+
+});
+
+</script> 

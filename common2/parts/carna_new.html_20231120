@@ -1,0 +1,52 @@
+<h4 class="NewsCarnaLogo">	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+
+		<ul class="carnaNews">
+			<li>
+                 <a href="/carna/life/post352.html" onMouseDown="ga('send','event','hokenmarket_top','car178');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post352_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】冬場に多いノロウイルス！主な症状や対処法は？</h4>
+                    <p>寒くなってくると感染症が多くなりますが、冬場に特に多発するのがノロウイルスです。</p>
+                    <time class="time" datetime="2023-11-15">2023.11.15</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/life/post354.html" onMouseDown="ga('send','event','hokenmarket_top','car177');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post354_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】ふるさと納税をつかって秋のお出かけを楽しもう！</h4>
+                    <p>応援したい自治体に寄付をすることで、所得税の還付や住民税の控除を受けることができる「ふるさと納税」。</p>
+                    <time class="time" datetime="2023-11-08">2023.11.08</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/life/post353.html" onMouseDown="ga('send','event','hokenmarket_top','car176');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post353_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】本格的な寒さが来る前に！冷え対策で暖かな冬を過ごしましょう</h4>
+                    <p>気象庁の2023年の冬の気温予測 （2023年9月19日発表）によりますと...</p>
+                    <time class="time" datetime="2023-11-01">2023.11.01</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/insurance/post349.html" onMouseDown="ga('send','event','hokenmarket_top','car175');">
+					<p class="insurance">保 険</p>
+                    <img src="/carna/images/post349_top.jpg" alt="" />
+                   <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>【FP監修】医療保険・がん保険のトレンドと見直しのポイント</h4>
+                    <p>医療保険・がん保険の加入率はかなり高く、民保加入世帯（かんぽ生命を除く）における...</p>
+                    <time class="time" datetime="2023-10-25">2023.10.25</time>
+                </a>
+            </li>
+		</ul>
+        
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

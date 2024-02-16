@@ -1,0 +1,52 @@
+<h4 class="NewsCarnaLogo">	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+
+		<ul class="carnaNews">
+            <li>
+                 <a href="/carna/children/post298.html" onMouseDown="ga('send','event','hokenmarket_top','car110');">
+					<p class="children">子 供</p>
+                    <img src="/carna/images/post298_top.jpg" alt="" />
+                    <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>子どものための傷害保険は加入するべき？いつ加入する？</h4>
+                    <p>子どもが日常生活で思わぬ事故にあってしまった場合や、第三者をケガさせてしまった場合･･･</p>
+                    <time class="time" datetime="2019-10-31">2019.10.31　更新日：2022.06.08</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/insurance/post88.html" onMouseDown="ga('send','event','hokenmarket_top','car109');">
+                    <p class="insurance">保 険</p>
+                    <img src="/carna/images/post88_top.jpg" alt=""/>
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>自動車保険だけじゃない！身近な危険から身を守る、備えておきたいSBI損保の保険</h4>
+                    <p>損害保険とは、自動車やモノの補償のほかに、事故によるケガや病気による入・通院にも･･･</p>
+                    <time class="time" datetime="2017-07-20">2017.12.20　更新日：2022.06.01</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/money/post219.html" onMouseDown="ga('send','event','hokenmarket_top','car108');">
+                    <p class="money">お 金</p>
+                    <img src="/carna/images/post219_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>老後の生活費の支出と収入を予測して充実した老後生活の準備をしよう！</h4>
+                    <p>多くの人は、60歳から70歳で現役をリタイアし、老後生活を迎えます。老後生活の･･･</p>
+                    <time class="time" datetime="2022-05-25">2022.05.25</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/insurance/post106.html" onMouseDown="ga('send','event','hokenmarket_top','car107');">
+                    <p class="insurance">保 険</p>
+                    <img src="/carna/images/post106_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>お金が貯まるって本当？貯蓄型保険の仕組みと上手な選び方</h4>
+                    <p>お金を貯める手段として、貯蓄型保険を利用する場合、どのようなメリット・デメリットが･･･</p>
+                    <time class="time" datetime="2022-05-18">2022.05.18</time>
+                </a>
+            </li>
+		</ul>
+        
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

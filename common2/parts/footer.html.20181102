@@ -1,0 +1,260 @@
+		<footer>
+			<nav id="footNav">
+				<div class="smpCtl footNavToggle"><p>サイトマップ</p></div>
+				<div class="wrap1100">
+					<div id="footNavSagasu">
+						<p class="footNavTtl01">
+							保険を探す
+						</p>
+						<div class="footerToggleSagasu">
+							<div class="footNavSagasuUnit01">
+
+								<p class="footNavTtl02"><a href="/type/">タイプ別に選ぶ</a></p>
+								<p class="smpCtl fnUlToggle">タイプ別に選ぶ</p>
+								<ul>
+									<li class="smpCtl"><a href="/type/">タイプ別に選ぶ</a></li>
+									<li><a href="/type/?single=1">単身者の方</a></li>
+									<li><a href="/type/?couple=1">ご夫婦の方</a></li>
+									<li><a href="/type/?family=1">ご家族の方</a></li>
+									<li><a href="/type/?own=1">自営業の方</a></li>
+								</ul>
+							<!--/div.footNavSagasuUnit-->
+							</div>
+							<div class="footNavSagasuUnit02">
+								<p class="footNavTtl02"><a href="/carna/lifestage/">ライフステージから探す</a></p>
+								<p class="smpCtl fnUlToggle">ライフステージから選ぶ</p>
+								<ul>
+									<li class="smpCtl"><a href="#">ライフステージから選ぶ</a></li>
+									<li><a href="/carna/detail/post59.html">就職</a></li>
+									<li><a href="/carna/detail/post27.html">結婚</a></li>
+									<li><a href="/carna/detail/post61.html">出産・子育て</a></li>
+									<li><a href="/carna/detail/post14.html">マイホーム購入</a></li>
+									<li><a href="/carna/detail/post62.html">ライフイベント</a></li>
+									<li><a href="/carna/detail/post64.html">セカンドライフ</a></li>
+								</ul>
+							<!--/div.footNavSagasuUnit-->
+							</div>
+							<div class="footNavSagasuUnit03">
+								<p class="footNavTtl02 fnPLink"><a href="/ranking/">ランキングから探す</a></p>
+								<p class="footNavTtl02"><a href="/carna/worry/">心配事から探す</a></p>
+								<p class="smpCtl fnUlToggle">心配事から探す</p>
+								<ul>
+									<li class="smpCtl"><a href="/carna/worry/">心配事から探す</a></li>
+									<li><a href="/carna/detail/post65.html">日常のトラブルに備えたい</a></li>
+									<li><a href="/carna/detail/post68.html">万が一に備えたい</a></li>
+									<li><a href="/carna/detail/post67.html">がんに備えたい</a></li>
+									<li><a href="/carna/detail/post66.html">病気に備えたい</a></li>
+									<li><a href="/carna/detail/post69.html">けがに備えたい</a></li>
+									<li><a href="/carna/detail/post70.html">教育資金の準備をしたい</a></li>
+									<li><a href="/carna/detail/post71.html">女性特有の病気に備えたい</a></li>
+									<li><a href="/carna/detail/post72.html">老後に備えたい</a></li>
+								</ul>
+								<!--<p class="footNavTtl02 fnPLink"><a href="/member/refine/">保険を条件から探す</a></p>-->
+                <!--
+								<p class="footNavTtl02"><a href="/member/product/orix/dammy.html">商品紹介</a></p>
+								<p class="smpCtl fnUlToggle">商品紹介</p>
+								<ul>
+									<li class="smpCtl"><a href="/member/product/orix/dammy.html">商品紹介</a></li>
+									<li><a href="/member/product/orix/dammy.html">商品紹介①</a></li>
+									<li><a href="/member/product/orix/dammy.html">商品紹介②</a></li>
+									<li><a href="/member/product/orix/dammy.html">商品紹介③</a></li>
+									<li><a href="/member/product/orix/dammy.html">商品紹介④</a></li>
+									<li><a href="/member/product/orix/dammy.html">商品紹介⑤</a></li>
+									<li><a href="/member/product/orix/dammy.html">商品紹介⑥</a></li>
+									<li><a href="/member/product/orix/dammy.html">商品紹介⑦</a></li>
+									<li><a href="/member/product/orix/dammy.html">商品紹介⑧</a></li>
+									<li><a href="/member/product/orix/dammy.html">商品紹介⑨</a></li>
+									<li><a href="/member/product/orix/dammy.html">商品紹介⑩</a></li>
+								</ul>-->
+							<!--/div.footNavSagasuUnit-->
+							</div>
+						<!--/div.footerToggleSagasu-->
+						</div>
+					<!--/div#footNavSagasu-->
+					</div>
+
+					<div class="footNavUnit01">
+						<p class="footNavTtl03"><a href="/basic/">保険の仕組み</a></p>
+						<p class="smpCtl footNavTtlShikumi">保険の仕組み</p>
+						<div class="footerToggleShikumi">
+							<ul class="footNavTtlShikumiUl">
+								<li class="smpCtl"><a href="/basic/">保険の仕組み</a></li>
+								<li><a href="/basic/sort/life.html">生命保険</a></li>
+								<li><a href="/basic/sort/medical.html">医療保険</a></li>
+								<li><a href="/basic/sort/accident.html">傷害保険</a></li>
+							</ul>
+						<!--/div.footerToggleShikumi-->
+						</div>
+
+						<p class="footNavTtl03 fnPTopLink"><a href="/glossary/">用語集</a></p>
+						<p class="footNavTtl03 fnPTopLink"><a href="/carna/">タスカルナ</a></p>
+						<p class="footNavTtl03"><a href="/login/">従業員</a></p>
+						<p class="smpCtl footNavTtlJugyoin">従業員さま専用</p>
+						<div class="footerToggleJugyoin">
+							<ul>
+								<li class="smpCtl"><a href="/login/">従業員さま専用</a></li>
+							</ul>
+						<!--/div.footerToggleJugyoin-->
+						</div>
+						<p class="footNavTtl03 fnPTopLink"><a href="/cookie_zamurai/">クッキー侍</a></p>
+					<!--/div.footNavUnit-->
+					</div>
+
+
+					<div class="footNavUnit02">
+						<p class="footNavTtl03"><a href="/campaign01/">キャンペーン一覧</a></p>
+						<p class="smpCtl footNavTtlCam">キャンペーン一覧</p>
+						<div class="footerToggleCam">
+							<ul>
+								<li class="smpCtl"><a href="/campaign01/">キャンペーン一覧</a></li>
+								<li><a href="/campaign01/otona/">おとなの自動車保険</a></li>
+								<!--<li><a href="/campaign01/limited/bicycle.html">イオンカード会員向け自動車プラン</a></li>-->
+								<li><a href="http://www.hokenmarket.net/campaign/sbisonpo/">SBI損保の自動車保険</a></li>
+								<li><a href="https://www.axa-direct.co.jp/ag/auto/aeon/">アクサダイレクトの自動車保険</a></li>
+							</ul>
+						<!--/div.footerToggleCam-->
+						</div>
+						<p class="footNavTtl03 fnPTopLink"><a href="/faq/">よくあるご質問・FAQ</a></p>
+						<p class="footNavTtl03 fnPTopLink"><a href="/ais/inquiry.html">お問い合わせ</a></p>
+						<p class="footNavTtl03"><a href="/shop/">保険ショップ/相談する</a></p>
+						<p class="smpCtl footNavTtlSoudan">保険ショップ/相談する</p>
+						<div class="footerToggleSoudan">
+							<ul>
+								<li><a href="/shop/">店舗で相談</a></li>
+								<li><a href="/campaign01/webtv">WEBTVで相談</a></li>
+							</ul>
+						<!--/div.footerToggleSoudan-->
+						</div>
+						<p class="footNavTtl03 fnPTopLink"><a href="/ais/privacy.html">個人情報保護方針</a></p>
+						<p class="footNavTtl03 fnPTopLink"><a href="http://www.hokenmarket.net/ais/" target="_blank">会社概要</a></p>
+						<p class="footNavTtl03 fnPTopLink"><a href="/ais/policy.html">サイトポリシー</a></p>
+						<p class="footNavTtl03 fnPTopLink"><a href="/ais/kanyuu.html">勧誘方針</a></p>
+						<p class="footNavTtl03 fnPTopLink"><a href="/ais/hansha.html">反社会的勢力対応基本方針</a></p>
+						<p class="footNavTtl03 fnPTopLink"><a href="/ais/fiduciary_duty.html">お客さま本位の業務運営基本方針</a></p>
+						<p class="footNavTtl03 fnPTopLink"><a href="/kiyaku/">利用規約</a></p>
+						<p class="footNavTtl03 fnPTopLink"><a href="/sitemap.html">サイトマップ</a></p>
+					<!--/div.footNavUnit-->
+					</div>
+				<!--/div.wrap1100-->
+				</div>
+			</nav>
+
+			<div class="wrap1100">
+				<p class="footLogo">
+					<a href="/">
+						AEON 保険マーケット イオン保険サービス
+					</a>
+				</p>
+				<div class="footSNS">
+					<ul>
+						<li class="footfbLink"><a href="https://ja-jp.facebook.com/hoken.aeon/"><img src="/common2/img/common/footFbLogo.png" alt="facebook" /></a></li>
+						<li class="footWoodLink"><a href="http://www.aeon.info/environment/"><img src="/common2/img/common/footerBannerWood.png" alt="木を植えています 私たちはイオンです。" /></a></li>
+					</ul>
+				<!--/div.footSNS-->
+				</div>
+				<p id="cpr">
+					Copyright(C) AEON INSURANCE SERVICE CO.,LTD. All Rights Reserved.
+				</p>
+			<!--/div.wrap1100-->
+			</div>
+		</footer>
+		
+		<!-- リマーケティング タグの Google コード -->
+        <!--------------------------------------------------
+        タグの設定方法については、こちらのページ
+        http://google.com/ads/remarketingsetup
+        --------------------------------------------------->
+        <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 1015506696;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+        </script>
+        <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+        </script>
+        <noscript>
+        <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1015506696/?guid=ON&amp;script=0"/>
+        </div>
+        </noscript>
+        
+        <!-- リマーケティング タグの Yahoo コード -->
+        <!-- Yahoo Code for your Target List -->
+        <script type="text/javascript">
+        /* <![CDATA[ */
+        var yahoo_ss_retargeting_id = 1000410049;
+        var yahoo_sstag_custom_params = window.yahoo_sstag_params;
+        var yahoo_ss_retargeting = true;
+        /* ]]> */
+        </script>
+        <script type="text/javascript" src="https://s.yimg.jp/images/listing/tool/cv/conversion.js">
+        </script>
+        <noscript>
+        <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="https://b97.yahoo.co.jp/pagead/conversion/1000410049/?guid=ON&script=0&disvt=false"/>
+        </div>
+        </noscript>
+
+
+        <!-- Yahoo Code for your Target List -->
+        <script type="text/javascript" language="javascript">
+        /* <![CDATA[ */
+        var yahoo_retargeting_id = '21BEYZA4XX';
+        var yahoo_retargeting_label = '';
+        var yahoo_retargeting_page_type = '';
+        var yahoo_retargeting_items = [{item_id: '', category_id: '', price: '', quantity: ''}];
+        /* ]]> */
+        </script>
+        <script type="text/javascript" language="javascript" src="https://b92.yahoo.co.jp/js/s_retargeting.js"></script>
+
+
+		<div id="convBtns">
+			<ul>
+				<li><a href="/shop/"><img src="/common2/img/common/miseSoudanBtn.png" alt="近くの店舗で直接相談" /></a></li>
+				<li><a href="/mag/"><img src="/common2/img/common/webSoudanBtn.png" alt="メルマガ登録" /></a></li>
+			</ul>
+		</div>
+		<p id="gotoTop">
+			<a href="#top"><img src="/common2/img/common/toTop.png" alt="Go to Top"></a>
+		</p>
+        <script type="text/javascript">
+            $(function(){
+                /* スマホフッターのナビ開閉 */
+                $("div.footNavToggle").on("click", function() {
+                    $("nav#footNav div.wrap1100").slideToggle(300);
+                    $(this).toggleClass("fvActive");
+                });
+                /* スマホフッターナビアコーディオン系 */
+                $("nav#footNav p.footNavTtl01").on("click", function() {
+                    var windowWidth = $(window).width();
+                    var windowSm = 740;
+                    if (windowWidth <= windowSm) {
+                        $(this).toggleClass("ftNavSagasuActive");
+                        $("div.footerToggleSagasu").slideToggle(300);
+                    }
+                });
+                $("p.footNavTtlShikumi").on("click", function() {
+                        $(this).toggleClass("footNavTtlShikumiActive");
+                        $("div.footerToggleShikumi").slideToggle();
+                });
+                $("p.footNavTtlJugyoin").on("click", function() {
+                        $(this).toggleClass("footNavTtlShikumiActive");
+                        $("div.footerToggleJugyoin").slideToggle();
+                });
+
+                $("p.footNavTtlCam").on("click", function() {
+                        $(this).toggleClass("footNavTtlCamActive");
+                        $("div.footerToggleCam").slideToggle();
+                });
+                $("p.footNavTtlSoudan").on("click", function() {
+                        $(this).toggleClass("footNavTtlSoudanActive");
+                        $("div.footerToggleSoudan").slideToggle();
+                });
+                $("div.footerToggleSagasu p.fnUlToggle").on("click", function() {
+                        $(this).toggleClass("fnUlToggleActive");
+                        $(this).next("ul").slideToggle();
+                });
+            });
+        </script>
+		<script type="text/javascript" src="/common2/js/common.js"></script>

@@ -1,0 +1,52 @@
+<h4 class="NewsCarnaLogo">	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+
+		<ul class="carnaNews">
+        <li>
+                 <a href="/carna/insurance/post323.html" onMouseDown="ga('send','event','hokenmarket_top','car131');">
+                    <p class="insurance">保 険</p>
+                    <img src="/carna/images/post323_top.jpg" alt="" />
+                    <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>公的介護保険と民間介護保険、それぞれの役割は？</h4>
+                    <p>人生100年時代、老後のお金について考えるとき、介護の費用も視野に入れておく必要があります。</p>
+                    <time class="time" datetime="2022-11-30">2022.11.30</time>
+                </a>
+            </li>
+        <li>
+                 <a href="/carna/life/post320.html" onMouseDown="ga('send','event','hokenmarket_top','car130');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post320_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>会社員や公務員も確定申告した方がよい？住宅ローン控除や医療費控除を解説！</h4>
+                    <p>皆さんは、毎年、年末調整をされますか？それとも確定申告をされますか？</p>
+                    <time class="time" datetime="2022-11-16">2022.11.16</time>
+                </a>
+            </li>
+        <li>
+                 <a href="/carna/life/post145.html" onMouseDown="ga('send','event','hokenmarket_top','car129');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post145_top.jpg" alt="" />
+                   <!-- <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>【FP監修】保険料は控除対象に？　年末調整の保険料控除の書き方を解説！</h4>
+                    <p>毎年10月を過ぎると、保険会社から「保険料控除証明書」が送られてきます。</p>
+                    <time class="time" datetime="2022-11-04">2022.11.04</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/life/post318.html" onMouseDown="ga('send','event','hokenmarket_top','car128');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post318_top.jpg" alt="" />
+                   <!-- <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>【FP監修】2022年10月 雇用保険料率と75歳以上の医療費負担割合が引き上げに！知っておくべき変更点とは</h4>
+                    <p>2022年10月から、さまざまな法律・制度が改正になりましたが・・</p>
+                    <time class="time" datetime="2022-11-04">2022.11.04</time>
+                </a>
+            </li>
+		</ul>
+        
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

@@ -1,0 +1,51 @@
+<h4 class="NewsCarnaLogo">
+	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+		<ul class="carnaNews">
+            <li>
+                 <a href="/carna/detail/post175.html" onMouseDown="ga('send','event','hokenmarket_top','car81');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/200/post175_top.jpg" alt="" />
+                    <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>高額になることもある自転車事故の賠償金！自転車保険に入るべき？</h4>
+                    <p>時には数千万円の損害賠償になることもある自転車事故の損害賠償訴訟･･･</p>
+                    <time class="time" datetime="2018-05-07">2018.05.07　更新日：2021.10.27</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post66.html" onMouseDown="ga('send','event','hokenmarket_top','car80');">
+                    <p class="newsworry">心配事</p>
+                    <img src="/carna/detail/img/100/post66_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>自分に万が一のことがあったときのために、今からできることは？</h4><br>
+                    <p>第一子となる子どもが生まれた、30歳になったばかりのDさん。パパデビューとなったDさんが･･･</p>
+                    <time class="time" datetime="2019-11-07">2019.11.07　更新日：2021.10.20</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post308.html" onMouseDown="ga('send','event','hokenmarket_top','car79');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/350/post308_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>自転車保険への加入は義務？入らないと大変なことになることも?加入の際の4つのポイント</h4>
+                    <p>令和2年4月1日より東京都では、条例が改正され、自転車をお持ちの方の加入が義務となっている･･･</p>
+                    <time class="time" datetime="2020-07-30">2020.07.30　更新日：2021.10.18</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post281.html" onMouseDown="ga('send','event','hokenmarket_top','car78');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/300/post281_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>火災保険の保険料について解説！</h4>
+                    <p>人生で一番高い買物ともいえる住宅購入ですが、大切な住宅にかける保険として「火災保険」が･･･</p>
+                    <time class="time" datetime="2019-11-07">2019.11.07　更新日：2021.10.13</time>
+                </a>
+            </li>
+		</ul>
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

@@ -1,0 +1,52 @@
+<h4 class="NewsCarnaLogo">	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+
+		<ul class="carnaNews">
+            <li>
+                 <a href="/carna/insurance/post25.html" onMouseDown="ga('send','event','hokenmarket_top','car113');">
+                    <p class="insurance">保 険</p>
+                    <img src="/carna/images/post25_top.jpg" alt=""/>
+                    <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>専業主婦の保険はどこまで必要？備えのポイントをチェック！</h4>
+                    <p>内閣府の調査によれば、専業主婦（夫）の労働を年収換算した場合、約300万円とのこと。収入･･･</p>
+                    <time class="time" datetime="2019-11-07">2019.11.07　更新日：2022.06.29</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/life/post133.html" onMouseDown="ga('send','event','hokenmarket_top','car112');">
+                    <p class="life">暮らし</p>
+                    <img src="/carna/images/post133_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>健康保険の種類とは？　保険証を見ればどの保険に入っているかわかります</h4>
+                    <p>国民皆保険制度のもとで日本国民全員が加入している公的医療保険。･･･</p>
+                    <time class="time" datetime="2017-12-20">2017.12.20　更新日：2022.06.22</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/worry/post87.html" onMouseDown="ga('send','event','hokenmarket_top','car111');">
+                    <p class="worry">心配事</p>
+                    <img src="/carna/images/post87_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>人の車を運転するときの不安を「ちょいのり保険」で解消しよう！</h4>
+                    <p>友人の車でドライブをしているとき、疲れた友人をみて、運転を代わりたいと思ったことはあり･･･</p>
+                    <time class="time" datetime="2017-11-14">2017.11.14　更新日：2022.06.15</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/children/post298.html" onMouseDown="ga('send','event','hokenmarket_top','car110');">
+					<p class="children">子 供</p>
+                    <img src="/carna/images/post298_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>子どものための傷害保険は加入するべき？いつ加入する？</h4>
+                    <p>子どもが日常生活で思わぬ事故にあってしまった場合や、第三者をケガさせてしまった場合･･･</p>
+                    <time class="time" datetime="2019-10-31">2019.10.31　更新日：2022.06.08</time>
+                </a>
+            </li>
+		</ul>
+        
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

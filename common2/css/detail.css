@@ -1,0 +1,1160 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*For PC style Sheet*/
+@media all and (min-width: 741px) {
+	div#hokenDetailOuter{
+		width: 1100px;
+		margin: 0 auto;
+		padding: 40px 0 1px;
+		background-color: #f3eced;
+	}
+	section#hokenDetail{
+		width: 892px;
+		background: #fff;
+		border: 4px solid #7a87a9;
+		padding: 60px 40px 40px 60px;
+		margin: 0 auto 40px;
+		/* box-shadow */
+		box-shadow:0px 5px 5px 0px #dedede;
+		-moz-box-shadow:0px 5px 5px 0px #dedede;
+		-webkit-box-shadow:0px 5px 5px 0px #dedede;
+	}
+	section#hokenDetail div#hokenDetailImg{
+		width: 198px;
+		height: 198px;
+		float: left;
+		border: 1px solid #dcdcdc;
+		margin-right: 40px;
+	}
+	section#hokenDetail div.hokenDetailTtl{
+		margin-left: 238px;
+		border-left: 4px solid #054a6d;
+		padding: 0 0 0 21px;
+		margin-bottom: 15px;
+	}
+	section#hokenDetail div.hokenDetailTtl h2{
+		font-size: 32px;
+		color: #054a6d;
+		line-height: 1em;
+		margin-bottom: 5px;
+	}
+	section#hokenDetail div.hokenDetailTtl h3{
+		font-size: 24px;
+		color: #054a6d;
+
+	}
+	section#hokenDetail p{
+		font-size: 13px;
+		color: #333;
+		line-height: 1.8em;
+	}
+
+	section#hokenDetail ul.hokenDetailLink{
+		width: 730px;
+		height: 70px;
+		margin: 40px auto 0;
+	}
+	section#hokenDetail ul li{list-style: none;}
+	section#hokenDetail ul li a{
+		width: 350px;
+		height: 70px;
+		float: left;
+		text-indent: -9999em;
+		transition: 0.3s ease;
+	}
+	section#hokenDetail ul li.detailLinkNet a{
+		background: url(../img/detail/netMoushikomi.png) no-repeat 0 0;
+		margin-right: 30px;
+	}
+	section#hokenDetail ul li.detailLinkShiryo a{
+		background: url(../img/detail/shiryoSeikyu.png) no-repeat 0 0;
+	}
+	section#hokenDetail ul li a:hover{
+		opacity: 0.75;
+		filter: alpha(opacity=75);
+	}
+	section#hokenTokuchou{
+		width: 1000px;
+		height: auto;
+		margin: 0 auto;
+	}
+	section#hokenTokuchou ul.tokuchouNav:after{
+		content: ".";
+		display: block;
+		clear: both;
+		height: 0;
+		visibility: hidden;
+	}
+	section#hokenTokuchou ul.tokuchouNav li{
+		width: 499px;
+		height: 50px;
+		display: block;
+		float: left;
+		background: #ffaf41;
+		color: #fff;
+		line-height: 50px;
+		font-size: 20px;
+		text-align: center;
+		border-bottom: 1px solid #ffaf41;
+		margin-top: 10px;
+		cursor: pointer;
+		transition: 0.3s ease;
+	}
+	section#hokenTokuchou ul.tokuchouNav li:hover,
+	section#hokenTokuchou ul.tokuchouNav li.active{
+		height: 60px;
+		line-height: 60px;
+		margin-top: 0;
+		background: #fff;
+		color: #ffaf41;
+	}
+	section#hokenTokuchou ul.tokuchouNav li:first-child{
+		border-right: 1px solid #ffaf41;
+	}
+	section#hokenTokuchou ul.tokuchouNav li:last-child{
+		border-left: 1px solid #ffaf41;
+	}
+	section#hokenTokuchou ul.tokuchouNav li.active{
+		border-left-color: #fff;
+		border-right-color: #fff;
+	}
+	section#hokenTokuchou div.tokuchou{
+		background: #fff;
+		width: 900px;
+		padding: 50px 50px 10px 50px;
+		display: block;
+	}
+	section#hokenTokuchou div.tokuchou ul li{
+		font-size: 24px;
+		font-weight: bold;
+		color: #333;
+		margin-bottom: 40px;
+	}
+	section#hokenTokuchou div.tokuchou ul li h4{
+		display: inline;
+		font-size: 24px;
+	}
+	section#hokenTokuchou div.tokuchou ul li p{
+		font-size: 14px;
+		padding-top: 20px;
+		font-weight: normal;
+	}
+	section#hokenTokuchou div.shousai{
+		background: #fff;
+		width: 900px;
+		padding: 50px 50px 10px 50px;
+		display: none;
+	}
+
+	section#hokenTokuchou div.shousaiHanni,
+	section#hokenTokuchou div.shousaiNaiyou,
+	section#hokenTokuchou div.shousaiJoho,
+	section#hokenTokuchou div.shousaiTsuika{
+		width: 840px;
+		margin: 0 auto 40px;
+	}
+	section#hokenTokuchou div.shousaiHanni h4,
+	section#hokenTokuchou div.shousaiNaiyou h4,
+	section#hokenTokuchou div.shousaiJoho h4,
+	section#hokenTokuchou div.shousaiTsuika h4{
+		border-bottom: 1px dashed #ccb5a4;
+		font-size: 22px;
+		color: #333;
+		padding-bottom: 10px;
+		margin-bottom: 10px;
+	}
+	section#hokenTokuchou div.shousaiHanni ul:after,
+	section#hokenTokuchou div.shousaiNaiyou ul:after,
+	section#hokenTokuchou div.shousaiJoho ul:after,
+	section#hokenTokuchou div.shousaiTsuika ul#tsuika:after{
+		content: ".";
+		display: block;
+		clear: both;
+		height: 0;
+		visibility: hidden;
+	}
+	section#hokenTokuchou div.shousaiHanni ul li{
+		height: 102px;
+		width: 160px;
+		padding-bottom: 58px;
+		float: left;
+		margin: 0 10px 10px 0;
+		color: #fff;
+		font-size: 16px;
+		list-style: none;
+	}
+	section#hokenTokuchou div.shousaiHanni ul li p{
+		display: table-cell;
+		width: 160px;
+		height: 102px;
+		vertical-align: middle;
+		text-align: center;
+	}
+	section#hokenTokuchou div.shousaiHanni ul li:nth-child(5n){
+		margin-right: 0;
+	}
+	section#hokenTokuchou div.shousaiHanni ul li.hanniMinus{
+		background: url(../img/detail/minus.png) no-repeat center 102px;
+		background-color: #d0d0d0;
+	}
+	section#hokenTokuchou div.shousaiHanni ul li.hanniMaru{
+		background: url(../img/detail/maru.png) no-repeat center 102px;
+		background-color: #7a87a9;
+	}
+	section#hokenTokuchou div.shousaiNaiyou ul{
+		width: 100%;
+		margin-bottom: 30px;
+	}
+
+	section#hokenTokuchou div.shousaiNaiyou ul li{
+		width: 160px;
+		height: 160px;
+		float: left;
+		margin: 0 10px 10px 0;
+		list-style: none;
+		background-color: #7a87a9;
+	}
+	section#hokenTokuchou div.shousaiNaiyou ul li:nth-child(5n){
+		margin-right: 0;
+	}
+	section#hokenTokuchou div.shousaiNaiyou ul li p{
+		display: table-cell;
+		width: 160px;
+		height: 160px;
+		vertical-align: middle;
+		text-align: center;
+		font-size: 16px;
+		color: #fff;
+	}
+	section#hokenTokuchou div.shousaiNaiyou p{
+		font-size: 14px;
+		color: #333;
+		line-height: 1.6em;
+	}
+	section#hokenTokuchou div.shousaiJoho ul li{
+		width: 156px;
+		height: 156px;
+		border: 2px solid #7a87a9;
+		float: left;
+		margin: 0 10px 10px 0;
+		background: #fff;
+	}
+	section#hokenTokuchou div.shousaiJoho ul li:nth-child(5n){
+		margin-right: 0;
+	}
+	section#hokenTokuchou div.shousaiJoho ul li span{
+		width: 156px;
+		height: 156px;
+		display: table-cell;
+		vertical-align: middle;
+		text-align: center;
+		font-size: 16px;
+		color: #333;
+		font-weight: 500;
+	}
+	section#hokenTokuchou div.shousaiTsuika ul#tsuika{
+		margin-bottom: 40px;
+	}
+	section#hokenTokuchou div.shousaiTsuika ul#tsuika li{
+		width: 156px;
+		height: 70px;
+		padding-bottom: 46px;
+		border: 2px solid #ff7942;
+		float: left;
+		margin: 0 10px 10px 0;
+		background: url(../img/detail/tsuikaDown.png) no-repeat center 70px;
+		cursor: pointer;
+		color: #333;
+		transition: 0.3s ease;
+	}
+	section#hokenTokuchou div.shousaiTsuika ul#tsuika li.active{
+		background: url(../img/detail/tsuikaUp.png) no-repeat center 70px;
+	}
+	section#hokenTokuchou div.shousaiTsuika ul#tsuika li span{
+		display: table-cell;
+		width: 156px;
+		height: 70px;
+		vertical-align: middle;
+		text-align: center;
+		font-size: 16px;
+		font-weight: 500;
+	}
+	section#hokenTokuchou div.shousaiTsuika ul#tsuika li.active span{
+		color: #ff7942;
+	}
+	section#hokenTokuchou div.shousaiTsuika ul#tsuika li:nth-child(5n){
+		margin-right: 0;
+	}
+	section#hokenTokuchou div.shousaiTsuika ul#tsuika li:hover{
+		background-color: #ffebe2;
+	}
+	section#hokenTokuchou div.shousaiTsuika div.tsuika01,
+	section#hokenTokuchou div.shousaiTsuika div.tsuika02,
+	section#hokenTokuchou div.shousaiTsuika div.tsuika03,
+	section#hokenTokuchou div.shousaiTsuika div.tsuika04,
+	section#hokenTokuchou div.shousaiTsuika div.tsuika05{
+		width: 790px;
+		padding: 20px 25px 20px 25px;
+		margin-bottom: 10px;
+		background-color: #ffebe2;
+		display: none;
+	}
+	section#hokenTokuchou div.shousaiTsuika div.tsuika01{
+		display: block;
+	}
+	section#hokenTokuchou div.shousaiTsuika div.tsuika01 h5,
+	section#hokenTokuchou div.shousaiTsuika div.tsuika02 h5,
+	section#hokenTokuchou div.shousaiTsuika div.tsuika03 h5,
+	section#hokenTokuchou div.shousaiTsuika div.tsuika04 h5,
+	section#hokenTokuchou div.shousaiTsuika div.tsuika05 h5{
+		font-size: 20px;
+		margin-bottom: 15px;
+		color: #333;
+	}
+	section#hokenTokuchou div.shousaiTsuika div.tsuika01 p,
+	section#hokenTokuchou div.shousaiTsuika div.tsuika02 p,
+	section#hokenTokuchou div.shousaiTsuika div.tsuika03 p,
+	section#hokenTokuchou div.shousaiTsuika div.tsuika04 p,
+	section#hokenTokuchou div.shousaiTsuika div.tsuika05 p{
+		font-size: 14px;
+		line-height: 1.8em;
+		color: #333;
+	}
+
+	div.buttonsPC{
+		width: 735px;
+		margin: 50px auto 53px;
+	}
+	div.buttonsPC ul li.moushikomiBan a{
+		width: 350px;
+		height: 70px;
+		display: block;
+		background: url(../img/detail/netMoushikomi.png) no-repeat 0 0;
+		text-indent: -9999em;
+		margin: 0 35px 30px 0;
+		float: left;
+		transition: 0.3s ease;
+	}
+	div.buttonsPC ul li.shiryouBan a{
+		width: 350px;
+		height: 70px;
+		display: block;
+		background: url(../img/detail/shiryoSeikyu.png) no-repeat 0 0;
+		text-indent: -9999em;
+		margin-bottom: 30px;
+		float: left;
+		transition: 0.3s ease;
+	}
+	div.buttonsPC ul li.keisanBan a{
+		width: 350px;
+		height: 70px;
+		display: block;
+		background: url(../img/detail/hokenryoKeisan.png) no-repeat 0 0;
+		text-indent: -9999em;
+		clear: both;
+		margin: 0 0 0 190px;
+		transition: 0.3s ease;
+	}
+	div.buttonsPC ul li a:hover{
+		opacity: 0.75;
+		filter: alpha(opacity=75);
+	}
+	div.buttonsPC ul:after{
+		content: ".";
+		display: block;
+		clear: both;
+		height: 0;
+		visibility: hidden;
+	}
+	aside#soudan{
+		position: fixed;
+		bottom: 0;
+		z-index: 100;
+		width: 100%;
+		background: #363636;
+		padding: 15px 0;
+	}
+	aside#soudan ul{
+		width: 725px;
+		margin: 0 auto;
+	}
+	aside#soudan ul:after{
+		content: ".";
+		display: block;
+		clear: both;
+		height: 0;
+		visibility: hidden;
+	}
+	aside#soudan ul li.tenpoBan a{
+		width: 350px;
+		height: 70px;
+		display: block;
+		background: url(../img/detail/tenpoSoudan.png) no-repeat 0 0;
+		text-indent: -9999em;
+		float: left;
+		margin-right: 25px;
+		transition: 0.3s ease;
+	}
+	aside#soudan ul li.webBan a{
+		width: 350px;
+		height: 70px;
+		display: block;
+		background: url(../img/detail/webTvSoudan.png) no-repeat 0 0;
+		text-indent: -9999em;
+		float: left;
+		transition: 0.3s ease;
+	}
+	aside#soudan ul li a:hover{
+		opacity: 0.75;
+		filter: alpha(opacity=75);
+	}
+	aside#otherInfo{
+		width: 1100px;
+		margin: 35px auto 60px;
+	}
+	aside#otherInfo:after{
+		content: ".";
+		display: block;
+		clear: both;
+		height: 0;
+		visibility: hidden;
+	}
+	aside#otherInfo ul{
+		margin-bottom: 60px;
+	}
+	aside#otherInfo ul li{
+		list-style: none;
+		font-size: 15px;
+		margin-bottom: 14px;
+		font-weight: 400;
+		line-height: 1.6em;
+		color: #333;
+	}
+	aside#otherInfo div.shopInfo{
+		width: 310px;
+		margin-right: 20px;
+		background-color: #f3eced;
+		float: left;
+		padding: 25px 20px 20px;
+	}
+	aside#otherInfo div.shopInfo:last-child{
+		margin-right: 0;
+	}
+	aside#otherInfo div.shopInfo h6{
+		background: url(../img/detail/blueCircle.png) no-repeat left 50%;
+		font-size: 18px;
+		line-height: 18px;
+		padding-left: 27px;
+		margin-bottom: 20px;
+		color: #333;
+		font-weight: 500;
+	}
+	aside#otherInfo div.shopInfo p{
+		font-size: 12px;
+		line-height: 1.8em;
+	}
+	section#kanrenKiji{
+		width: 100%;
+	}
+	section#kanrenKiji h3{
+		border-bottom: 1px solid #333;
+		text-align: center;
+		font-size: 36px;
+		font-weight: bold;
+		padding-bottom: 20px;
+		margin-bottom: 60px;
+	}
+	div#kijiCarna{
+		width: 580px;
+		margin: 0 auto;
+	}
+	section#kanrenKiji div#kijiCarna h4#carnaLogo a{
+		width: 396px;
+		height: 85px;
+		display: block;
+		background: url(../img/detail/carnaPcLogo.png) no-repeat 0 0;
+		text-indent: -99999em;
+		margin: 0 auto 30px;
+	}
+	div#kijiCarna ul,
+	div#kijiType ul{
+		width: 572px;
+		margin: 0 auto;
+	}
+
+	div#kijiCarna ul:after,
+	div#kijiType ul:after{
+		content: ".";
+		display: block;
+		clear: both;
+		height: 0;
+		visibility: hidden;
+	}
+	div#kijiCarna ul li,
+	div#kijiType ul li{
+		width: 255px;
+		height: 330px;
+		float: left;
+		position: relative;
+		/* box-shadow */
+		box-shadow:0px 0px 3px 3px #ececec;
+		-moz-box-shadow:0px 0px 3px 3px #ececec;
+		-webkit-box-shadow:0px 0px 3px 3px #ececec;
+	}
+	div#kijiCarna ul li:first-child,
+	div#kijiType ul li:first-child{
+		margin-right: 55px;
+	}
+	div#kijiCarna ul li p.iconKenko{
+		position: absolute;
+		top: 120px;
+		left: 10px;
+		width: 60px;
+		height: 20px;
+		z-index: 99;
+		background: url(../img/detail/kenkouIcon.png) no-repeat 0 0;
+		text-indent: -9999em;
+	}
+	div#kijiCarna ul li p.iconOther{
+		position: absolute;
+		top: 120px;
+		left: 10px;
+		width: 60px;
+		height: 20px;
+		z-index: 99;
+		background: url(../img/detail/otherIcon.png) no-repeat 0 0;
+		text-indent: -9999em;
+
+	}
+	div#kijiCarna ul li img,
+	div#kijiType ul li img{
+		width: 100%;
+		height: auto;
+		margin-bottom: 10px;
+	}
+	div#kijiCarna ul li h5,
+	div#kijiType ul li h5{
+		font-size: 16px;
+		padding: 0 20px;
+		margin-bottom: 10px;
+		color: #333;
+	}
+	div#kijiCarna ul li p,
+	div#kijiType ul li p{
+		padding: 0 20px;
+		font-size: 100%;
+		color: #333;
+	}
+	div#kijiCarna ul li p.KijiTime{
+		margin-top: 10px;
+		font-size: 12px;
+		font-weight: bold;
+	}
+	div#kijiCarna p.kijiIchiran a,
+	div#kijiType p.KijiMore a{
+		margin: 25px auto;
+		width: 296px;
+		height: 66px;
+		margin-bottom: 60px;
+		display: block;
+		border: 2px solid #ff7942;
+		color: #ff7942;
+		line-height: 66px;
+		font-size: 18px;
+		font-weight: bold;
+		text-align: center;
+		text-decoration: none;
+		background: url(../img/common/orngeCircleArrow.png) no-repeat 265px 50%;
+		transition: 0.3s ease;
+
+	}
+	div#kijiCarna p.kijiIchiran a:hover,
+	div#kijiType p.KijiMore a:hover{
+		background-color: #f3eced;
+	}
+	div#kijiType{
+		width: 572px;
+		margin: 0 auto;
+		padding-bottom: 35px;
+	}
+	div#kijiType h4{
+		text-align: center;
+		font-size: 32px;
+		font-weight: bold;
+		padding-bottom: 20px;
+		margin-bottom: 25px;
+	}
+}/* end pc style sheets
+and start smartphones styles*/
+@media all and (max-width: 740px) {
+	div#hokenDetailOuter{
+		width: 100%;
+		margin: 0 auto;
+		padding: 6.25% 0 6.25%;
+		background-color: #f3eced;
+	}
+	section#hokenDetail{
+		width: 72.9375%;
+		background: #fff;
+		border: 4px solid #7a87a9;
+		padding: 6.25% 6.25% 6.25% 9%;
+		margin: 0 auto 40px;
+		/* box-shadow */
+		box-shadow:0px 3px 3px 0px #dedede;
+		-moz-box-shadow:0px 3px 3px 0px #dedede;
+		-webkit-box-shadow:0px 3px 3px 0px #dedede;
+	}
+	section#hokenDetail div#hokenDetailImg{
+		width: 65%;
+		border: 1px solid #dcdcdc;
+		margin: 0 auto 6%;
+	}
+	section#hokenDetail div#hokenDetailImg img{
+		width: 100%;
+		height: auto;
+	}
+	section#hokenDetail div.hokenDetailTtl{
+
+		border-left: 4px solid #054a6d;
+		padding: 0 0 0 2%;
+		margin-bottom: 15px;
+	}
+	section#hokenDetail div.hokenDetailTtl h2{
+		font-size: 5vw;
+		color: #054a6d;
+		line-height: 1em;
+		margin-bottom: 5px;
+	}
+	section#hokenDetail div.hokenDetailTtl h3{
+		font-size: 4vw;
+		color: #054a6d;
+
+	}
+	section#hokenDetail p{
+		font-size: 3.2vw;
+		color: #333;
+		line-height: 1.8em;
+	}
+	section#hokenDetail p br{ display: none; }
+
+	section#hokenDetail ul.hokenDetailLink{
+		display: none;
+	}
+	section#hokenTokuchou{
+		width: 90.4375%;
+		height: auto;
+		margin: 0 auto;
+	}
+	section#hokenTokuchou ul.tokuchouNav:after{
+		content: ".";
+		display: block;
+		clear: both;
+		height: 0;
+		visibility: hidden;
+	}
+	section#hokenTokuchou ul.tokuchouNav li{
+		width: 49.5%;
+		height: 40px;
+		display: block;
+		float: left;
+		background: #ffaf41;
+		color: #fff;
+		line-height: 40px;
+		font-size: 4.5vw;
+		text-align: center;
+		border-bottom: 1px solid #ffaf41;
+	}
+	section#hokenTokuchou ul.tokuchouNav li.active{
+		height: 40px;
+		line-height: 40px;
+		margin-top: 0;
+		background: #fff;
+		color: #ffaf41;
+	}
+	section#hokenTokuchou ul.tokuchouNav li:first-child{
+		border-right: 1% solid #ffaf41;
+	}
+	section#hokenTokuchou ul.tokuchouNav li:last-child{
+		border-left: 1% solid #ffaf41;
+	}
+	section#hokenTokuchou ul.tokuchouNav li.active{
+		border-left-color: #fff;
+		border-right-color: #fff;
+	}
+	section#hokenTokuchou div.tokuchou{
+		background: #fff;
+		width: 99%;
+		display: block;
+	}
+	section#hokenTokuchou div.tokuchou ul li{
+		list-style: none;
+		min-height: 45px;
+		font-weight: bold;
+		color: #333;
+		border-bottom: 1px solid #f3eced;
+		padding: 15px 5.45%;
+	}
+	section#hokenTokuchou div.tokuchou ul li h4{
+		background: url(../img/detail/orangeArrowDown.png) no-repeat right 50%;
+		background-size: 5.5%;
+		padding-right: 10%;
+		display: block;
+		font-size: 4.5vw;
+	}
+	section#hokenTokuchou div.tokuchou ul li h4.opened{
+		background-image: url(../img/detail/orangeArrowUp.png);
+	}
+	section#hokenTokuchou div.tokuchou ul li h4 br{ display: none; }
+	section#hokenTokuchou div.tokuchou ul li p{
+		font-size: 4vw;
+		line-height: 1.6em;
+		font-weight: normal;
+		padding-top: 20px;
+		display: none;
+	}
+	section#hokenTokuchou div.tokuchou ul li p br{ display: none; }
+
+	section#hokenTokuchou div.shousai{
+		background: #fff;
+		width: 99%;
+		height: auto;
+		margin: 0 auto;
+		display: none;
+	}
+	section#hokenTokuchou div.shousai:after{
+		content: ".";
+		display: block;
+		clear: both;
+		height: 0;
+		visibility: hidden;
+	}
+
+	section#hokenTokuchou div.shousaiHanni,
+	section#hokenTokuchou div.shousaiNaiyou,
+	section#hokenTokuchou div.shousaiJoho,
+	section#hokenTokuchou div.shousaiTsuika{
+		width: 86.2%;
+		margin: 0 auto;
+		padding: 5% 6.9% 0;
+	}
+	section#hokenTokuchou div.shousaiHanni h4,
+	section#hokenTokuchou div.shousaiNaiyou h4,
+	section#hokenTokuchou div.shousaiJoho h4,
+	section#hokenTokuchou div.shousaiTsuika h4{
+		border-bottom: 1px dotted #cbb4a4;
+		font-size: 4.5vw;
+		color: #333;
+		padding-bottom: 1%;
+		margin-bottom: 10px;
+	}
+	section#hokenTokuchou div.shousaiHanni ul:after,
+	section#hokenTokuchou div.shousaiNaiyou ul:after,
+	section#hokenTokuchou div.shousaiJoho ul:after,
+	section#hokenTokuchou div.shousaiTsuika ul#tsuika:after{
+		content: ".";
+		display: block;
+		clear: both;
+		height: 0;
+		visibility: hidden;
+	}
+	section#hokenTokuchou div.shousaiHanni ul li{
+		width: 28%;
+		height: 100px;
+		float: left;
+		margin: 0 2% 10px 0;
+		padding: 4% 2% 2%;
+		color: #fff;
+		font-size: 3.5vw;
+		list-style: none;
+		display: inline-block;
+	}
+	section#hokenTokuchou div.shousaiHanni ul li p{
+		display: table-cell;
+		width: 100%;
+		vertical-align: middle;
+		text-align: center;
+	}
+	section#hokenTokuchou div.shousaiHanni ul li:nth-child(3n){
+		margin-right: 0;
+	}
+	section#hokenTokuchou div.shousaiHanni ul li.hanniMinus{
+		background: url(../img/detail/minus.png) no-repeat center 90%;
+		background-color: #d0d0d0;
+	}
+	section#hokenTokuchou div.shousaiHanni ul li.hanniMaru{
+		background: url(../img/detail/maru.png) no-repeat center 90%;
+		background-color: #7a87a9;
+	}
+	section#hokenTokuchou div.shousaiNaiyou ul{
+		width: 100%;
+		margin-bottom: 10px;
+	}
+
+	section#hokenTokuchou div.shousaiNaiyou ul li{
+		width: 28%;
+		height: 100px;
+		float: left;
+		margin: 0 2% 10px 0;
+		padding: 4% 2% 2%;
+		color: #fff;
+		font-size: 3.5vw;
+		list-style: none;
+		display: table-cell;
+		background-color: #7a87a9;
+		text-align: center;
+	}
+	section#hokenTokuchou div.shousaiNaiyou ul li:nth-child(3n){
+		margin-right: 0;
+	}
+	section#hokenTokuchou div.shousaiNaiyou ul li p{
+		display: table-cell;
+		width: 150px;
+		height: 100px;
+		vertical-align: middle;
+		text-align: center;
+		font-size: 3.5vw;
+		color: #fff;
+	}
+	section#hokenTokuchou div.shousaiNaiyou p{
+		font-size: 3.5vw;
+		color: #333;
+		line-height: 1.6em;
+	}
+
+	section#hokenTokuchou div.shousaiJoho ul li{
+		width: 32%;
+		height: 115px;
+		box-sizing:border-box;
+		border: 2px solid #7a87a9;
+		float: left;
+		margin: 0 2% 10px 0;
+		background: #fff;
+	}
+	section#hokenTokuchou div.shousaiJoho ul li:nth-child(3n){
+		margin-right: 0;
+	}
+	section#hokenTokuchou div.shousaiJoho ul li span{
+		width: 150px;
+		height: 115px;
+		display: table-cell;
+		vertical-align: middle;
+		text-align: center;
+		font-size: 3.5vw;
+		line-height: 1.2em;
+		color: #333;
+		font-weight: 500;
+	}
+	/*section#hokenTokuchou div.shousaiJoho ul li span br{ display: none; }*/
+	section#hokenTokuchou div.shousaiTsuika ul#tsuika{
+		padding-bottom: 15px;
+	}
+	section#hokenTokuchou div.shousaiTsuika ul#tsuika:after{
+		content: ".";
+		display: block;
+		clear: both;
+		height: 0;
+		visibility: hidden;
+	}
+	section#hokenTokuchou div.shousaiTsuika ul#tsuika li{
+		width: 32%;
+		height: 100px;
+		padding-bottom: 46px;
+		border: 2px solid #ff7942;
+		box-sizing: border-box;
+		float: left;
+		margin: 0 2% 10px 0;
+		background: url(../img/detail/tsuikaDown.png) no-repeat center 80%;
+		color: #333;
+	}
+	section#hokenTokuchou div.shousaiTsuika ul#tsuika li.active{
+		background: url(../img/detail/tsuikaUp.png) no-repeat center 80%;
+	}
+	section#hokenTokuchou div.shousaiTsuika ul#tsuika li span{
+		display: table-cell;
+		width: 156px;
+		height: 70px;
+		vertical-align: middle;
+		text-align: center;
+		font-size: 3.2vw;
+		font-weight: 500;
+	}
+	section#hokenTokuchou div.shousaiTsuika ul#tsuika li.active span{
+		color: #ff7942;
+	}
+	section#hokenTokuchou div.shousaiTsuika ul#tsuika li:nth-child(3n){
+		margin-right: 0;
+	}
+	section#hokenTokuchou div.shousaiTsuika div.tsuika01,
+	section#hokenTokuchou div.shousaiTsuika div.tsuika02,
+	section#hokenTokuchou div.shousaiTsuika div.tsuika03,
+	section#hokenTokuchou div.shousaiTsuika div.tsuika04,
+	section#hokenTokuchou div.shousaiTsuika div.tsuika05{
+		width: 90%;
+		padding: 5%;
+		margin-bottom: 10px;
+		background-color: #ffebe2;
+		display: none;
+	}
+	section#hokenTokuchou div.shousaiTsuika div.tsuika01{
+		display: block;
+	}
+	section#hokenTokuchou div.shousaiTsuika div.tsuika01 h5,
+	section#hokenTokuchou div.shousaiTsuika div.tsuika02 h5,
+	section#hokenTokuchou div.shousaiTsuika div.tsuika03 h5,
+	section#hokenTokuchou div.shousaiTsuika div.tsuika04 h5,
+	section#hokenTokuchou div.shousaiTsuika div.tsuika05 h5{
+		font-size: 4.5vw;
+		margin-bottom: 10px;
+		color: #333;
+	}
+	section#hokenTokuchou div.shousaiTsuika div.tsuika01 p,
+	section#hokenTokuchou div.shousaiTsuika div.tsuika02 p,
+	section#hokenTokuchou div.shousaiTsuika div.tsuika03 p,
+	section#hokenTokuchou div.shousaiTsuika div.tsuika04 p,
+	section#hokenTokuchou div.shousaiTsuika div.tsuika05 p{
+		font-size: 3.5vw;
+		line-height: 1.4em;
+		color: #333;
+	}
+	section#hokenTokuchou div.shousaiTsuika div:after{
+		content: ".";
+		display: block;
+		clear: both;
+		height: 0;
+		visibility: hidden;
+	}
+	div.buttonsPC{
+		display: none;
+	}
+	aside#soudan{
+		display: none;
+	}
+	aside#smpButtons{
+		position: fixed;
+		bottom: 0;
+		width: 90.9375%;
+		padding: 2% 4.53125%;
+		background-color: #363636;
+		z-index: 100;
+	}
+	aside#smpButtons ul{
+		width: 100%;
+	}
+	aside#smpButtons ul li{
+		float: left;
+		padding-top: 21%;
+	}
+	aside#smpButtons ul li.smpBtnNet{
+		width: 31.344%;
+		margin-right: 4.655%;
+		background: url(../img/detail/smpBtnNet.png) no-repeat 0 0;
+		background-size: contain;
+		text-indent: -9999em;
+
+	}
+	aside#smpButtons ul li.smpBtnShiryou{
+		width: 29.31%;
+		margin-right: 5%;
+		background: url(../img/detail/smpBtnShiryou.png) no-repeat 0 0;
+		background-size: contain;
+		text-indent: -9999em;
+
+	}
+	aside#smpButtons ul li.smpBtnTenpo{
+		width: 29.31%;
+		background: url(../img/detail/smpBtnTenpo.png) no-repeat 0 0;
+		background-size: contain;
+		text-indent: -9999em;
+	}
+	aside#smpButtons ul:after{
+		content: ".";
+		display: block;
+		clear: both;
+		height: 0;
+		visibility: hidden;
+	}
+
+
+	aside#otherInfo{
+		width: 90.4375%;
+		margin: 35px auto 30px;
+	}
+	aside#otherInfo:after{
+		content: ".";
+		display: block;
+		clear: both;
+		height: 0;
+		visibility: hidden;
+	}
+	aside#otherInfo ul{
+		margin-bottom: 20px;
+	}
+	aside#otherInfo ul li{
+		list-style: none;
+		font-size: 3.5vw;
+		margin-bottom: 1em;
+		font-weight: 400;
+		line-height: 1.4em;
+		color: #333;
+	}
+	aside#otherInfo div.shopInfo{
+		width: 90%;
+		background-color: #f3eced;
+		padding: 5%;
+		margin-bottom: 15px;
+	}
+	aside#otherInfo div.shopInfo:last-child{
+		margin-right: 0;
+	}
+	aside#otherInfo div.shopInfo h6{
+		background: url(../img/detail/blueCircle.png) no-repeat left 50%;
+		font-size: 4vw;
+		padding-left: 8%;
+		margin-bottom: 5px;
+		color: #333;
+		font-weight: bold;
+	}
+	aside#otherInfo div.shopInfo p{
+		font-size: 3.2vw;
+		line-height: 1.4em;
+	}
+	div.buttonsSmp{
+		width: 100%;
+		clear: both;
+	}
+	div.buttonsSmp ul li{
+		width: 80%;
+		margin: 0 auto;
+	}
+	div.buttonsSmp ul li a img{
+		margin-bottom: 20px;
+	}
+	section#kanrenKiji{
+		width: 100%;
+	}
+	section#kanrenKiji h3{
+		border-bottom: 1px solid #333;
+		text-align: center;
+		font-size: 6.5vw;
+		font-weight: bold;
+		padding-bottom: 8%;
+		margin-bottom: 20px;
+	}
+	div#kijiCarna{
+		width: 90.4375%;
+		margin: 0 auto;
+	}
+	section#kanrenKiji div#kijiCarna h4#carnaLogo a{
+		width: 75%;
+		padding-top: 16%;
+		display: block;
+		background: url(../img/detail/carnaSmpLogo.png) no-repeat center;
+		background-size: contain;
+		text-indent: -99999em;
+		margin: 0 auto 30px;
+	}
+	div#kijiCarna ul,
+	div#kijiType ul{
+		width: 100%;
+		margin: 0 auto;
+	}
+
+	div#kijiCarna ul:after,
+	div#kijiType ul:after{
+		content: ".";
+		display: block;
+		clear: both;
+		height: 0;
+		visibility: hidden;
+	}
+	div#kijiCarna ul li,
+	div#kijiType ul li{
+		width: 46%;
+		float: left;
+		position: relative;
+		/* box-shadow */
+		box-shadow:0px 0px 3px 3px #ececec;
+		-moz-box-shadow:0px 0px 3px 3px #ececec;
+		-webkit-box-shadow:0px 0px 3px 3px #ececec;
+	}
+	div#kijiCarna ul li:first-child,
+	div#kijiType ul li:first-child{
+		margin-right: 8%;
+	}
+	div#kijiCarna ul li p.iconKenko{
+		position: absolute;
+		top: 20%;
+		left: 3%;
+		width: 4%;
+		padding-top: 3%;
+		z-index: 99;
+		background: url(../img/detail/kenkouIcon.png) no-repeat 0 0;
+		background-size: contain;
+		text-indent: -9999em;
+	}
+	div#kijiCarna ul li p.iconOther{
+		position: absolute;
+		top: 20%;
+		left: 3%;
+		width: 4%;
+		padding-top: 3%;
+		z-index: 99;
+		background: url(../img/detail/otherIcon.png) no-repeat 0 0;
+		background-size: contain;
+		text-indent: -9999em;
+
+	}
+	div#kijiCarna ul li img,
+	div#kijiType ul li img{
+		width: 100%;
+		height: auto;
+		margin-bottom: 10px;
+	}
+	div#kijiCarna ul li h5,
+	div#kijiType ul li h5{
+		font-size: 3.5vw;
+		padding: 0 3%;
+		margin-bottom: 5px;
+		color: #333;
+	}
+	div#kijiCarna ul li p,
+	div#kijiType ul li p{
+		padding: 0 3%;
+		font-size: 3vw;
+		color: #333;
+	}
+	div#kijiCarna ul li p.KijiTime{
+		margin: 10px 0;
+		font-size: 3.5vw;
+		font-weight: bold;
+	}
+	div#kijiCarna p.kijiIchiran a,
+	div#kijiType p.KijiMore a{
+		margin: 25px auto;
+		width: 55%;
+		margin-bottom: 20px;
+		display: block;
+		border: 1px solid #ff7942;
+		color: #ff7942;
+		line-height: 2.4em;
+		font-size: 4.5vw;
+		font-weight: 500;
+		text-align: center;
+		text-decoration: none;
+		background: url(../img/common/orngeCircleArrow.png) no-repeat 92% 50%;
+		background-size: 5.5%;
+	}
+	div#kijiType{
+		width: 90.4375%;
+		margin: 0 auto;
+		padding-bottom: 35px;
+	}
+	div#kijiType h4{
+		text-align: center;
+		font-size: 4.5vw;
+		font-weight: bold;
+		padding-bottom: 20px;
+		margin-bottom: 25px;
+	}
+}

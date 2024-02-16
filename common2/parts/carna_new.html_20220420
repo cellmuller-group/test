@@ -1,0 +1,51 @@
+<h4 class="NewsCarnaLogo">
+	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+		<ul class="carnaNews">
+            <li>
+                 <a href="/carna/detail/post152.html" onMouseDown="ga('send','event','hokenmarket_top','car101');">
+                    <p class="other">その他</p>
+                    <img src="/carna/detail/img/200/post152_top.jpg" alt=""  style="height:153px"/>
+                    <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>ネット保険は一般的な保険とどう違う？ ネット保険のメリット・デメリット</h4>
+                    <p>近年、保険会社の店舗に足を運ばなくても家にいながら加入できるネット保険が･･･</p>
+                    <time class="time" datetime="2022-04-07">2022.04.07</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post206.html" onMouseDown="ga('send','event','hokenmarket_top','car100');">
+                    <p class="other">その他</p>
+                    <img src="/carna/detail/img/250/post206_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>個人年金保険ってどんな保険？特徴と選び方について紹介していきます！</h4>
+                    <p>日本の年金制度は、国が運営する「公的年金」が土台となり、その上乗せとして企業が･･</p>
+                    <time class="time" datetime="2022-03-31">2022.03.31</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post95.html" onMouseDown="ga('send','event','hokenmarket_top','car99');">
+                    <p class="other">その他</p>
+                    <img src="/carna/detail/img/100/post95_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>任意保険とは？任意保険の必要性と補償の種類について解説します！</h4>
+                    <p>自動車やバイクの保険には、加入することが義務付けられている自賠責保険と、加入･･･</p>
+                    <time class="time" datetime="2022-03-24">2022.03.24</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post72.html" onMouseDown="ga('send','event','hokenmarket_top','car98');">
+                    <p class="worry">心配事</p>
+                    <img src="/carna/detail/img/100/post72_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>老後の生活資金を準備するなら個人年金保険？それともiDeCo？</h4>
+                    <p>まだお子さまのいない、夫・妻ともに30歳を迎えたばかりのDさん夫婦。将来的には･･･</p>
+                    <time class="time" datetime="2019-11-06">2019.11.06　更新日：2022.03.17</time>
+                </a>
+            </li>
+		</ul>
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

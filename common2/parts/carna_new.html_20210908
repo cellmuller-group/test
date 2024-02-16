@@ -1,0 +1,49 @@
+<h4 class="NewsCarnaLogo">
+	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+		<ul class="carnaNews">
+            <li>
+                 <a href="/carna/detail/post23.html" onMouseDown="ga('send','event','hokenmarket_top','car72');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/50/post23_top.jpg" alt="" />
+                    <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>体調に敏感になろう！30代から気をつけたい女性特有の病気</h4><br>
+                    <p>30代に突入したら寝不足や飲み過ぎが以前より辛く感じるようになった、という人は多いのではないで･･･</p>
+                    <time class="time" datetime="2019-11-07">2019.11.07　更新日：2021.08.25</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post109.html" onMouseDown="ga('send','event','hokenmarket_top','car71');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/150/post109_top.jpg" alt="" />
+                    <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>スマホ落とす状況あるあるや修理費用、おすすめのスマホ保険を紹介</h4>
+                    <p>子どもが進学した、新社会人生活が始まるなど、新年に向けてスマホなどの日常品を新しくしたいと思い･･･</p>
+                    <time class="time" datetime="2020-01-27">2020.01.27　更新日：2021.08.19</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post246.html" onMouseDown="ga('send','event','hokenmarket_top','car70');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/250/post246_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>医療保険の先進医療特約は必要？ 先進医療について解説！</h4>
+                    <p>医療保険に付与する特約としてよく耳にするのが「先進医療特約」ですが、先進医療の内容や特約の特徴を･･･</p>
+                    <time class="newsDate">2021.08.17</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post232.html" onMouseDown="ga('send','event','hokenmarket_top','car69');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/250/post232_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>バイクに乗る前に任意保険に加入しましょう！バイクの任意保険について徹底解説！</h4>
+                    <p>バイクの交通事故は保有台数を考慮すると自動車よりも事故率が高く、死亡や大ケガに繋がる確率も高く･･･</p>
+                    <time class="newsDate">2021.07.21</time>
+                </a>
+            </li>
+		</ul>
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>

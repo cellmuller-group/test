@@ -1,0 +1,49 @@
+<h2 class="ttl-article-sub">注目記事</h2>
+<ul class="articleRank">
+    <li>
+        <div class="articleRank-img"> <img src="/carna/detail/img/100/post56_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article other mb-10">その他</p>
+            <h4 class="ttl-articleRank"><a href="/carna/detail/post56.html">1日(24時間)限定の自動車保険って何？</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="/carna/detail/img/50/post40_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article woman mb-10">女 性</p>
+            <h4 class="ttl-articleRank"><a href="/carna/detail/post40.html">不妊治療の費用は助成・保険でカバーできる？</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="/carna/detail/img/150/post135_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article other mb-10">その他</p>
+            <h4 class="ttl-articleRank"><a href="/carna/detail/post135.html">車上荒らしは他人事じゃない！事前と事後の対策を知ろう</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="/carna/detail/img/250/post234_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article other mb-10">その他</p>
+            <h4 class="ttl-articleRank"><a href="/carna/detail/post234.html">終身医療保険、賢く加入するための4つのポイント</a></h4>
+        </div>
+    </li>
+    <li class="bl-hot" style="cursor: pointer;">
+        <div class="articleRank-img"> <img src="/carna/detail/img/250/post214_top.jpg" width="100" alt=""></div>
+        <div class="articleRank-txt">
+            <p class="ico-article other mb-10">その他</p>
+            <h4 class="ttl-articleRank" style="height: 40px;"><a href="/carna/detail/post214.html" class="bl-bigger">自損事故後の流れとポイント、対象となる保険を解説</a></h4>
+        </div>
+    </li>
+</ul>
+
+<script>
+$(function() {
+
+//ビックアリンク
+  $('.article-list-box').biggerlink();
+  $('.articleRank li').biggerlink();
+
+});
+
+</script> 

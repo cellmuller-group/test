@@ -1,0 +1,53 @@
+<h4 class="NewsCarnaLogo">	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+
+		<ul class="carnaNews">
+			<li>
+                 <a href="/carna/life/post167.html" onMouseDown="ga('send','event','hokenmarket_top','car155');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post167_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】駐車場での事故、正しい対処法について解説します</h4>
+                    <p>一般道路において、車は車両通行帯を一方向のみに走行するので、運転手は...</p>
+                    <time class="time" datetime="2022-10-28">2022.10.28 更新日：2023.06.14</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/insurance/post317.html" onMouseDown="ga('send','event','hokenmarket_top','car154');">
+					<p class="insurance">保 険</p>
+                    <img src="/carna/images/post317_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】旅行を楽しみたいけどキャンセル料が不安…対策はある？</h4>
+                    <p>2023年5月8日に新型コロナウイルス感染症が５類に移行したことにより...</p>
+                    <time class="time" datetime="2022-10-28">2022.10.28 更新日：2023.06.14</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/life/post338.html" onMouseDown="ga('send','event','hokenmarket_top','car153');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post338_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】「がんのアピアランスケア」とは？</h4>
+                    <p>一生涯を通して、日本人の2人に1人がかかるといわれている「がん」。</p>
+                    <time class="time" datetime="2023-06-07">2023.06.07</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/children/post123.html" onMouseDown="ga('send','event','hokenmarket_top','car152');">
+					<p class="children">子 供</p>
+                    <img src="/carna/images/post123_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】学資保険のメリット・デメリットは？</h4>
+                    <p>親に万一のことがあっても、お子さまの教育費を確保できる学資保険は、そんな思いに寄り添ってくれるかもしれません。</p>
+                    <time class="time" datetime="2020-06-09">2020.06.09 更新日：2023.05.31</time>
+                </a>
+            </li>
+     
+		</ul>
+        
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

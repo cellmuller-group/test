@@ -1,0 +1,56 @@
+<h4 class="NewsCarnaLogo">	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+
+		<ul class="carnaNews">
+			<li>
+                 <a href="/carna/woman/post47.html" onMouseDown="ga('send','event','hokenmarket_top','car148');">
+					<p class="woman">女 性</p>
+                    <img src="/carna/images/post47_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】産休スタート！お給料はもらえる？どういう仕組みなの？</h4>
+                    <p>仕事を持つ女性が子供を授かると、産前・産後休業（産休）を取得することができます。</p>
+                    <time class="time" datetime="2017-03-08">2017.03.08 更新日：2023.05.02</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/insurance/post333.html" onMouseDown="ga('send','event','hokenmarket_top','car147');">
+					<p class="insurance">保 険</p>
+                    <img src="/carna/images/post333_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】自賠責保険料が2年ぶりの値下げ。新設される賦課金とは？</h4>
+                    <p>自動車を購入すると必ず加入する「自賠責保険」。</p>
+                    <time class="time" datetime="2023-04-26">2023.04.26</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/lifestage/post332.html" onMouseDown="ga('send','event','hokenmarket_top','car146');">
+					<p class="lifestage">ライフステージ</p>
+                    <img src="/carna/images/post332_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】育休後の働き方はどう決める？時短とフルタイムのメリット・デメリットを紹介！</h4>
+                    <p>現在育休をとられている方にとって、復帰後どんな働き方をするかは悩むポイントですよね。</p>
+                    <time class="time" datetime="2023-04-19">2023.04.19</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/life/post334.html" onMouseDown="ga('send','event','hokenmarket_top','car145');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post334_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】カード会員専用保険に加入した方がいい？加入を考える時に知っておきたい、メリットと注意点</h4>
+                    <p>クレジットカードに新規入会すると、カード会社から「カード会員専用保険」...</p>
+                    <time class="time" datetime="2023-04-12">2023.04.12</time>
+                </a>
+            </li>
+
+
+
+     
+		</ul>
+        
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

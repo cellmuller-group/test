@@ -1,0 +1,22 @@
+
+<div class="campaign_detail" data-start="2022/07/01 00:00" data-end="2022/10/01 00:00">
+    <div class="sid-bot-bnr">
+        <!-- オンライン相談
+        <a href="/shop/online/" onmousedown="ga('send','event','hokenmarket_carna','online_pc');"><img src="/carna/img/bnr_online_275x250.jpg" alt="イオンのほけんオンライン相談" style="margin-bottom:15px;"></a> -->                
+        <a href="/campaign01/fire_2208cp/" onmousedown="ga('send','event','hokenmarket_carna','2208firecp_pc');"><img src="/carna/img/carna-fire_2208cp275-250.jpg" alt="火災保険新規ご成約キャンペーン" style="margin-bottom:15px;" width="275" height="250"></a>
+        <a href="/campaign01/life_2207cp/" onmousedown="ga('send','event','hokenmarket_carna','2207lifecp_pc');"><img src="/carna/img/bnr_life_2207cp_19_275x250.jpg" alt="WEB成約キャンペーン" style="margin-bottom:15px;" width="275" height="250"></a>
+        <a href="/campaign01/heatstroke_2208cp/" onmousedown="ga('send','event','hokenmarket_carna','heatcp08_pc');"><img src="/carna/img/bnr_heatcp08_275x250.jpg" alt="熱中症ほけんキャンペーン" style="margin-bottom:15px;" width="275" height="250"></a>
+        <a href="https://www.md1.jp/aeon/list/index.shtml?ag=010401&cd=V2200200&utm_source=aeon&utm_medium=display&utm_campaign=banner02" onmousedown="ga('send','event','hokenmarket_carna','mdcp_pc81');" target="_blank"><img src="/carna/img/bnr_mdcp_275x250_20220801.jpg" alt="三井ダイレクト損保キャンペーン" style="margin-bottom:15px;" width="275" height="250"></a>
+        <a href="/insurance/asahi_life/" onmousedown="ga('send','event','hokenmarket_carna','asahicp_pc');"><img src="/carna/img/bnr_asahi_275x250_20220701.jpg" alt="朝日生命キャンペーン" style="margin-bottom:15px;" width="275" height="250"></a>
+    </div>
+    <div class="sp-bot-bnr">
+        <!-- オンライン相談
+        <a href="/shop/online/" onmousedown="ga('send','event','hokenmarket_carna','online_sp');"><img src="/carna/img/bnr_online_336x106.jpg" alt="イオンのほけんオンライン相談" style="margin-bottom:30px;"></a> -->
+        <a href="/campaign01/fire_2208cp/" onmousedown="ga('send','event','hokenmarket_carna','2208firecp_sp');"><img src="/carna/img/carna-fire_2208cp336-106.jpg" alt="WEB成約キャンペーン" style="margin-bottom:15px;" width="275" height="250"></a>
+        <a href="/campaign01/life_2207cp/" onmousedown="ga('send','event','hokenmarket_carna','2207lifecp_sp');"><img src="/carna/img/bnr_life_2207cp_19_336x106.jpg" alt="WEB成約キャンペーン" style="margin-bottom:15px;" width="275" height="250"></a>
+        <a href="/campaign01/heatstroke_2208cp/" onmousedown="ga('send','event','hokenmarket_carna','heatcp08_sp');"><img src="/carna/img/bnr_heatcp08_336x106.jpg" alt="熱中症ほけんキャンペーン" style="margin-bottom:15px;" width="275" height="250"></a>        
+        <a href="https://www.md1.jp/aeon/list/index.shtml?ag=010401&cd=V2200200&utm_source=aeon&utm_medium=display&utm_campaign=banner02" onmousedown="ga('send','event','hokenmarket_carna','mdcp_sp81');" target="_blank"><img src="/carna/img/bnr_mdcp_336x106_20220801.jpg" alt="三井ダイレクト損保キャンペーン" style="margin-bottom:30px;" width="336" height="106"></a>
+        <a href="/insurance/asahi_life/" onmousedown="ga('send','event','hokenmarket_carna','asahicp_sp');"><img src="/carna/img/bnr_asahi_336x106_20220701.jpg" alt="朝日生命キャンペーン" style="margin-bottom:30px;" width="336" height="160"></a>
+    </div>
+</div>
+

@@ -1,0 +1,11 @@
+<div class="campaign_detail" data-start="2023/11/01 09:00" data-end="2024/04/01 00:00">
+    <div class="sid-bot-bnr">
+        <a href="https://www.md1.jp/aeon/list/index.shtml?ag=010401&cd=V2205400&utm_source=aeon&utm_medium=display&utm_campaign=banner34" onmousedown="ga('send','event','hokenmarket_carna','mdcp_pc230608');" target="_blank"><img src="/carna/img/bnr_mitsui_d_hd_275_250_2311.png" alt="三井ダイレクト損保キャンペーン" style="margin-bottom:15px;" width="275" height="250"></a>
+    </div>
+</div>
+
+<!----><div class="campaign_detail" data-start="2023/09/01 00:00" data-end="2023/11/01 00:00">
+    <div class="sid-bot-bnr">
+        <a href="https://www.md1.jp/aeon/list/index.shtml?ag=010401&cd=V2205400&utm_source=aeon&utm_medium=display&utm_campaign=banner34" onmousedown="ga('send','event','hokenmarket_carna','mdcp_pc230608');" target="_blank"><img src="/carna/img/bnr_mitsui_d_hd_275_250.jpg" alt="三井ダイレクト損保キャンペーン" style="margin-bottom:15px;" width="275" height="250"></a>
+    </div>
+</div>

@@ -1,0 +1,62 @@
+@charset "utf-8";
+
+.only_pc{display: block!important;}
+.only_sp{display: none!important;}
+.indent01{padding-left: 1em; text-indent: -1em;}
+
+footer{margin-top:45px;}
+#area-main{border-top:0;}
+
+.clearfix {zoom: 1;}
+.clearfix:before,
+.clearfix:after {content: ""; display: table;}
+.clearfix:after {clear: both;}
+
+#content{color:#3d3a39; margin:0 auto; padding:0; border-top:none; font-family:'Roboto', "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;}
+#content a:hover{opacity:0.9; filter: alpha(opacity=90); -ms-filter: "alpha(opacity=90)";}
+#content a img:hover{opacity:0.9; filter: alpha(opacity=90); -ms-filter: "alpha(opacity=90)";}
+
+#content *{-webkit-box-sizing: border-box; box-sizing: border-box;}
+#content img{max-width: 100%; height: auto; vertical-align: bottom; display:inline-block; margin-left:auto; margin-right:auto;}
+
+/* pc */
+#content .mb10{margin-bottom:10px;}
+#content .mb20{margin-bottom:20px;}
+#content .mb30{margin-bottom:30px;}
+#content .mb50{margin-bottom:50px;}
+#content .inner{width:800px; margin:0 auto; text-align:left;}
+#content h2{font-size:25px; border-left:solid 10px #b60081; margin-top:20px; margin-bottom:20px; padding-left:20px;}
+#content h3{margin-bottom:30px; background:#b60081; color:#FFFFFF; font-size:20px; font-weight:bold; text-align:center; padding:10px;}
+#content h4{font-size:15px; font-weight:bold; margin-bottom:10px;}
+#content p{font-size:15px;}
+#content p.right{text-align:right;}
+#content td.item01{font-size:15px; font-weight:bold; width:80px;}
+#content td.item02{font-size:15px; padding-bottom:20px;}
+
+
+/* sp */
+@media screen and (max-width: 740px) {
+	.only_pc{display: none!important;}
+	.only_sp{display: block!important;}
+	body{margin:0;}
+	#content{width:100%;}
+	#content img{width:100%;}
+	footer{margin-top:0;}
+	div#footNavSagasu p.fnPLink,div.footerToggleSagasu p.fnUlToggle,footer nav#footNav div#footNavSagasu p.footNavTtl01,footer nav#footNav div.footNavToggle p,footer nav#footNav div.footerToggleShikumi ul,footer nav#footNav p.fnPTopLink,footer nav#footNav p.footNavTtlCam,footer nav#footNav p.footNavTtlJugyoin,footer nav#footNav p.footNavTtlShikumi,footer nav#footNav p.footNavTtlSoudan,nav#footNav div.footerToggleCam ul,nav#footNav div.footerToggleJugyoin ul,nav#footNav div.footerToggleSoudan ul{margin-bottom:0}
+	#content .inner{width:90%; margin-left:5%; margin-right:5%;}
+	#content .mb10{margin-bottom:1%;}
+	#content .mb20{margin-bottom:2%;}
+	#content .mb30{margin-bottom:3%;}
+	#content .mb50{margin-bottom:5%;}
+	#content h2{font-size:20px; border-left:solid 10px #b60081; margin-top:2%; marign-bottom:3%;}
+	table {width: 100%; border-collapse:  collapse;} 
+	tr,
+	table td{display: block; width: 100%; position: relative;}
+	#content h3{margin-bottom:30px; background:#b60081; color:#FFFFFF; font-size:18px; font-weight:bold; text-align:left; padding:10px;}
+	#content h4{font-size:14px; font-weight:bold; margin-bottom:10px;}
+	#content p{font-size:14px;}
+	#content td.item01{font-size:14px; font-weight:bold; width:100%;}
+	#content td.item02{font-size:14px; padding-bottom:20px;}
+
+}
+

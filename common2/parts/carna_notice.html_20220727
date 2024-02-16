@@ -1,0 +1,48 @@
+<h2 class="ttl-article-sub">注目記事</h2>
+<ul class="articleRank">
+    <li>
+        <div class="articleRank-img"> <img src="/carna/images/post311_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article insurance mb-10">保 険</p>
+            <h4 class="ttl-articleRank"><a href="/carna/insurance/post311.html">むずかしい知識 ゼロ！からスタート!“自動車保険の見直し”体験レポート『のんびりできる休日は夫婦で仲良くお見積り』</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="/carna/images/post25_top.jpg" width="100" alt=""></div>
+        <div class="articleRank-txt">
+            <p class="ico-article insurance mb-10">保 険</p>
+            <h4 class="ttl-articleRank"><a href="/carna/insurance/post25.html">専業主婦の保険はどこまで必要？備えのポイントをチェック！</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="/carna/images/post133_top.jpg" width="100" alt=""></div>
+        <div class="articleRank-txt">
+            <p class="ico-article life mb-10">暮らし</p>
+            <h4 class="ttl-articleRank"><a href="/carna/life/post133.html">健康保険の種類とは？　保険証を見ればどの保険に入っているかわかります</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="../images/post87_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article worry mb-10">心配事</p>
+            <h4 class="ttl-articleRank"><a href="../worry/post87.html">人の車を運転するときの不安を「ちょいのり保険」で解消しよう！</a></h4>
+        </div>
+    <li>
+        <div class="articleRank-img"> <img src="../images/post298_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article children mb-10">子 供</p>
+            <h4 class="ttl-articleRank"><a href="../children/post298.html">子どものための傷害保険は加入するべき？いつ加入する？</a></h4>
+        </div>
+    </li>
+</ul>
+
+<script>
+$(function() {
+
+//ビックアリンク
+  $('.article-list-box').biggerlink();
+  $('.articleRank li').biggerlink();
+
+});
+
+</script> 

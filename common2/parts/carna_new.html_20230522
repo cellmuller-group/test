@@ -1,0 +1,56 @@
+<h4 class="NewsCarnaLogo">	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+
+		<ul class="carnaNews">
+			<li>
+                 <a href="/carna/insurance/post163.html" onMouseDown="ga('send','event','hokenmarket_top','car150');">
+					<p class="insurance">保 険</p>
+                    <img src="/carna/images/post163_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】外資系保険会社の生命保険、メリット・デメリットは？</h4>
+                    <p>保険に入ろう！保険を見直そう！と思っても、たくさん種類があって迷ってしまいますよね。</p>
+                    <time class="time" datetime="2021-07-01">2021.07.08 更新日：2023.05.17</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/children/post336.html" onMouseDown="ga('send','event','hokenmarket_top','car149');">
+					<p class="children">子 供</p>
+                    <img src="/carna/images/post336_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】「こども家庭庁」が発足！家庭とどんなかかわりがある？</h4>
+                    <p>2023年4月1日、内閣総理大臣の直属の機関として「こども家庭庁」が発足しました。</p>
+                    <time class="time" datetime="2023-05-11">2023.05.11</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/woman/post47.html" onMouseDown="ga('send','event','hokenmarket_top','car148');">
+					<p class="woman">女 性</p>
+                    <img src="/carna/images/post47_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】産休スタート！お給料はもらえる？どういう仕組みなの？</h4>
+                    <p>仕事を持つ女性が子供を授かると、産前・産後休業（産休）を取得することができます。</p>
+                    <time class="time" datetime="2017-03-08">2017.03.08 更新日：2023.05.02</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/insurance/post333.html" onMouseDown="ga('send','event','hokenmarket_top','car147');">
+					<p class="insurance">保 険</p>
+                    <img src="/carna/images/post333_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】自賠責保険料が2年ぶりの値下げ。新設される賦課金とは？</h4>
+                    <p>自動車を購入すると必ず加入する「自賠責保険」。</p>
+                    <time class="time" datetime="2023-04-26">2023.04.26</time>
+                </a>
+            </li>
+
+
+
+     
+		</ul>
+        
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

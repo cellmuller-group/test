@@ -1,0 +1,53 @@
+<h4 class="NewsCarnaLogo">	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+
+		<ul class="carnaNews">
+			<li>
+                 <a href="/carna/money/post325.html" onMouseDown="ga('send','event','hokenmarket_top','car184');">
+					<p class="money">お 金</p>
+                    <img src="/carna/images/post325_top.png" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】2024年からどう変わる？新NISAについて</h4>
+                    <p>将来に向けて、お金の準備をしていますか？</p>
+                    <time class="time" datetime="2023-02-20">2023.02.20 更新日：2024.01.10</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/life/post361.html" onMouseDown="ga('send','event','hokenmarket_top','car184');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post361_top.jpg" alt="" />
+                   <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>認知症予防のために</h4>
+                    <p>歳をとれば誰もが認知症になる可能性があります。</p>
+                    <time class="time" datetime="2023-12-22">2023.12.22</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/life/post360.html" onMouseDown="ga('send','event','hokenmarket_top','car183');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post360_top.jpg" alt="" />
+                   <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>家族が認知症になったら</h4>
+                    <p>家族が認知症になった場合は、介護の方法やよくある悩みなど...</p>
+                    <time class="time" datetime="2023-12-22">2023.12.22</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/worry/post356.html" onMouseDown="ga('send','event','hokenmarket_top','car182');">
+					<p class="worry">心配事</p>
+                    <img src="/carna/images/post356_top.jpg" alt="" />
+                   <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>【FP監修】アルツハイマー型認知症新薬「レカネマブ」とは？</h4>
+                    <p>厚生労働省の推計によると、2030年には1,500万人もの人が...</p>
+                    <time class="time" datetime="2023-12-19">2023.12.19</time>
+                </a>
+            </li>
+
+		</ul>
+        
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

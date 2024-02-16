@@ -1,0 +1,52 @@
+<h4 class="NewsCarnaLogo">	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+
+		<ul class="carnaNews">
+            <li>
+                 <a href="/carna/insurance/post312.html" onMouseDown="ga('send','event','hokenmarket_top','car116');">
+                    <p class="insurance">保 険</p>
+                    <img src="/carna/images/post312_top.jpg" alt="" />
+                    <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>2022年10月火災保険料が値上げされる？理由と対策方法</h4>
+                    <p>2022年は値上げラッシュが続き、また値上げ？と驚いたかもしれません。しかし実際に･･･</p>
+                    <time class="time" datetime="2022-07-27">2022.07.27</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/woman/post174.html" onMouseDown="ga('send','event','hokenmarket_top','car115');">
+                    <p class="woman">女 性</p>
+                    <img src="/carna/images/post174_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>帝王切開で医療保険の給付を受けるには妊娠前の加入が必要</h4>
+                    <p>「女性は妊娠前に医療保険に入っておくべき」といわれるのは、妊娠中はさまざまなトラブルが･･･</p>
+                    <time class="time" datetime="2018-07-20">2018.07.20　更新日：2022.07.13</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/insurance/post311.html" onMouseDown="ga('send','event','hokenmarket_top','car114');">
+					<p class="insurance">保 険</p>
+                    <img src="/carna/images/post311_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>むずかしい知識 ゼロ！からスタート!“自動車保険の見直し”体験レポート『のんびりできる休日は夫婦で仲良くお見積り』</h4>
+                    <p>ひさしぶりに夫婦揃っての休日。 ちょうど連休で時間もあることだし･･･</p>
+                    <time class="time" datetime="2022.07.04">2022.07.04</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/insurance/post25.html" onMouseDown="ga('send','event','hokenmarket_top','car113');">
+                    <p class="insurance">保 険</p>
+                    <img src="/carna/images/post25_top.jpg" alt=""/>
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>専業主婦の保険はどこまで必要？備えのポイントをチェック！</h4>
+                    <p>内閣府の調査によれば、専業主婦（夫）の労働を年収換算した場合、約300万円とのこと。収入･･･</p>
+                    <time class="time" datetime="2019-11-07">2019.11.07　更新日：2022.06.29</time>
+                </a>
+            </li>
+		</ul>
+        
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

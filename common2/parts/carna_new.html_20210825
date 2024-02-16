@@ -1,0 +1,49 @@
+<h4 class="NewsCarnaLogo">
+	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+		<ul class="carnaNews">
+            <li>
+                 <a href="/carna/detail/post246.html" onMouseDown="ga('send','event','hokenmarket_top','car70');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/250/post246_top.jpg" alt="" />
+                    <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>医療保険の先進医療特約は必要？ 先進医療について解説！</h4>
+                    <p>医療保険に付与する特約としてよく耳にするのが「先進医療特約」ですが、先進医療の内容や特約の特徴を･･･</p>
+                    <time class="newsDate">2021.08.17</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post232.html" onMouseDown="ga('send','event','hokenmarket_top','car69');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/250/post232_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>バイクに乗る前に任意保険に加入しましょう！バイクの任意保険について徹底解説！</h4>
+                    <p>バイクの交通事故は保有台数を考慮すると自動車よりも事故率が高く、死亡や大ケガに繋がる確率も高く･･･</p>
+                    <time class="newsDate">2021.07.21</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post163.html" onMouseDown="ga('send','event','hokenmarket_top','car68');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/200/post163_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>外資系保険会社の生命保険、メリット・デメリットは？</h4><br>
+                    <p>保険に入ろう！保険を見直そう！と思っても、たくさん種類があって迷ってしまいますよね。保険の選び方･･･</p>
+                    <time class="newsDate">2021.07.08</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post160.html" onMouseDown="ga('send','event','hokenmarket_top','car67');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/200/post160_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>家財保険とは？加入する必要性は？家財保険の理解を深めましょう！</h4>
+                    <p>家財保険はどのような保険なのか。何が補償されて、何が補償されないのか。･･･</p>
+                    <time class="newsDate">2021.07.01</time>
+                </a>
+            </li>
+		</ul>
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>

@@ -1,0 +1,56 @@
+<h2 class="ttl-article-sub">注目記事</h2>
+<ul class="articleRank">
+    <li>
+        <div class="articleRank-img"> <img src="/carna/images/post09_top.png" width="100" alt=""></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 woman">女 性</p>
+            <h4 class="ttl-articleRank"><a href="../woman/post09.html">＜毎年10月はピンクリボン運動強化月間＞乳がん早期発見のカギは検診とセルフチェック！</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="/carna/images/post316_top.jpg" width="100" alt=""></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 life">暮らし</p>
+            <h4 class="ttl-articleRank"><a href="../life/post316.html">2022年10月社会保険の加入範囲拡大で何が変わるの？</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="../images/post310_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 money">お 金</p>
+            <h4 class="ttl-articleRank"><a href="../money/post310.html">＜2022年10月最新版＞今日からできる！相次ぐ値上げを乗り切る方法</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="../images/post274_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 insurance">保 険</p>
+            <h4 class="ttl-articleRank"><a href="../insurance/post274.html">マンションにおける火災保険 加入の必要性は？</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="../images/post315_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 life">暮らし</p>
+            <h4 class="ttl-articleRank"><a href="../life/post315.html">熱中症が増える時期のマスクはどうする？熱中症になった場合の備えは？</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="/carna/images/post314_top.jpg" width="100" alt=""></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 life">暮らし</p>
+            <h4 class="ttl-articleRank"><a href="../life/post314.html">円安の今、外貨建て保険の加入は損？</a></h4>
+        </div>
+    </li>
+</ul>
+
+<script>
+$(function() {
+
+//ビックアリンク
+  $('.article-list-box').biggerlink();
+  $('.articleRank li').biggerlink();
+
+});
+
+</script> 

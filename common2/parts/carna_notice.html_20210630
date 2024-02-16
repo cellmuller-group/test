@@ -1,0 +1,55 @@
+<h2 class="ttl-article-sub">注目記事</h2>
+            <ul class="articleRank">
+                <li>
+                    <div class="articleRank-img"> <img src="/carna/detail/img/150/post132_top.jpg" width="100" alt="" /></div>
+                    <div class="articleRank-txt">
+                        <p class="ico-article other mb-10">その他</p>
+                        <h4 class="ttl-articleRank"><a href="/carna/detail/post132.html">火災保険の選び方は？オススメの火災保険は？徹底解説します！</a></h4>
+                        <!-- <time class="time">2017.12.20</time> -->
+                    </div>
+                </li>
+                <li>
+                    <div class="articleRank-img"> <img src="/carna/detail/img/150/post127_top.jpg" width="100" alt="" /></div>
+                    <div class="articleRank-txt">
+                        <p class="ico-article other mb-10">その他</p>
+                        <h4 class="ttl-articleRank"><a href="/carna/detail/post127.html">私的年金ってなに？個人年金保険とiDeCoどっちがおすすめ？</a></h4>
+                        <!-- <time class="time">2017.08.01</time> -->
+                    </div>
+                </li>
+                <li>
+                    <div class="articleRank-img"> <img src="/carna/detail/img/150/post140_top.jpg" width="100" alt="" /></div>
+                    <div class="articleRank-txt">
+                        <p class="ico-article other mb-10">その他</p>
+                        <h4 class="ttl-articleRank"><a href="/carna/detail/post140.html">解約返戻金ってどんなもの？</a></h4>
+                        <!-- <time class="time">2017.08.01</time> -->
+                    </div>
+                </li>
+                <li>
+                    <div class="articleRank-img"> <img src="/carna/detail/img/200/post170_top.jpg" width="100" alt="" /></div>
+                    <div class="articleRank-txt">
+                        <p class="ico-article other mb-10">その他</p>
+                        <h4 class="ttl-articleRank"><a href="/carna/detail/post170.html">車の修理費用の相場は？どこで修理すると良いの？</a></h4>
+                        <!-- <time class="time">2017.08.01</time> -->
+                    </div>
+                </li>
+                <li>
+                    <div class="articleRank-img"> <img src="/carna/detail/img/150/post101_top.jpg" width="100" alt="" /></div>
+                    <div class="articleRank-txt">
+                        <p class="ico-article other mb-10">その他</p>
+                        <h4 class="ttl-articleRank"><a href="/carna/detail/post101.html">保険で貯蓄？貯蓄型保険の活用方法をご紹介
+</a></h4>
+                        <!-- <time class="time">2017.11.14</time> -->
+                    </div>
+                </li>
+            </ul>
+            
+<script>
+$(function() {
+
+//ビックアリンク
+  $('.article-list-box').biggerlink();
+  $('.articleRank li').biggerlink();
+
+});
+
+</script> 

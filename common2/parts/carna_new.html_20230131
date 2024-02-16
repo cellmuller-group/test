@@ -1,0 +1,54 @@
+<h4 class="NewsCarnaLogo">	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+
+		<ul class="carnaNews">
+        <li>
+                 <a href="/carna/worry/post324.html" onMouseDown="ga('send','event','hokenmarket_top','car134');">
+					<p class="worry">心配事</p>
+                    <img src="/carna/images/post324_top.png" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】家族の介護で仕事を辞めないといけない？収入はどうなる？</h4>
+                    <p>将来、家族の介護が必要になったとき、「仕事と介護の両立をどうすべきか」ご心配ではないでしょうか。</p>
+                    <time class="time" datetime="2022-12-26">2022.12.26</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/lifestage/post321.html" onMouseDown="ga('send','event','hokenmarket_top','car133');">
+					<p class="lifestage">ライフステージ</p>
+                    <img src="/carna/images/post321_top.png" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】退職後に必要な社会保険の手続きとは？転職先が決まっていない場合の期限や手続きを解説</h4>
+                    <p>終身雇用があたりまえだった時代、退職といえば多くの場合定年退職のことを・・</p>
+                    <time class="time" datetime="2022-12-26">2022.12.26</time>
+                </a>
+            </li>
+        <li>
+                 <a href="/carna/life/post322.html" onMouseDown="ga('send','event','hokenmarket_top','car132');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post322_top.jpg" alt="" />
+                   <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>【FP監修】ガソリン代の高騰はいつまで？家計を圧迫する車の維持費を節約する方法</h4>
+                    <p>維持するにはとてもお金がかかるけれど、日々の生活に便利な車。そして、車に乗るために必要不可欠なガソリン。</p>
+                    <time class="time" datetime="2022-12-07">2022.12.07</time>
+                </a>
+            </li>
+        <li>
+                 <a href="/carna/insurance/post323.html" onMouseDown="ga('send','event','hokenmarket_top','car131');">
+                    <p class="insurance">保 険</p>
+                    <img src="/carna/images/post323_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>【FP監修】公的介護保険と民間介護保険、それぞれの役割は？</h4>
+                    <p>人生100年時代、老後のお金について考えるとき、介護の費用も視野に入れておく必要があります。</p>
+                    <time class="time" datetime="2022-11-30">2022.11.30</time>
+                </a>
+            </li>
+        
+        
+		</ul>
+        
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

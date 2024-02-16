@@ -1,0 +1,52 @@
+<h4 class="NewsCarnaLogo">	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+
+		<ul class="carnaNews">
+			<li>
+                 <a href="/carna/money/post348.html" onMouseDown="ga('send','event','hokenmarket_top','car172');">
+					<p class="money">お 金</p>
+                    <img src="/carna/images/post348_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】今後の税制はどう変わる？家計への影響予測と対策</h4>
+                    <p>日本の税制は毎年見直され、少しずつ変更されているのをご存知でしょうか。</p>
+                    <time class="time" datetime="2023-10-04">2023.10.04</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/children/post345.html" onMouseDown="ga('send','event','hokenmarket_top','car171');">
+					<p class="children">子 供</p>
+                    <img src="/carna/images/post345_top.jpg" alt="" />
+                   <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>【FP監修】子どもがネットトラブルに巻き込まれた！対処方法は？</h4>
+                    <p>皆さまはお子さまにスマートフォンなどの通信機器を利用させていらっしゃいますか？</p>
+                    <time class="time" datetime="2023-09-29">2023.09.29</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/life/post347.html" onMouseDown="ga('send','event','hokenmarket_top','car170');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post347_top.jpg" alt="" />
+                   <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>【FP監修】病院に行かなくてもいい！さまざまな受診方法を紹介</h4>
+                    <p>病気や怪我をすると、医療機関へ訪問し、対面で医師の診察を受けることで処置や薬の処方を受けます。</p>
+                    <time class="time" datetime="2023-09-20">2023.09.20</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/worry/post346.html" onMouseDown="ga('send','event','hokenmarket_top','car169');">
+					<p class="worry">心配事</p>
+                    <img src="/carna/images/post346_top.jpg" alt="" />
+                   <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>【FP監修】認知症ってどんな症状？予防や治療方法とは</h4>
+                    <p>もし、親や身近な人が認知症になったら、どうすればいいのか、何ができるのか、ご存知ですか？</p>
+                    <time class="time" datetime="2023-09-13">2023.09.13</time>
+                </a>
+            </li>
+		</ul>
+        
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

@@ -1,0 +1,49 @@
+<h2 class="ttl-article-sub">注目記事</h2>
+<ul class="articleRank">
+<li>
+<div class="articleRank-img"> <img src="../images/post322_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 life">暮らし</p>
+            <h4 class="ttl-articleRank"><a href="/carna/life/post322.html">ガソリン代の高騰はいつまで？家計を圧迫する車の維持費を節約する方法</a></h4>
+        </div>
+    </li>
+<li>
+<div class="articleRank-img"> <img src="../images/post323_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 insurance">保 険</p>
+            <h4 class="ttl-articleRank"><a href="/carna/insurance/post323.html">公的介護保険と民間介護保険、それぞれの役割は？</a></h4>
+        </div>
+    </li>
+<li>
+<div class="articleRank-img"> <img src="../images/post320_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 life">暮らし</p>
+            <h4 class="ttl-articleRank"><a href="/carna/life/post320.html">会社員や公務員も確定申告した方がよい？住宅ローン控除や医療費控除を解説！</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="../images/post145_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 life">暮らし</p>
+            <h4 class="ttl-articleRank"><a href="/carna/life/post145.html">【FP監修】保険料は控除対象に？　年末調整の保険料控除の書き方を解説！</a></h4>
+        </div>
+    </li>
+    <li>
+        <div class="articleRank-img"> <img src="../images/post318_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 life">暮らし</p>
+            <h4 class="ttl-articleRank"><a href="/carna/life/post318.html">【FP監修】2022年10月 雇用保険料率と75歳以上の医療費負担割合が引き上げに！知っておくべき変更点とは</a></h4>
+        </div>
+    </li>
+</ul>
+
+<script>
+$(function() {
+
+//ビックアリンク
+  $('.article-list-box').biggerlink();
+  $('.articleRank li').biggerlink();
+
+});
+
+</script> 

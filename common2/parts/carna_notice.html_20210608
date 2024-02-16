@@ -1,0 +1,54 @@
+<h2 class="ttl-article-sub">注目記事</h2>
+            <ul class="articleRank">
+                <li>
+                    <div class="articleRank-img"> <img src="/carna/detail/img/1708/post100_top.jpg" width="100" alt="" /></div>
+                    <div class="articleRank-txt">
+                        <p class="ico-article other mb-10">その他</p>
+                        <h4 class="ttl-articleRank"><a href="/carna/detail/post100.html">迷ってしまう保険の選び方。世代別、おすすめの保険を紹介します！</a></h4>
+                        <!-- <time class="time">2017.12.20</time> -->
+                    </div>
+                </li>
+                <li>
+                    <div class="articleRank-img"> <img src="/carna/detail/img/1712/post218_top.jpg" width="100" alt="" /></div>
+                    <div class="articleRank-txt">
+                        <p class="ico-article other mb-10">その他</p>
+                        <h4 class="ttl-articleRank"><a href="/carna/detail/post218.html">共済年金と厚生年金の一元化が将来の年金生活に与える影響は？</a></h4>
+                        <!-- <time class="time">2017.08.01</time> -->
+                    </div>
+                </li>
+                <li>
+                    <div class="articleRank-img"> <img src="/carna/detail/img/1712/post231_top.jpg" width="100" alt="" /></div>
+                    <div class="articleRank-txt">
+                        <p class="ico-article other mb-10">その他</p>
+                        <h4 class="ttl-articleRank"><a href="/carna/detail/post231.html">バイクの任意保険には加入すべき？</a></h4>
+                        <!-- <time class="time">2017.08.01</time> -->
+                    </div>
+                </li>
+                <li>
+                    <div class="articleRank-img"> <img src="/carna/detail/img/161216/post20_top.jpg" width="100" alt="" /></div>
+                    <div class="articleRank-txt">
+                        <p class="ico-article many mb-10">お 金</p>
+                        <h4 class="ttl-articleRank"><a href="/carna/detail/post20.html">平均相場は800万円以上!子どもの養育費はどれくらいかかる？</a></h4>
+                        <!-- <time class="time">2017.12.20</time> -->
+                    </div>
+                </li>
+                <li>
+                    <div class="articleRank-img"> <img src="/carna/detail/img/1708/post115_top.jpg" width="100" alt="" /></div>
+                    <div class="articleRank-txt">
+                        <p class="ico-article other mb-10">その他</p>
+                        <h4 class="ttl-articleRank"><a href="/carna/detail/post115.html">年金問題を考える 拠出型企業年金保険の役割と期待</a></h4>
+                        <!-- <time class="time">2017.11.14</time> -->
+                    </div>
+                </li>
+            </ul>
+            
+<script>
+$(function() {
+
+//ビックアリンク
+  $('.article-list-box').biggerlink();
+  $('.articleRank li').biggerlink();
+
+});
+
+</script> 

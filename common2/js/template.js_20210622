@@ -1,0 +1,7 @@
+$(function(){
+// include
+    $('#header-area01').load('/common2/parts/header.html');
+    $('#header-area02').load('/common2/parts/header02.html');
+    $('#footer-area').load('/common2/parts/footer.html');
+    $('#carna-notice').load('/common2/parts/carna_notice.html');//20210511 タスカルナの注目記事
+})

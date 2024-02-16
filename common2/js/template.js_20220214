@@ -1,0 +1,11 @@
+$(function(){
+// include
+    $('#header-area01').load('/common2/parts/header.html');
+    $('#header-area02').load('/common2/parts/header02.html');
+    $('#footer-area').load('/common2/parts/footer.html');
+    $('#carna-new').load('/common2/parts/carna_new.html');//タスカルナ トップページ4記事
+    $('#carna-notice').load('/common2/parts/carna_notice.html');//タスカルナの注目記事
+    $('#carna-ranking').load('/common2/parts/carna_ranking.html');//タスカルナのランキング
+    $('#carna-social-bnr').load('/common2/parts/carna_social_bnr.html');//タスカルナのランキング
+    $('#header-area03').load('/common2/parts/header03.html');//職域
+})

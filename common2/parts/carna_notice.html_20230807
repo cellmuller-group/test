@@ -1,0 +1,49 @@
+<h2 class="ttl-article-sub">注目記事</h2>
+<ul class="articleRank">
+	<li>
+<div class="articleRank-img"> <img src="../images/post341_top.jpg" width="100" height="auto" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 children">子 供</p>
+            <h4 class="ttl-articleRank"><a href="/carna/children/post341.html">【FP監修】 話題の児童手当、どんな仕組み？どう変わるの？</a></h4>
+        </div>
+    </li>
+	<li>
+<div class="articleRank-img"> <img src="../images/post339_top.jpg" width="100" height="auto" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 worry">心配事</p>
+            <h4 class="ttl-articleRank"><a href="/carna/worry/post339.html">【FP監修】熱中症に気を付けて夏のレジャーを楽しむには？</a></h4>
+        </div>
+    </li>
+	<li>
+<div class="articleRank-img"> <img src="../images/post223_top.jpg" width="100" height="auto" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 insurance">保 険</p>
+            <h4 class="ttl-articleRank"><a href="/carna/insurance/post223.html">【FP監修】払済保険とは？仕組みをわかりやすく解説します</a></h4>
+        </div>
+    </li>
+	<li>
+<div class="articleRank-img"> <img src="../images/post240_top.jpg" width="100" height="auto" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 life">暮らし</p>
+            <h4 class="ttl-articleRank"><a href="/carna/life/post240.html">【FP監修】高額医療費制度を利用して入院・手術費用を軽減できます</a></h4>
+        </div>
+    </li>
+	<li>
+<div class="articleRank-img"> <img src="../images/post340_top.jpg" width="100" height="auto" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 life">暮らし</p>
+            <h4 class="ttl-articleRank"><a href="/carna/life/post340.html">【FP監修】マイナ保険証とは？メリット・デメリットを解説！</a></h4>
+        </div>
+    </li>
+    </ul>
+
+<script>
+$(function() {
+
+//ビックアリンク
+  $('.article-list-box').biggerlink();
+  $('.articleRank li').biggerlink();
+
+});
+
+</script> 

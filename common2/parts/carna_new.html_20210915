@@ -1,0 +1,51 @@
+<h4 class="NewsCarnaLogo">
+	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+		<ul class="carnaNews">
+            <li>
+                 <a href="/carna/detail/post269.html" onMouseDown="ga('send','event','hokenmarket_top','car74');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/300/post269_top.jpg" alt="" />
+                    <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>がん治療は医療保険だけでカバーできない？「がん保険」で安心！</h4>
+                    <p>ここでは、がんの医療費の自己負担額、医療費以外にかかる費用を紹介します。また、公的医療保険･･･</p>
+                    <time class="time" datetime="2019-11-07">2019.11.07　更新日：2021.09.09</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post87.html" onMouseDown="ga('send','event','hokenmarket_top','car73');">
+                    <p class="newsworry">心配事</p>
+                    <img src="/carna/detail/img/100/post87_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>人の車を運転するときの不安を「ちょいのり保険」で解消しよう！</h4>
+                    <p>友人の車でドライブをしているとき、疲れた友人をみて、運転を代わりたいと思ったことはありま･･･</p>
+                    <time class="time" datetime="2017-11-14">2017.11.14　更新日：2021.08.26</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post23.html" onMouseDown="ga('send','event','hokenmarket_top','car72');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/50/post23_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>体調に敏感になろう！30代から気をつけたい女性特有の病気</h4><br>
+                    <p>30代に突入したら寝不足や飲み過ぎが以前より辛く感じるようになった、という人は多いのではないで･･･</p>
+                    <time class="time" datetime="2019-11-07">2019.11.07　更新日：2021.08.25</time>
+                </a>
+            </li>
+            <li>
+                 <a href="/carna/detail/post109.html" onMouseDown="ga('send','event','hokenmarket_top','car71');">
+                    <p class="newsEtc">その他</p>
+                    <img src="/carna/detail/img/150/post109_top.jpg" alt="" />
+                    <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>スマホ落とす状況あるあるや修理費用、おすすめのスマホ保険を紹介</h4>
+                    <p>子どもが進学した、新社会人生活が始まるなど、新年に向けてスマホなどの日常品を新しくしたいと思い･･･</p>
+                    <time class="time" datetime="2020-01-27">2020.01.27　更新日：2021.08.19</time>
+                </a>
+            </li>
+		</ul>
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->

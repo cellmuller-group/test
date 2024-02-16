@@ -1,0 +1,200 @@
+		<footer>
+<section class="l-footer">
+  <div class="p-footer">
+    <div class="p-footer-inner">
+      <div class="is-pc">
+        <div class="p-footer-cont c-flex c-col">
+          <ul>
+            <li><a href="/basic/">保険の仕組み</a></li>
+            <li><a href="/basic/sort/life.html">生命保険</a></li>
+            <li><a href="/basic/sort/medical.html">医療保険</a></li>
+            <li><a href="/basic/sort/accident.html">損害保険</a></li>
+            <li><a href="/glossary/">用語集</a></li>
+            <li><a href="/carna/">タスカルナ</a></li>
+            <li><a href="/login/">従業員</a></li>
+            <li><a href="/konsarun/">こんさるん</a></li>
+            <li><a href="https://www.aeon.info/sustainability/kokoro/" target="_blank">イオン　心をつなぐプロジェクト</a></li>
+          </ul>
+          <ul>
+            <li><a href="/ais/inquiry.html">お問い合わせ</a></li>
+            <li><a href="/faq/">よくあるご質問・FAQ</a></li>
+            <li><a href="/shop/">保険ショップ一覧</a></li>
+            <li><a href="/houjin/">法人保険</a></li>
+            <li><a href="/ais/hansha.html">反社会的勢力対応基本方針</a></li>
+            <li><a href="/kiyaku/social_kiyaku.pdf">ソーシャルメディア利用規約</a></li>
+            <li><a href="/ais/fiduciary_duty.html">お客さま本位の業務運営基本方針</a></li>
+            <li><a href="/sitemap.html">サイトマップ</a></li>
+            <li><a href="https://aeon1p.or.jp/1p/" target="_blank">社会貢献活動（イオン1%クラブ）</a></li>
+          </ul>
+          <ul>
+            <li><a href="http://www.hokenmarket.net/ais/" target="_blank">会社概要</a></li>
+            <li><a href="/ais/job/index.html">採用情報</a></li>
+            <li><a href="/kiyaku/">利用規約</a></li>
+            <li><a href="/ais/privacy.html">個人情報保護方針</a></li>
+            <li><a href="/ais/privacy-employee.html">従業員等の個人情報の利用目的</a></li>
+            <!--<li><a href="/ais/kenko-keiei.html">健康経営宣言</a></li>-->
+            <li><a href="/ais/policy.html">サイトポリシー</a></li>
+            <li><a href="/ais/kanyuu.html">勧誘方針</a></li>
+            
+            
+          </ul>
+        </div>
+      </div>
+      <div class="is-tb-sp">
+        <div class="p-footer-cont c-flex c-col">
+          <ul>
+            <li><a href="/basic/">保険の仕組み</a></li>
+            <li><a href="/basic/sort/life.html">生命保険</a></li>
+            <li><a href="/basic/sort/medical.html">医療保険</a></li>
+            <li><a href="/basic/sort/accident.html">傷害保険</a></li>
+            <li><a href="/glossary/">用語集</a></li>
+            <li><a href="/carna/">タスカルナ</a></li>
+            <li><a href="/login/">従業員</a></li>
+            <li><a href="/konsarun/">こんさるん</a></li>
+            <li><a href="/ais/inquiry.html">お問い合わせ</a></li>
+            <li><a href="/faq/">よくあるご質問・FAQ</a></li>
+            <li><a href="/shop/">保険ショップ一覧</a></li>
+            <li><a href="/houjin/">法人保険</a></li>
+          </ul>
+          <ul>
+            <li><a href="/ais/hansha.html">反社会的勢力対応基本方針</a></li>
+            <li><a href="/kiyaku/social_kiyaku.pdf">ソーシャルメディア利用規約</a></li>
+            <li><a href="/ais/fiduciary_duty.html">お客さま本位の業務運営基本方針</a></li>
+            <li><a href="/sitemap.html">サイトマップ</a></li>
+            <li><a href="/ais/" target="_blank">会社概要</a></li>
+            <li><a href="/ais/job/index.html">採用情報</a></li>
+            <li><a href="/kiyaku/">利用規約</a></li>
+            <li><a href="/ais/privacy.html">個人情報保護方針</a></li>
+            <li><a href="/ais/policy.html">サイトポリシー</a></li>
+            <li><a href="/ais/kanyuu.html">勧誘方針</a></li>
+            <li><a href="https://aeon1p.or.jp/1p/" target="_blank">社会貢献活動（イオン1%クラブ）</a></li>
+            <li><a href="https://www.aeon.info/sustainability/kokoro/" target="_blank">イオン　心をつなぐプロジェクト</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+			<div class="wrap1100">
+				<p class="footLogo">
+					<a href="/">
+						AEON イオンのほけん相談 イオン保険サービス
+					</a>
+				</p>
+				<div class="footSNS">
+					<ul>
+						<li class="footWoodLink"><a href="https://www.aeon.info/sustainability/"><img src="/common2/img/common/footerBannerWood.png" alt="木を植えています 私たちはイオンです。" /></a></li>
+					</ul>
+				<!--/div.footSNS-->
+				</div>
+				<p id="cpr">
+					Copyright(C) AEON INSURANCE SERVICE CO.,LTD. All Rights Reserved.
+				</p>
+			<!--/div.wrap1100-->
+			</div>
+		</footer>
+		
+		<!-- リマーケティング タグの Google コード -->
+        <!--------------------------------------------------
+        タグの設定方法については、こちらのページ
+        http://google.com/ads/remarketingsetup
+        --------------------------------------------------->
+        <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 1015506696;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+        </script>
+        <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+        </script>
+        <noscript>
+        <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1015506696/?guid=ON&amp;script=0"/>
+        </div>
+        </noscript>
+        
+        <!-- リマーケティング タグの Yahoo コード -->
+        <!-- Yahoo Code for your Target List -->
+        <script type="text/javascript">
+        /* <![CDATA[ */
+        var yahoo_ss_retargeting_id = 1000410049;
+        var yahoo_sstag_custom_params = window.yahoo_sstag_params;
+        var yahoo_ss_retargeting = true;
+        /* ]]> */
+        </script>
+        <script type="text/javascript" src="https://s.yimg.jp/images/listing/tool/cv/conversion.js">
+        </script>
+        <noscript>
+        <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="https://b97.yahoo.co.jp/pagead/conversion/1000410049/?guid=ON&script=0&disvt=false"/>
+        </div>
+        </noscript>
+
+
+        <!-- Yahoo Code for your Target List -->
+        <script type="text/javascript" language="javascript">
+        /* <![CDATA[ */
+        var yahoo_retargeting_id = '21BEYZA4XX';
+        var yahoo_retargeting_label = '';
+        var yahoo_retargeting_page_type = '';
+        var yahoo_retargeting_items = [{item_id: '', category_id: '', price: '', quantity: ''}];
+        /* ]]> */
+        </script>
+        <script type="text/javascript" language="javascript" src="https://b92.yahoo.co.jp/js/s_retargeting.js"></script>
+
+
+		<div id="convBtns">
+			<ul>
+				<!--<li><a href="/shop/"><img src="/common2/img/common/miseSoudanBtn.png" alt="近くの店舗で直接相談" /></a></li>-->
+				<!--<li><a href="/mag/"><img src="/common2/img/common/webSoudanBtn.png" alt="メルマガ登録" /></a></li>-->
+			</ul>
+		</div>
+		<p id="gotoTop">
+			<a href="#top"><img src="/common2/img/common/toTop.png" alt="Go to Top"></a>
+		</p>
+        <script type="text/javascript">
+            $(function(){
+                /* スマホフッターのナビ開閉 */
+                $("div.footNavToggle").on("click", function() {
+                    $("nav#footNav div.wrap1100").slideToggle(300);
+                    $(this).toggleClass("fvActive");
+                });
+                /* スマホフッターナビアコーディオン系 */
+                $("nav#footNav p.footNavTtl01").on("click", function() {
+                    var windowWidth = $(window).width();
+                    var windowSm = 740;
+                    if (windowWidth <= windowSm) {
+                        $(this).toggleClass("ftNavSagasuActive");
+                        $("div.footerToggleSagasu").slideToggle(300);
+                    }
+                });
+                $("p.footNavTtlShikumi").on("click", function() {
+                        $(this).toggleClass("footNavTtlShikumiActive");
+                        $("div.footerToggleShikumi").slideToggle();
+                });
+                $("p.footNavTtlJugyoin").on("click", function() {
+                        $(this).toggleClass("footNavTtlShikumiActive");
+                        $("div.footerToggleJugyoin").slideToggle();
+                });
+
+                $("p.footNavTtlCam").on("click", function() {
+                        $(this).toggleClass("footNavTtlCamActive");
+                        $("div.footerToggleCam").slideToggle();
+                });
+                $("p.footNavTtlGrp").on("click", function() {
+                        $(this).toggleClass("footNavTtlGrpActive");
+                        $("div.footerToggleGrp").slideToggle();
+                });
+              $("p.footNavTtlSoudan").on("click", function() {
+                        $(this).toggleClass("footNavTtlSoudanActive");
+                        $("div.footerToggleSoudan").slideToggle();
+                });
+                $("div.footerToggleSagasu p.fnUlToggle").on("click", function() {
+                        $(this).toggleClass("fnUlToggleActive");
+                        $(this).next("ul").slideToggle();
+                });
+            });
+        </script>
+		<script type="text/javascript" src="/common2/js/common.js"></script>

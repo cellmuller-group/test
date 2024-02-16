@@ -1,0 +1,54 @@
+<h2 class="ttl-article-sub">注目記事</h2>
+            <ul class="articleRank">
+                <li>
+                    <div class="articleRank-img"> <img src="/carna/detail/img/250/post246_top.jpg" width="100" alt="" /></div>
+                    <div class="articleRank-txt">
+                        <p class="ico-article other mb-10">その他</p>
+                        <h4 class="ttl-articleRank"><a href="/carna/detail/post246.html">医療保険の先進医療特約は必要？ 先進医療について解説！</a></h4>
+                        <!-- <time class="time">2017.08.01</time> -->
+                    </div>
+                </li>
+                <li>
+                    <div class="articleRank-img"> <img src="/carna/detail/img/250/post232_top.jpg" width="100" alt="" /></div>
+                    <div class="articleRank-txt">
+                        <p class="ico-article other mb-10">その他</p>
+                        <h4 class="ttl-articleRank"><a href="/carna/detail/post232.html">バイクに乗る前に任意保険に加入しましょう！バイクの任意保険について徹底解説！</a></h4>
+                        <!-- <time class="time">2017.10.01</time> -->
+                    </div>
+                </li>
+                <li>
+                    <div class="articleRank-img"> <img src="/carna/detail/img/200/post163_top.jpg" width="100" alt="" /></div>
+                    <div class="articleRank-txt">
+                        <p class="ico-article other mb-10">その他</p>
+                        <h4 class="ttl-articleRank"><a href="/carna/detail/post163.html">外資系保険会社の生命保険、メリット・デメリットは？</a></h4>
+                        <!-- <time class="time">2017.08.01</time> -->
+                    </div>
+                </li>
+                <li>
+                    <div class="articleRank-img"> <img src="/carna/detail/img/200/post160_top.jpg" width="100" alt="" /></div>
+                    <div class="articleRank-txt">
+                        <p class="ico-article other mb-10">その他</p>
+                        <h4 class="ttl-articleRank"><a href="/carna/detail/post160.html">家財保険とは？加入する必要性は？家財保険の理解を深めましょう！</a></h4>
+                        <!-- <time class="time">2017.11.14</time> -->
+                    </div>
+                </li>
+                <li>
+                    <div class="articleRank-img"> <img src="/carna/detail/img/150/post132_top.jpg" width="100" alt="" /></div>
+                    <div class="articleRank-txt">
+                        <p class="ico-article other mb-10">その他</p>
+                        <h4 class="ttl-articleRank"><a href="/carna/detail/post132.html">火災保険の選び方は？オススメの火災保険は？徹底解説します！</a></h4>
+                        <!-- <time class="time">2017.12.20</time> -->
+                    </div>
+                </li>
+            </ul>
+            
+<script>
+$(function() {
+
+//ビックアリンク
+  $('.article-list-box').biggerlink();
+  $('.articleRank li').biggerlink();
+
+});
+
+</script> 

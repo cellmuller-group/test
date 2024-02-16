@@ -1,0 +1,54 @@
+<h2 class="ttl-article-sub">注目記事</h2>
+<ul class="articleRank">
+<li>
+<div class="articleRank-img"> <img src="../images/post117_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 insurance">保 険</p>
+            <h4 class="ttl-articleRank"><a href="/carna/insurance/post117.html">【FP監修】車の任意保険料にかかる金額はいくら？自動車保険料の平均値と、保険料を抑える方法</a></h4>
+        </div>
+    </li>
+
+<li>
+<div class="articleRank-img"> <img src="../images/post310_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 money">お 金</p>
+            <h4 class="ttl-articleRank"><a href="/carna/money/post310.html">【FP監修】今日からできる！相次ぐ値上げを乗り切る方法</a></h4>
+        </div>
+    </li>
+    
+<li>
+<div class="articleRank-img"> <img src="../images/post324_top.png" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 worry">心配事</p>
+            <h4 class="ttl-articleRank"><a href="/carna/worry/post324.html">【FP監修】家族の介護で仕事を辞めないといけない？収入はどうなる？</a></h4>
+        </div>
+    </li>
+    
+<li>
+<div class="articleRank-img"> <img src="../images/post321_top.png" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 lifestage">ライフステージ</p>
+            <h4 class="ttl-articleRank"><a href="/carna/lifestage/post321.html">【FP監修】退職後に必要な社会保険の手続きとは？転職先が決まっていない場合の期限や手続きを解説</a></h4>
+        </div>
+    </li>
+    
+<li>
+<div class="articleRank-img"> <img src="../images/post322_top.jpg" width="100" alt="" /></div>
+        <div class="articleRank-txt">
+            <p class="ico-article mb-10 life">暮らし</p>
+            <h4 class="ttl-articleRank"><a href="/carna/life/post322.html">【FP監修】ガソリン代の高騰はいつまで？家計を圧迫する車の維持費を節約する方法</a></h4>
+        </div>
+    </li>
+    
+    </ul>
+
+<script>
+$(function() {
+
+//ビックアリンク
+  $('.article-list-box').biggerlink();
+  $('.articleRank li').biggerlink();
+
+});
+
+</script> 

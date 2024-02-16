@@ -1,0 +1,52 @@
+<h4 class="NewsCarnaLogo">	<a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','car');">幸せな未来を応援する情報マガジン「タスカルナ」</a></h4>
+
+		<ul class="carnaNews">
+			<li>
+                 <a href="/carna/life/post268.html" onMouseDown="ga('send','event','hokenmarket_top','car168');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post268_top.jpg" alt="" />
+                   <div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>
+                    <h4>【FP監修】意外と知られていない？介護費用の負担を軽減できる「高額介護サービス費制度」</h4>
+                    <p>多くの方が介護に漠然とした不安を抱いています。</p>
+                    <time class="time" datetime="2019-03-22">2019.03.22 更新日：2023.09.06</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/life/post344.html" onMouseDown="ga('send','event','hokenmarket_top','car167');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post344_top.jpg" alt="" />
+                   <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>【FP監修】台風の備えは日ごろから。対策の具体例も紹介</h4>
+                    <p>夏に多く発生する台風、台風がやってくると大きな災害を引き起こすこともあります。</p>
+                    <time class="time" datetime="2023-08-23">2023.08.23</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/insurance/post342.html" onMouseDown="ga('send','event','hokenmarket_top','car166');">
+					<p class="insurance">保 険</p>
+                    <img src="/carna/images/post342_top.jpg" alt="" />
+                   <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>【FP監修】ペット保険は入るべき？メリットとデメリットは？</h4>
+                    <p>大切なペットにもしものことがあった時のための備えの一つにペット保険があります。</p>
+                    <time class="time" datetime="2023-08-16">2023.8.16</time>
+                </a>
+            </li>
+			<li>
+                 <a href="/carna/life/post343.html" onMouseDown="ga('send','event','hokenmarket_top','car165');">
+					<p class="life">暮らし</p>
+                    <img src="/carna/images/post343_top.jpg" alt="" />
+                   <!--<div class="ico-new"><img src="/carna/img/ico-new.png" width="50" height="50" alt="NEW"></div>-->
+                    <h4>【FP監修】暑くなる季節は要注意！食中毒の原因と対処法とは？</h4>
+                    <p>蒸し暑い季節になってくると、食べものが傷みやすくなりますよね。</p>
+                    <time class="time" datetime="2023-08-09">2023.08.09</time>
+                </a>
+            </li>
+		</ul>
+        
+        <p class="newsMore">
+            <a href="/carna/" onMouseDown="ga('send','event','hokenmarket_top','carmore');">
+                もっと見る
+            </a>
+        </p>
+        
+<!-- category   .newsmany,.newsKenko,.newsKodomo,.newsJosei,.newslifestage,.newsworry,.newsEtc -->
